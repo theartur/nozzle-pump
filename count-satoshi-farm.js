@@ -12,56 +12,78 @@ var possibleFundsPhrase = ["funds.*?:.*?\\d+", "balance.*?:.*?\\d+"];
 var possibleRewardsPhrase = ["every.*?\\d+.*?(minute|hour)s?"];
 var possibleReferralPhrase = ["referral.*?(http://)"];
 
+var faucetz = require('nozzle-filtered').results;
+
 var casper = require('casper').create({
     pageSettings: { 
         webSecurityEnabled: false 
     },
     waitTimeout: 60000,
-//     verbose: true,
-//     logLevel: "debug"
+    verbose: true,
+    logLevel: "debug"
 });
 
-casper.start('http://bluesatoshi.com/', function() {
+casper.on('page.resource.requested', function(requestData, request) {
+    if (requestData.url.indexOf('about:blank') > -1) {
+        request.abort();
+    }
     
+    if (requestData.url.indexOf('winning.com--congrats.info') > -1) {
+        request.abort();
+    }
 });
 
-var links = [
-    'http://bluesatoshi.com/'
-];
+var successfulReadCount = 0;
+var totalFunds = 0;
+var idList = [];
 
-casper.start().each(links, function(self, link) {
+function parseFunds(id, match) {
+    var value = parseInt((''+match).replace(/[^0-9]/ig, ''), 10);
+    idList.push({id:id,value:value});
+    if (value) {
+        successfulReadCount++;
+        totalFunds += value;
+    }
+}
+
+casper.start().each(faucetz, function(self, link) {
+    
+    link = link.link;
+    
     self.echo("CHAMANDO " + link);
     
     self.thenOpen(link, function() {
         
-        this.echo("OK " + link);
+        this.echo(" -- OK " + link);
+        this.echo('\n\n\n---\n (' + successfulReadCount + ') TOTAL: ' + totalFunds + "\n\n---");
+        
         var innerText = this.evaluate(function() {
             return document.body.innerText;
         });
         
-        innerText = innerText.trim();
-        
-        this.echo("\n\n\ninnerText: " + innerText + "\n\n\n");
+//         this.echo("\n\n\ninnerText: " + innerText + "\n\n\n");
         
         // get funds
         var foundSomething = [], thisMatch;
         for (var i = 0; i < possibleFundsPhrase.length; i++) {
-            thisMatch = innerText.match(new RegExp(possibleFundsPhrase[i], 'ig'));
+            thisMatch = innerText.match(new RegExp(possibleFundsPhrase[i], 'i'));
 //             thisMatch = innerText.match(new RegExp('balance.*?:.*?\\d+', 'ig'));
             
-            this.echo("\n\n\nthisMatch: " + thisMatch);
-            this.echo("thisMatch: " + typeof thisMatch + "\n\n\n");
+
             
             if (thisMatch) {
-                foundSomething.concat(thisMatch);
+                this.echo("\n\n\nthisMatch: " + thisMatch);
+                parseFunds(link, thisMatch);
+                break;
+                //foundSomething.concat(thisMatch);
             } else {
                 this.echo("NO MATCH FOR " + possibleFundsPhrase[i] + "\n\n\n");
             }
         }
         
-        this.echo("\n\n\n");
-        this.echo(" >>> FOUND SOMETHING!!! " + foundSomething.length + " >>> " + foundSomething.join(" --@@@-- "));
-        this.echo("\n\n\n");
+//         this.echo("\n\n\n");
+//         this.echo(" >>> FOUND SOMETHING!!! " + foundSomething.length + " >>> " + foundSomething.join(" --@@@-- "));
+//         this.echo("\n\n\n");
         
         // get rewards
         // get referral
@@ -72,6 +94,10 @@ casper.start().each(links, function(self, link) {
 
 casper.run(function() {
     // echo results in some pretty fashion
-    this.echo('ALL DONE :)');
+    this.echo('\n\n\n\n\nALL DONE :)\n\n');
+    this.echo('---');
+    //this.echo('LIST: ' + JSON.stringify(idList));
+    this.echo('TOTAL: ' + totalFunds);
+    this.echo('---');
     this.exit();
 });

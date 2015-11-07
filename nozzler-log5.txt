@@ -1,0 +1,1386 @@
+[36m[info][0m [phantom] Starting...
+[36m[info][0m [phantom] Starting...
+CHAMANDO http://bluesatoshi.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://razercrypt.com/btc/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://breaktheco.in/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.safebitco.in?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://theearner.co.in/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://oneadfaucet.com/btc?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://bitcoin.cryptorials.io?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://freebit.website/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://rekbitcoin.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.luckybitfaucet.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://rainingfreebitcoins.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.rapidbitco.in?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.SumoSatoshi.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://rollingfaucet.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://satoshifiesta.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://welovebtc.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://minionsfaucet.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://greenbitco.in?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO https://xchange.cc/bitcoincran/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://valley-bitcoin.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://wallabycoin.link/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://yoshifaucet.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.satoshisfaucet.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.btcon.net?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://fastbtc.net/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.pickupcoin.com/btc?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://thefreebitcoin.website/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://mybestbitcoin.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://waterbitco.in/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://btc-snack.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://funfaucet.one?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://hentenaar.com/faucet?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://faucetsfree.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://bitcoinnewsday.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://destinybtc.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://goldwmr.ru/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://bitkoala.link/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://captchas.rocks?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://clumsybitcoin.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://minions-faucet.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.oceanbitcoin.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://frog-btc.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://btc-tree.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://faucetbox.cryptal.net?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://bitcoinsblue.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.jazfaucetlist.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://faucetsgalaxy.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://faucetmonkey.com/bitcoin.php?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://freshcoins.ru/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://allbtcfree.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://bitcoincoin.online/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.favoritefaucets.com/btc-faucet/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://free-satoshi.eu?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.hyperbtc.net/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://faucetstarbtc.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://btc4me.xyz/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://bitcoinker.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.freebtc.co.in?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://btcmsk.com/faucet/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://faucetplanet.net/bitcoin.php?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://chicken-btc.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://fasterbit.ru/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://web-socnet.ru?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.partybang.eu?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://bitcoon.xyz/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.freembtc.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://one-percent.ru/cran/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://faucet.bitcoins43.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://earnbitcoinonline.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://freebtc.in.ua/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://btcdrips.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://aquabitcoin.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://bitkran4ik.ru?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://200btc.ru/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://freesatoshi.com.ua/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://givecoins.net/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.skolingas.eu?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://faucet-bitco.in/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://bee-bit.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://getmybitcoin.info?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.starsfaucet.com/faucet.php?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://bitcoin-faucet.cryptomonitor.net/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://frogbtc.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.caimanbitcoin.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.coinfreebtcve.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://workrunet.info/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://faucetgolden.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://yourfaucet.net/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://faucetfm.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://neobitcoinfaucet.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://bitcobear.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://thefaucetbanker.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://getmyfaucetbtc.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.hourlybitcoin.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://artbitco.in/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://jrswab.com/justgetbit?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.bitcoin-hourly.xyz?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://faucetsatoshi.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://crypto4free.net?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://ptcnote.com/faucet/btc/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.faucet.zarabotat-bitcoin.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://huntercoin.website?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://luckyfaucet.ru/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://giantbitcoin.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://faucet.workrunet.net/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://topfreebtc.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.thefaucetrunner.com/faucet/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://ScoutFaucet.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://faucet.ogsi.it?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://bctec.ru/faucet?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://qoinfaucet.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.satoshidrip.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://earnbitcoinonline.com/1?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://xbit.co.in?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.bitcoinerz.eu?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.intemi.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://fastcoin.xyz?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://jazzbitcoin.ru?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://btcboom.xyz/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.claimbtc.info?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://gold-bit.co.in?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://btc-faucet.eu?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://b-d.club/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://btcforme.xyz?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.tracecoinfaucet.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://sunbitcoin.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.freecbtc.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://getsatoshi.xyz/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://silver-faucet.ogsi.it/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://givemecoins.xyz?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://bitcet.net?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://cryptogolds.com/Bitcoin/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://supersatoshi.xyz/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://solarsystemfaucet.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://faucet-coins.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://investmentwp.com/faucet/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://bitcoin-catcher.com/faucet?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://freebitcoins.online?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://viratime.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://freedombit.co.in/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://bitcoinfreerotator.com/bitcoin/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://thefaucethunter.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.btcgoldrush.biz?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://coinator.net?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://freebitcoinz.tk?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://faucetbitcoin.ru?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://deltascraft.net?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.bitcointheguide.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://bitpacman.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://cryptocoiners.net/free?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.freeebtc.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.100satoshi.net/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://wsxgames.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://faucetbox.bitcoinr.cz/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.faucetwin.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://hundredakerwood.com/faucet-BTC?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.faucetbox.xyz/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://allbtc.ru/btc/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://btc.re/faucet?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://5minbtc.info?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://realbitcoin.esy.es/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://petrofaucet.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://bitscoins.ru/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://faucetix.ru?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://freebtc.us?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://foxfaucetbitcoin.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://tr4.eu?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://elenabitco.in/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://faucet.mastermindga.me?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://drawcoins.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://cryptocurrency-news.com/faucet/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://claimco.in/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.bitcoinfree4you.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://freebtcfaucet.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://elegantfaucet.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.tdwcoinfree.biz?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://faucet.adictosaldinero.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://bitcoin.payspigot.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://i-btc.com.pl?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.faucet.ncjeux.fr?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.freembtc.me/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://earnbitcoinonline.com/2?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://thefaucetfarmer.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://earnbitcoinonline.com/4?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://richbtc.ga?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.hotbitco.in?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://faucetbox.winco.in/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://bitfall.co?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.DailyHits.website?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://freeco.in.ua/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://bitcoiner.net?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.letsgoo.de/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://blackout.altervista.org/faucet/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.geo-btc.com/Btc/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://faucetsunbtc.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://xbtc.info?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.mrchocobit.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.bit-essence.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://redfaucet.pw?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://playbitco.in/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://dankbitcoin.site/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://givemebtc.xyz/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://faucetup.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://beta.bithits.info?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://freebetco.in/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://bitcoin.lps.by/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://faucet.bitlucky.org/btc/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://navjob.info/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.forbit.co.in?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://bitcet.xyz?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://starcraft.pw?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://sclib.pw?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://woweu.pw?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://labitcoins.cu.cc/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://wowgold.pw?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://busbitco.in/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://bitflips.info?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://flashbtc.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://ifaucet.xyz?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://freegen.tk?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://btcearn.ml/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://freewebmoney.ga/faucet/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://fr-ee-bitcoin.eu/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.freebitcoinfaucet.website/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://123.bitcoinaplenty.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://bitcoin-talk.ml/faucet/smiile-faucet?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://brasilfaucet.net/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://greenfaucet.ru/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://vivers-bitcoin.ru/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://bitcoin-data.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.bitcoinvsprice.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://freebitcoin2016.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://btc-4-free.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://freecoins.info?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://BitcoinsClick.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://earnbitcoinonline.com/3?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.btc4.click?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://jupiterbitcoin.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://get-free-bitcoin.net/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.worldyouth.info/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://faucet.web.id/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.freecbtc.me/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://czarbitcoin.com.br?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://faucet.onion.nu/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://monsterfaucet.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.faucetbox.net?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://faucetpool.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO https://fbc.site?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://ifaucet.info?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://yourdailybitcoins.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.minibtcfaucet.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://getbitco.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://faucet-bitco.in.ua?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.naguarabitcoin.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://btc.gaincoinz.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://supercoinfaucet.tk?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://faucet.dealcentralen.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://bitcoinkran.ru/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.beermoneyfaucet.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://earnbitcoin.club/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO https://freefaucetcoin.com/Faucet/BITCOIN/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://givemebit.co/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://sc2.pw/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://freebtsocean.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://bigcoin.ml/bitcoin/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://bitcoingala.xyz?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://binaryoptions-news.com/faucet/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.earnfreesatoshis.science?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://freebtc4u.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://faucet.bitcoinlatin.net?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://bitcoinsforfree.me/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.jobbitcoin.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://sakkeem.com/bitcoin?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://10xbtc.com/faucet/faucetinabox-r54?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.faucetbit.co.in?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://printmoney.info?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://dailyfreebits.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://greenfaucet.cf/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.paysrev.biz/faucet/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://faucetplus.tk/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://hotbtc.us?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.claimfreebitcoin.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://fastbitcoin.faucetfly.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.gimlifaucet.eu?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://fastbtc.pw/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.makefreebtc.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://thanksbitcoin.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://electrum-faucet.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.babyfreebtc.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://monsterfaucet.tk/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://btc-mountain.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.zonebitcoin.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.insatoshi.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://bitcoinshowers.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://bitcoinwiki.website?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://btcoinsworld.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.caribit.co.in?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://freebitcoinyour.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://faucet.cryptbond.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://polyfaucet.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://terrabtcfaucet.cu.cc/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://faucet.gibitcoins.me?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://freebitcoin.in/faucet/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://bithopp.com/bitcoin?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://alfa-btc.ru/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://earncoin.us?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://claimbtc.us?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://btcfaucet.ru?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://beta-btc.ru/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.mudarhost.com.br/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://dogecoinfree.ru/bitcoinfaucet/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://bitcoingiftaway.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://gamma-btc.ru/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://coin-land.info/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://delta-btc.ru/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://bitcoinfree.es?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://earnbitcoinonline.com/5?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://bullfaucet.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://faucet.coinbanned.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://nukemcoin.ml/bitcoin/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://bitblitz.tk/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO https://pppfaucet.com/bitcoin?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://bittendofaucet.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.getcoin.eu?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.bitcoindevil.com/faucetbtc/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://topcryptoco.in?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://bit1.click/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://btc-for-free.tk?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://bitlove.win/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.coinprizes.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.takebitco.in?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://getyourfreebitcoins.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://faucet.futuredigitalmoney.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://xhosmedia.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://mycoinads.com/faucet/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://manysatoshis.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://wot-farm.ru?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://sharkfaucet.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://goldbitcoin.eu5.org?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://soyvillanueva.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.free4faucet.com/faucet/bitcoin/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://free-bit.pp.ua/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.SatoshiHits.website?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://bitcoinfrees.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://plutobit.net46.net/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.coinerfaucet.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://freebitcoin.pk?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.earnabitco.in?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://faucet.invest-btc.net/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://bitus.xyz?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://bitcrypto.cf?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://ntr5.ru/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://btc.pasztisoft.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://bitcoinmad.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://cur.lv/nghkw?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.blackbtcs.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.cryptoblox.com/faucets/BitCoin/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.predimaniabits.com/predifaucet/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://bit.coinbanned.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.freesatoshibitcoin.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://blue-faucet.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.freebitcoinusa.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://goldsilver.kiev.ua/faucet?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://anfaucet.ru/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.BitFree.co?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://rouletkacraft.ru/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://cryptun.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://BitCoin.NewServiceNetWork.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.freebtcoins.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.bitboxnewyork.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://bigfaucet.ml/index.php?f=?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://bitfreefaucet.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.videoripper.de/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://cari-btc.us?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://revistaosanta.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://1stbitco.in/faucetbox/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.shopstartco.in/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://bitckerz.net/faucet.php?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://revistaosanta.com.br/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://infinitebtc.tk?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://faucet.ynef.net/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://bitcoinmonsoon.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://xn-----7kcbbbr8aaficfrsjefbfd6f8fydh.xn--j1amh/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://blueravencoins.website/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://bitoshka.ru/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://superdeal-faucet.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://cointasker.com/bitcoin-faucet/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://bitboxlosangeles.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://888bitco.in/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://btc.clique.website?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://getfaucet.ru?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://bitgold.ml/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://faucetbiz.ru/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.tomatusatoshi.xyz?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://faucet.digitalcoins.ru/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://kofaucet.ru?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://faucetbee.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://bitmaza.net?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.chilliscorpion.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://btcneon.biz.tm?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://bitonchik.ru/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://komafaucet.ru?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.freebtc.allmof.net/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://cstrsk.de/faucet/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://apecoin.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.boicoteate.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://bitsy.co.in?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://de-btc.tk?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://bitcon.ml/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://afewsatoshis.xyz/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://btcfaucet1.hol.es/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://drolena.faucetfly.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://satfaucet.ru?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://333bitcoin.esy.es?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.empiria.fi?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://bitcoinscollect.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://faucetdog.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://faucetflash.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://gevemecoin.net/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://your-free-btc.info?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://casinofaucetbitc.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO https://bit-free.xyz?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.faucetiva.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://vipbitcoin.ru?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://lakefaucet.eu?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://coin-x.ru/bitcoin/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.cmmonitor.com/btc/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://cointhief.eu?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://knolix.com/53b3373bb7635/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://sumosatos.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://bitcoin-faucet.space?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://btc.rena-faucet.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.chesimangia.it/microfaucet/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://bitganancias.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://faucet.bitcoinclub.eu/latvia?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.faucetmania.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://artfaucet.ru/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://faucet.bitcoinclub.eu/lietuva/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://damebitcoin.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://faucet.csingenieros.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://freebitclick.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://vafaucet.ru?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://tortugafirefaucet.info?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://btcsoft.ru?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.warhammer-coin.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.juraganfaucet.info/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://mybitfaucet.ru/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://asteroids.pw?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://mybitco.in.net/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://bitcoinplaats.be?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.gobitcoin.co/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.yoursato.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.cmmonitor.com/btc-free/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.integralcoin.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://infaucet.ru?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.easybitcoin.pw/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.subicoin.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://my-bitco.in?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://btc.altcoinrain.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://vatfaucet.ru?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://omneity.me/faucet/faucet.php?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://ozycash.faucetfly.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://faucetbitcoin.eu/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://faucetpowerful.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://faucetcomic.info?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://millio.io?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://bitcoinzworld.ru/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://infaucet.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://btcoasis.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO https://bitcoin.town/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://alienmoneybtc.net/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://earnbtc.work?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://fairy-faucet.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://free-bitcoin.club/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://faucet.bitcoinclub.eu/faucetbox/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://smsrook.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://satoshigratis.info?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://bitmineads.ru?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://faucet.bitcoinclub.eu/sweden/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://faucet.bitcoinclub.eu/finland/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://takeourbtc.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://free-bitcoin.eu?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://woobitco.in/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://coinator.info/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://getyourcoin.ga/btc/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://refer4bitcoin.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://getmybtc.bestfaucet.net?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://bitcoinlist.xyz/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://my-bit.co.in?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO https://perfect-bitcoins.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://bitmoney.zz.vc/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://megabtclotery.esy.es/btc/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://best-coin.info?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://earnbtc4free.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://free-coins.info/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://donaldcoin.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://coinsteller.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.faubtcshis.net?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.bitcoin-gator.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO https://www.faucetbtcbest.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.satoshigranja.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://superfaucet.ru/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://bitreklama.ru?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://faucet.bitcoinclub.eu/spain/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://andfaucet.ru?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://HundredAkerWood.com/BORG?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://bitkranik.ru/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://megafaucet.ru/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://coinfaucet.ru/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://satoshik.ru/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.biflaucet.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.techguide.fr?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.bitkran.tk/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://pokemonfaucet.esy.es/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO https://ganarbitcoin.info?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://laitfaucet.ru?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://ultra-coin.info/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://fastcoin.ml/bitfaucet/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO https://faucetargenta.info?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://chickenfaucet.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://btc.in.ua/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.emulecoin.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://bitcoin.jatik.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://shrouded-sea-9562.herokuapp.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://plus.bitganancias.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://fortuna.online/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://obmen4ik.ru/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://wesbitcoin.eu?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO https://surfast.ru?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://hybryda2005.pl/faucet2/btc/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://satoshisfree.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://bits2go.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://a.winspiral.net?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://c-free.info?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://styleswimsuit.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://bitcoin24.ml/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://super-coin.info/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://faucetfreesatoshis.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://btc-free.info/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://coin-mine.info?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://love-bitcoin.info/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://btcandfinance.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://ultra-btc.info/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://bitcoin24.cf/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://p-free.info/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://btc-free.eu?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://faucetbit.eu?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://faucetworld.eu/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.siizo.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.faucetfreebitcoin.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.zillz.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://getthebitcoin.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.faucetbitcoins.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.prizebitcoins.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://btcfaucetfree.info?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://dustbit.pw/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://faucetstrong.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://super-bitcoins.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://catsfaucet.su?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://forcrypto.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://thepowermoneysystem.info?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://earnbtconline.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://faucetbit.ru/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://itsrainingbitcoins.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://emaxbb.tk?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.pakfaucet.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://bestbitcoinfaucet.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.peopleperbitcoin.com/faucet/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://youbit.su?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.btcfixer.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://qoinmicro.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://goo.gl/2Lxl69?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://tootbitco.ml/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://vipfaucet.tk/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://purplehomebtc.tk/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://gigabtc.info?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.bitfaucet.eu/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://bitfree.pw/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://dogsfaucet.su?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://faucetbitcoin.net?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://btc.freecoin.space?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.satoshi-beach.net?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.marsfaucet.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://happybit.org/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.superbtcrewards.tk?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://light-bitcoin.ru?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.btcsonline.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://giftsatoshi.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://blizzard.pw/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.satofaucet.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://btchd.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://yibifaucet.tk?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://faucet-btc.ml/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://hstn.pw/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://zzbitcoin.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://sarahsways.doublebitcoins.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://mbtc.cf?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.predimania.com/faucet/index.php?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.ruchosfaucet.cu.cc?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://bitcoinmarketbtc.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://bitcoinpalooza.ml?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.BitFree.in?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://dropbit.faucetfly.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://bbits.ru?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://aion.pw/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://bitinnet.com/bitcoin-faucet?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://ll2.pw?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://dimensionfaucet.info/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.newbitcoinzebra.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://coolwebinfo.eu/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://freebtc.usa.cc?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://coino.cf?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://freebtcforalll.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.captchaygana.x10.mx/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://freebtsocean.info/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://madfaucet.cf/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.blockchain-library.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://fastbitcoin.cf/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://coins4u.xyz/index.php?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.freebitcoinsmake.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://maxxfaucet.com/big-bitcoin/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://maxxfaucet.com/bitcoin-super/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://thebitcoin.space/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://allbitcoin.info/free?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://bitcoins.4freeisgood.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://bitcoinsland.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://way2btc.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://007megafaucet.r4u.nl/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.wytewolfbtc.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://bitcofree.tk/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://newsatoshi.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.usafaucet.tk?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://zybitcoin.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://f3-btc.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.satoshiparadise.esy.es/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://bitads.webatu.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.winfreebit.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://getbtc.today/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.abicoin.net/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://geniusgames.com/bitcoin/btcfaucet?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.moonsatoshi.xyz/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://btcbros.website?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://worldfullcoin.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://bi46ft4vv.faucetfly.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.dragon-btc.cu.cc?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.dailybitcoinfaucet.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://minerbit.co.in?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://driftwurld.herobo.com/index.php?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://bit-lucky.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://recycledrobot.co.uk/faucets/btc?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://faucet2moon.xyz/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://straetzi.de?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://maxxfaucet.com/big-deal-bitcoin/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://1btcfree.mx/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://heroesfaucet.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://freebitcoinsx.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://an00.ru/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://01.an00.ru/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://bigfaucet.eu/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://btc.tanpaulus.xyz/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.city-faucet.net?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://freemobilesoftware.net/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://thecoincow.pw?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://bit-free.tk/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://sharethecoins.xyz?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://rainofcoins.tk?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://finansmania.xyz?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.bit-co.in.ua/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://freebitcoin.in/btc/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO https://faucet.lazuliproject.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://free-btc.us?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO https://www.cointoast.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.visitmania.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.ziomik.net/rubinetto/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://megabitcoin.ru/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.luckybitco.in/faucet?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.widtoc.com/BTCfaucet?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://argentumfaucet.xyz?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://candyfaucet.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://tipaul.hst.im?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://btc-cash.ru?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://satoshiclick.tk?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.faucetbit.xyz?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.botacoin.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://bitcoinchest.ml?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://bitcointurkiye.esy.es/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.getcoin2.com/btc?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://btc.crypt-faucets.tk/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://maxxfaucet.com/bitcoin-minute/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://maxxfaucet.com/mining-bitcoin/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://maxxfaucet.com/maxx-faucet/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://ouo.io/ZE7v4r?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://maxxfaucet.com/bitcoin-faucet/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://247cryptonews.com/faucet/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://maxxfaucet.com/falling-bitcoin/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://maxxfaucet.com/bitcoin-round/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://maxxfaucet.com/gain-bitcoin/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://maxxfaucet.com/bitcoin-hour/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://maxxfaucet.com/get-bitcoins/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://thecoincaw.site11.com/thecow/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://faucetbitlist.altervista.org/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://bitrec.ml/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://1btcfau.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://ganardinerobtc.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://freebitcoinsgolds.info/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://4season-faucet.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://theebux.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://luckycoin.me?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://777btc.cf?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://bitcoincriptomoney.esy.es?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://ultrabtc.cu.cc/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://faucet.omnibot2k.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.altcoinsnews.com/faucet/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.yokocoin.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.bitcointowallet.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://bitcoingift.nx.tc?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://freebitcoins.usa.cc?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://btcfaucetfree.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://faucet.hazedhosting.com/index.php?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://sarahscoins.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://midbit.faucetfly.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://satoshifree.org/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://bitcoincada10minutos.rafaeltorres.ws?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://bitcoinsfreeme.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://freebitcoincity.tk/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://netinvestmentblogfaucet.cf/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://faucet1.galeradatecnologia.top/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://chuckcoin.info/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.btcanalys.es/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://aunderrednua.tk/faucet/bitcoin/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://bitbink.com/faucet?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://granfaucet.tk/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.ruby-finder.net?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://wildwest.bitcoin4.us?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://www.boxclikz.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://free1bitco.in?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://btc333.ru/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://mothershipfaucet.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://mshinabtc.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://freebitcoinstoyou.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://illuminatifaucet.eu?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://bitcoinrafa.pe.hu?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://feedex.eu?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://bitcoinesia.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO http://satoshiforyou.eu/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+CHAMANDO https://satoshifree4ever.info?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+[36m[info][0m [phantom] Running suite: 1492 steps
+[32;1m[debug][0m [phantom] opening url: http://bluesatoshi.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC, HTTP GET
+[32;1m[debug][0m [phantom] Navigation requested: url=http://bluesatoshi.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC, type=Other, willNavigate=true, isMainFrame=true
+[32;1m[debug][0m [phantom] url changed to "http://bluesatoshi.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC"
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://googleads.g.doubleclick.net/pagead/html/r20151103/r20151006/zrt_lookup.html, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=http://adbit.co/adspace.php?a=K2JHDG1ODW86S, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=http://adbit.co/adspace.php?a=RC5CK07S4HCGI, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-3352387902655122&format=336x280&output=html&h=280&slotname=7219168959&adk=1168621332&w=336&lmt=1446756288&ea=0&flash=0&url=http://bluesatoshi.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC&wgl=0&dt=1446756288650&bpp=7&fdt=9&idt=125&shv=r20151103&cbv=r20151006&saldr=aa&correlator=3208101406721&frm=20&ga_vid=879218102.1446756289&ga_sid=1446756289&ga_hid=1650505083&ga_fc=0&pv=2&u_tz=0&u_his=1&u_java=0&u_h=768&u_w=1024&u_ah=768&u_aw=1024&u_cd=32&u_nplug=0&u_nmime=0&dff=lucida grande&dfs=12&adx=654&ady=303&biw=400&bih=300&eid=575144605,317150304&oid=3&rx=0&eae=4&fc=88&pc=0&brdim=0,0,0,0,1024,0,0,0,400,300&vis=0&rsz=|d||&abl=NS&ppjl=f&pfx=0&fu=1040&bc=1&ifi=1&dtd=151, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://www.google.com/recaptcha/api2/anchor?k=6Leq1gwTAAAAAPnLBTRb2liyk9EaPgkz8lYistyn&co=aHR0cDovL2JsdWVzYXRvc2hpLmNvbQ..&hl=en&v=r20151013164303&size=normal&usegapi=1&jsh=m;/_/scs/apps-static/_/js/k=oz.gapi.en_US.4FKFoWCIF4w.O/m=__features__/am=AQ/rt=j/d=1/t=zcms/rs=AGLTcCMXNYv6sbPhZJzmBm7atF39_ZXK1w#id=I0_1446756288993&parent=http://bluesatoshi.com&pfname=&rpctoken=27386637, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://s0.2mdn.net/ads/richmedia/studio/pv2/38122922/20150918123208590/index.html?e=69&renderingType=2&leftOffset=0&topOffset=0&c=smrmZuVKn4&t=1, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Successfully injected Casper client-side utilities
+[36m[info][0m [phantom] Step anonymous 2/1492 http://bluesatoshi.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC (HTTP 200)
+OK http://bluesatoshi.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+NO MATCH FOR funds.*?:.*?\d+
+
+
+
+
+
+
+thisMatch: Balance: 21808632
+[36m[info][0m [phantom] Step anonymous 2/1492: done in 3476ms.
+[32;1m[debug][0m [phantom] opening url: http://razercrypt.com/btc/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC, HTTP GET
+[32;1m[debug][0m [phantom] Navigation requested: url=http://razercrypt.com/btc/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC, type=Other, willNavigate=true, isMainFrame=true
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] url changed to "http://razercrypt.com/btc/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC"
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://googleads.g.doubleclick.net/pagead/html/r20151103/r20151006/zrt_lookup.html, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-6754402479932113&format=336x280&output=html&h=280&slotname=1291774380&adk=3942849580&w=336&lmt=1446756292&ea=0&flash=0&url=http://razercrypt.com/btc/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC&wgl=0&dt=1446756292313&bpp=9&fdt=12&idt=29&shv=r20151103&cbv=r20151006&saldr=aa&correlator=8435244570625&frm=20&ga_vid=83190939.1446756292&ga_sid=1446756292&ga_hid=261492868&ga_fc=0&pv=2&u_tz=0&u_his=2&u_java=0&u_h=768&u_w=1024&u_ah=768&u_aw=1024&u_cd=32&u_nplug=0&u_nmime=0&dff=verdana&dfs=12&adx=240&ady=401&biw=400&bih=300&eid=575144605,317150304,4087392&oid=3&rx=0&eae=4&fc=88&pc=0&brdim=0,0,0,0,1024,0,0,0,400,300&vis=0&rsz=d|||p&abl=XS&ppjl=u&pfx=0&fu=1040&bc=1&ifi=1&dtd=55, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=http://adbit.co/adspace.php?a=RC5CK07S4HCGI, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://googleads.g.doubleclick.net/pagead/drt/s?v=r20120211, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://cm.g.doubleclick.net/push?client=ca-pub-6754402479932113&srn=gdn, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Successfully injected Casper client-side utilities
+[32;1m[debug][0m [phantom] Navigation requested: url=https://www.google.com/pagead/drt/ui, type=Other, willNavigate=true, isMainFrame=false
+[36m[info][0m [phantom] Step anonymous 4/1492 http://razercrypt.com/btc/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC (HTTP 200)
+OK http://razercrypt.com/btc/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+NO MATCH FOR funds.*?:.*?\d+
+
+
+
+
+
+
+thisMatch: Balance: 44170982
+[36m[info][0m [phantom] Step anonymous 4/1492: done in 8295ms.
+[32;1m[debug][0m [phantom] Navigation requested: url=https://googleads.g.doubleclick.net/pagead/drt/si, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] opening url: http://breaktheco.in/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC, HTTP GET
+[32;1m[debug][0m [phantom] Navigation requested: url=http://breaktheco.in/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC, type=Other, willNavigate=true, isMainFrame=true
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=http://www.breaktheco.in/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC, type=Other, willNavigate=true, isMainFrame=true
+[32;1m[debug][0m [phantom] url changed to "http://www.breaktheco.in/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC"
+[32;1m[debug][0m [phantom] Successfully injected Casper client-side utilities
+[36m[info][0m [phantom] Step anonymous 6/1492 http://www.breaktheco.in/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC (HTTP 200)
+OK http://breaktheco.in/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+NO MATCH FOR funds.*?:.*?\d+
+
+
+
+NO MATCH FOR balance.*?:.*?\d+
+
+
+
+[36m[info][0m [phantom] Step anonymous 6/1492: done in 11856ms.
+[32;1m[debug][0m [phantom] opening url: http://www.safebitco.in/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC, HTTP GET
+[32;1m[debug][0m [phantom] Navigation requested: url=http://www.safebitco.in/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC, type=Other, willNavigate=true, isMainFrame=true
+[32;1m[debug][0m [phantom] url changed to "http://www.safebitco.in/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC"
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=http://static.ak.facebook.com/connect/xd_arbiter/wjDNIDNrTQG.js?version=41#channel=f3f4ec083&origin=http://www.safebitco.in, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://s-static.ak.facebook.com/connect/xd_arbiter/wjDNIDNrTQG.js?version=41#channel=f3f4ec083&origin=http://www.safebitco.in, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://web.facebook.com/connect/ping?client_id=1461409087511299&domain=www.safebitco.in&origin=1&redirect_uri=http://static.ak.facebook.com/connect/xd_arbiter/wjDNIDNrTQG.js?version=41#cb=fe891cb3c&domain=www.safebitco.in&origin=http%3A%2F%2Fwww.safebitco.in%2Ff3f4ec083&relation=parent&response_type=token,signed_request,code&sdk=joey, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Successfully injected Casper client-side utilities
+[36m[info][0m [phantom] Step anonymous 8/1492 http://www.safebitco.in/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC (HTTP 200)
+OK http://www.safebitco.in?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+NO MATCH FOR funds.*?:.*?\d+
+
+
+
+NO MATCH FOR balance.*?:.*?\d+
+
+
+
+[36m[info][0m [phantom] Step anonymous 8/1492: done in 19930ms.
+[32;1m[debug][0m [phantom] opening url: http://theearner.co.in/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC, HTTP GET
+[32;1m[debug][0m [phantom] Navigation requested: url=http://theearner.co.in/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC, type=Other, willNavigate=true, isMainFrame=true
+[32;1m[debug][0m [phantom] url changed to "http://theearner.co.in/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC"
+[32;1m[debug][0m [phantom] Successfully injected Casper client-side utilities
+[36m[info][0m [phantom] Step anonymous 10/1492 http://theearner.co.in/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC (HTTP 200)
+OK http://theearner.co.in/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+NO MATCH FOR funds.*?:.*?\d+
+
+
+
+NO MATCH FOR balance.*?:.*?\d+
+
+
+
+[36m[info][0m [phantom] Step anonymous 10/1492: done in 23835ms.
+[32;1m[debug][0m [phantom] opening url: http://oneadfaucet.com/btc?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC, HTTP GET
+[32;1m[debug][0m [phantom] Navigation requested: url=http://oneadfaucet.com/btc?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC, type=Other, willNavigate=true, isMainFrame=true
+[32;1m[debug][0m [phantom] Navigation requested: url=http://oneadfaucet.com/btc/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC, type=Other, willNavigate=true, isMainFrame=true
+[32;1m[debug][0m [phantom] url changed to "http://oneadfaucet.com/btc/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC"
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://googleads.g.doubleclick.net/pagead/html/r20151103/r20151006/zrt_lookup.html, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-3352387902655122&format=336x280&output=html&h=280&slotname=4770720152&adk=2276920569&w=336&lmt=1446756312&ea=0&flash=0&url=http://oneadfaucet.com/btc/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC&wgl=0&dt=1446756312401&bpp=9&fdt=14&idt=35&shv=r20151103&cbv=r20151006&saldr=aa&correlator=4571961542657&frm=20&ga_vid=1394178828.1446756312&ga_sid=1446756312&ga_hid=1724660425&ga_fc=0&pv=2&u_tz=0&u_his=6&u_java=0&u_h=768&u_w=1024&u_ah=768&u_aw=1024&u_cd=32&u_nplug=0&u_nmime=0&dff=verdana&dfs=12&adx=142&ady=309&biw=400&bih=300&eid=575144605,317150304,4087070&oid=3&rx=0&eae=4&fc=88&pc=0&brdim=0,0,0,0,1024,0,0,0,400,300&vis=0&rsz=|||&abl=CS&ppjl=u&pfx=0&fu=1040&bc=1&ifi=1&dtd=75, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=http://adbit.co/adspace.php?a=K2JHDG1ODW86S, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=http://adbit.co/adspace.php?a=RC5CK07S4HCGI, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://www.google.com/recaptcha/api2/anchor?k=6LdnygwTAAAAAEjmXNxJZb1pwivcqJzpbeiz1LHM&co=aHR0cDovL29uZWFkZmF1Y2V0LmNvbQ..&hl=en&v=r20151013164303&size=normal&usegapi=1&jsh=m;/_/scs/apps-static/_/js/k=oz.gapi.en_US.4FKFoWCIF4w.O/m=__features__/am=AQ/rt=j/d=1/t=zcms/rs=AGLTcCMXNYv6sbPhZJzmBm7atF39_ZXK1w#id=I0_1446756312552&parent=http://oneadfaucet.com&pfname=&rpctoken=41883672, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://cm.g.doubleclick.net/push?client=ca-pub-3352387902655122&srn=gdn, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Successfully injected Casper client-side utilities
+[36m[info][0m [phantom] Step anonymous 12/1492 http://oneadfaucet.com/btc/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC (HTTP 200)
+OK http://oneadfaucet.com/btc?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+NO MATCH FOR funds.*?:.*?\d+
+
+
+
+
+
+
+thisMatch: Balance: 5503940
+[36m[info][0m [phantom] Step anonymous 12/1492: done in 26035ms.
+[32;1m[debug][0m [phantom] opening url: http://bitcoin.cryptorials.io/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC, HTTP GET
+[32;1m[debug][0m [phantom] Navigation requested: url=http://bitcoin.cryptorials.io/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC, type=Other, willNavigate=true, isMainFrame=true
+[32;1m[debug][0m [phantom] url changed to "http://bitcoin.cryptorials.io/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC"
+[32;1m[debug][0m [phantom] Navigation requested: url=http://bee-ads.com/ad.php?id=5038, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=http://ads.bcsyndication.com/get.php?s=7392, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=http://ads.bcsyndication.com/get.php?s=7397, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://googleads.g.doubleclick.net/pagead/html/r20151103/r20151006/zrt_lookup.html, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-0874257089612465&format=336x280&output=html&h=280&slotname=3119234943&adk=2032391625&w=336&lmt=1446756313&ea=0&flash=0&url=http://bitcoin.cryptorials.io/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC&wgl=0&dt=1446756313711&bpp=11&fdt=14&idt=32&shv=r20151103&cbv=r20151006&saldr=aa&correlator=4143524259841&frm=20&ga_vid=1490031438.1446756314&ga_sid=1446756314&ga_hid=1420510054&ga_fc=0&pv=2&u_tz=0&u_his=7&u_java=0&u_h=768&u_w=1024&u_ah=768&u_aw=1024&u_cd=32&u_nplug=0&u_nmime=0&dff=helvetica neue&dfs=14&adx=32&ady=802&biw=400&bih=300&eid=575144605,317150304,4087317,20040050&oid=3&rx=0&eae=4&fc=88&pc=0&brdim=0,0,0,0,1024,0,0,0,400,300&vis=0&rsz=|||&abl=CS&ppjl=u&pfx=0&fu=1040&bc=1&ifi=1&dtd=57, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-0874257089612465&format=336x280&output=html&h=280&slotname=3119234943&adk=2941586609&w=336&lmt=1446756313&ea=0&flash=0&url=http://bitcoin.cryptorials.io/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC&wgl=0&dt=1446756313775&bpp=2&fdt=3&idt=20&shv=r20151103&cbv=r20151006&saldr=aa&prev_fmts=336x280&correlator=4143524259841&frm=20&ga_vid=1490031438.1446756314&ga_sid=1446756314&ga_hid=1420510054&ga_fc=0&pv=1&u_tz=0&u_his=7&u_java=0&u_h=768&u_w=1024&u_ah=768&u_aw=1024&u_cd=32&u_nplug=0&u_nmime=0&dff=helvetica neue&dfs=14&adx=32&ady=1235&biw=400&bih=300&eid=575144605,317150304,4087317&oid=3&rx=0&eae=4&fc=88&pc=0&brdim=0,0,0,0,1024,0,0,0,400,300&vis=0&rsz=|||&abl=CS&ppjl=u&pfx=0&fu=1040&bc=1&ifi=2&dtd=43, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-0874257089612465&format=336x280&output=html&h=280&slotname=3119234943&adk=2032391625&w=336&lmt=1446756313&ea=0&flash=0&url=http://bitcoin.cryptorials.io/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC&wgl=0&dt=1446756313824&bpp=2&fdt=2&idt=29&shv=r20151103&cbv=r20151006&saldr=aa&prev_fmts=336x280,336x280&correlator=4143524259841&frm=20&ga_vid=1490031438.1446756314&ga_sid=1446756314&ga_hid=1420510054&ga_fc=0&pv=1&u_tz=0&u_his=7&u_java=0&u_h=768&u_w=1024&u_ah=768&u_aw=1024&u_cd=32&u_nplug=0&u_nmime=0&dff=helvetica neue&dfs=14&adx=32&ady=1687&biw=400&bih=300&eid=575144605,317150304,4087317&oid=3&rx=0&eae=4&fc=88&pc=0&brdim=0,0,0,0,1024,0,0,0,400,300&vis=0&rsz=|||&abl=CS&ppjl=u&pfx=0&fu=1040&bc=1&ifi=3&dtd=55, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=http://seg.sharethis.com/getSegment.php?purl=http://bitcoin.cryptorials.io/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC&jsref=&rnd=1446756313975, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://adfarm.mediaplex.com/ad/fm/27722-216270-36959-619?mpt=1293946659&mpvce=1&mpvc=http://www.googleadservices.com/pagead/aclk?sa=L&ai=CEwDH2b87Vs-7MNCchATLxb3ABcz99Z8HvO-sze0CwI23ARABIPP4hwZgya6ZjeykgBCgAdakvfYDyAEJqAMBqgSgAU_QknicL19VXIT3WqNojtsZqsIytN8dRid6L-M653uuEisbDIp_0YMorV1Yo30VLKdXLWeSsaEv40jZ-9N7NEEWG_LgSEdAnQt2bW_bYGcsCCydhkL_WjOi879ATHrEk7P5ltcAZhE9RTbqCUSkFUVSromI6OHZu7zwqci4Vxjx0iCCucjm-1U4oJsdAD7ZRTADF8luFDRbsqUPyEPIz7CIBgGgBhGAB5LbwgmoB6a-G9gHANgTAw&num=1&cid=5GhO2TP5C_pUjGsknmWGHMfL&sig=AOD64_3B-h2JgXuMpC-iiiB_5SX0FzNCzw&client=ca-pub-0874257089612465&adurl=, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://cm.g.doubleclick.net/push?client=ca-pub-0874257089612465&srn=gdn, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://googleads.g.doubleclick.net/pagead/viewthroughconversion/959249629/?random=1446756314079&cv=8&fst=1446756314079&num=1&fmt=1&guid=ON&u_h=768&u_w=1024&u_ah=768&u_aw=1024&u_cd=32&u_his=7&u_tz=0&u_java=false&u_nplug=0&u_nmime=0&data=partner=bitclix&frm=1&url=http://bitcoin.cryptorials.io/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC&ref=http://bitcoin.cryptorials.io/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://p4-e2g7cswhqge6a-jeftxfe4zo7zqdqi-if-v6exp3-v4.metric.gstatic.com/v6exp3/redir.html, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://cm.g.doubleclick.net/push?client=ca-pub-0874257089612465&srn=gdn, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://www.google.com/recaptcha/api2/anchor?k=6LfaQwMTAAAAAKHolyhXCwlZnDFwUf1ZuXnGygwf&co=aHR0cDovL2JpdGNvaW4uY3J5cHRvcmlhbHMuaW8.&hl=en&v=r20151013164303&size=normal&usegapi=1&jsh=m;/_/scs/apps-static/_/js/k=oz.gapi.en_US.4FKFoWCIF4w.O/m=__features__/am=AQ/rt=j/d=1/t=zcms/rs=AGLTcCMXNYv6sbPhZJzmBm7atF39_ZXK1w#id=I0_1446756314185&parent=http://bitcoin.cryptorials.io&pfname=&rpctoken=35787499, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://www.google.com/ads/user-lists/959249629/?fmt=1&num=1&cv=8&frm=1&url=http://bitcoin.cryptorials.io/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC&ref=http://bitcoin.cryptorials.io/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC&data=partner=bitclix&random=1960375182, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://p4-e2g7cswhqge6a-jeftxfe4zo7zqdqi-if-v6exp3-v4.metric.gstatic.com/v6exp3/iframe.html, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://secure.img-cdn.mediaplex.com/0/21945/167876/FPTIFrame.html, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://cm.g.doubleclick.net/push?client=ca-pub-0874257089612465&srn=gdn, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=http://edge.sharethis.com/share5x/index.3c401b929c426b4aced880852aeb0d98.html, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Successfully injected Casper client-side utilities
+[36m[info][0m [phantom] Step anonymous 14/1492 http://bitcoin.cryptorials.io/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC (HTTP 200)
+OK http://bitcoin.cryptorials.io?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+NO MATCH FOR funds.*?:.*?\d+
+
+
+
+
+
+
+thisMatch: Balance: 42599621
+[36m[info][0m [phantom] Step anonymous 14/1492: done in 28384ms.
+[32;1m[debug][0m [phantom] opening url: http://freebit.website/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC, HTTP GET
+[32;1m[debug][0m [phantom] Navigation requested: url=http://freebit.website/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC, type=Other, willNavigate=true, isMainFrame=true
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] url changed to "http://freebit.website/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC"
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://googleads.g.doubleclick.net/pagead/html/r20151103/r20151006/zrt_lookup.html, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-9938572496625902&format=336x280&output=html&h=280&slotname=6846245476&adk=1177445190&w=336&lmt=1446756317&ea=0&flash=0&url=http://freebit.website/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC&wgl=0&dt=1446756317462&bpp=23&fdt=30&idt=69&shv=r20151103&cbv=r20151006&saldr=aa&correlator=3458922043393&frm=20&ga_vid=283945574.1446756318&ga_sid=1446756318&ga_hid=606548298&ga_fc=0&pv=2&u_tz=0&u_his=8&u_java=0&u_h=768&u_w=1024&u_ah=768&u_aw=1024&u_cd=32&u_nplug=0&u_nmime=0&dff=helvetica neue&dfs=14&adx=32&ady=549&biw=400&bih=300&eid=575144605,317150304&oid=3&rx=0&eae=4&fc=88&pc=0&brdim=0,0,0,0,1024,0,0,0,400,300&vis=0&rsz=|||&abl=CS&ppjl=u&pfx=0&fu=16&bc=1&ifi=1&dtd=122, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-9938572496625902&format=336x280&output=html&h=280&slotname=6846245476&adk=2383741138&w=336&lmt=1446756317&ea=0&flash=0&url=http://freebit.website/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC&wgl=0&dt=1446756317599&bpp=2&fdt=5&idt=42&shv=r20151103&cbv=r20151006&saldr=aa&prev_fmts=336x280&correlator=3458922043393&frm=20&ga_vid=283945574.1446756318&ga_sid=1446756318&ga_hid=606548298&ga_fc=0&pv=1&u_tz=0&u_his=8&u_java=0&u_h=768&u_w=1024&u_ah=768&u_aw=1024&u_cd=32&u_nplug=0&u_nmime=0&dff=helvetica neue&dfs=14&adx=0&ady=0&biw=400&bih=300&eid=575144605,317150304&oid=3&rx=0&eae=4&fc=88&pc=0&brdim=0,0,0,0,1024,0,0,0,400,300&vis=0&rsz=||fon|&abl=CF&ppjl=u&pfx=1&fu=16&bc=1&ifi=2&dtd=68, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-9938572496625902&format=336x280&output=html&h=280&slotname=6846245476&adk=609710746&w=336&lmt=1446756317&ea=0&flash=0&url=http://freebit.website/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC&wgl=0&dt=1446756317672&bpp=2&fdt=3&idt=18&shv=r20151103&cbv=r20151006&saldr=aa&prev_fmts=336x280,336x280&correlator=3458922043393&frm=20&ga_vid=283945574.1446756318&ga_sid=1446756318&ga_hid=606548298&ga_fc=0&pv=1&u_tz=0&u_his=8&u_java=0&u_h=768&u_w=1024&u_ah=768&u_aw=1024&u_cd=32&u_nplug=0&u_nmime=0&dff=helvetica neue&dfs=14&adx=30&ady=1044&biw=400&bih=300&eid=575144605,317150304&oid=3&rx=0&eae=4&fc=88&pc=0&brdim=0,0,0,0,1024,0,0,0,400,300&vis=0&rsz=|||&abl=CS&ppjl=u&pfx=0&fu=16&bc=1&ifi=3&dtd=39, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://funcaptcha.com/fc/gc/?token=131563bbfdd234027.57897665&r=us-west-2&meta=3&metabgclr=#edf0f5&metaiconclr=#aebad3&guitextcolor=#000000&surl=https://funcaptcha.com, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://cm.g.doubleclick.net/push?client=ca-pub-9938572496625902&srn=gdn, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://tpc.googlesyndication.com/sodar/cTrvNaRi.html, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://cm.g.doubleclick.net/push?client=ca-pub-9938572496625902&srn=gdn, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://tpc.googlesyndication.com/sodar/cTrvNaRi.html, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://cdn3.doubleverify.com/t2tv7.html, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://funcaptcha.com/fc/gc/blank.html, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://funcaptcha.com/fc/gc/blank.html, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Successfully injected Casper client-side utilities
+[36m[info][0m [phantom] Step anonymous 16/1492 http://freebit.website/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC (HTTP 200)
+OK http://freebit.website/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+NO MATCH FOR funds.*?:.*?\d+
+
+
+
+
+
+
+thisMatch: Balance: 27849204
+[36m[info][0m [phantom] Step anonymous 16/1492: done in 31311ms.
+[32;1m[debug][0m [phantom] opening url: http://rekbitcoin.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC, HTTP GET
+[32;1m[debug][0m [phantom] Navigation requested: url=http://rekbitcoin.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC, type=Other, willNavigate=true, isMainFrame=true
+[32;1m[debug][0m [phantom] url changed to "http://rekbitcoin.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC"
+[32;1m[debug][0m [phantom] Navigation requested: url=http://mellowads.com/view/AA5341967D4B, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://ad.a-ads.com/85153?size=468x60, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=http://mellowads.com/view/70C9BA48EF88, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=http://mellowads.com/view/3EF2DDAE3B58, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://googleads.g.doubleclick.net/pagead/html/r20151029/r20151006/zrt_lookup.html, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=http://adalso.com/ad/pbnr2.php?ref=442, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=http://adbit.co/adspace.php?a=YH84WTT4976Y0, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=http://mellowads.com/view/4F1AA7DC4B07, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=http://adbit.co/adspace.php?a=IWIKCIAIS8IWR, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=http://mellowads.com/view/51ED321E27B9, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=http://adalso.com/ad/pbnr1.php?ref=442, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-6781015738789422&output=html&h=280&slotname=1466279796&adk=2415962135&w=336&lmt=1446756319&ea=0&flash=0&url=http://rekbitcoin.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC&wgl=0&dt=1446756319050&bpp=9&fdt=12&idt=119&shv=r20151029&cbv=r20151006&saldr=sa&correlator=7585976795137&frm=20&ga_vid=2125477199.1446756319&ga_sid=1446756319&ga_hid=857824722&ga_fc=0&pv=2&u_tz=0&u_his=9&u_java=0&u_h=768&u_w=1024&u_ah=768&u_aw=1024&u_cd=32&u_nplug=0&u_nmime=0&dff=helvetica neue&dfs=14&adx=109&ady=501&biw=400&bih=300&eid=575144605,317150304&oid=3&rx=0&eae=4&fc=88&pc=0&brdim=0,0,0,0,1024,0,0,0,400,300&vis=0&rsz=d|||n&abl=XS&ppjl=u&pfx=0&fu=1040&bc=1&ifi=1&dtd=155, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-6781015738789422&output=html&h=280&slotname=1466279796&adk=2415962135&w=336&lmt=1446756319&ea=0&flash=0&url=http://rekbitcoin.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC&wgl=0&dt=1446756319065&bpp=5&fdt=237&idt=253&shv=r20151029&cbv=r20151006&saldr=sa&prev_slotnames=1466279796&correlator=7585976795137&frm=20&ga_vid=2125477199.1446756319&ga_sid=1446756319&ga_hid=857824722&ga_fc=0&pv=1&u_tz=0&u_his=9&u_java=0&u_h=768&u_w=1024&u_ah=768&u_aw=1024&u_cd=32&u_nplug=0&u_nmime=0&dff=helvetica neue&dfs=14&adx=109&ady=881&biw=400&bih=300&eid=575144605,317150304&oid=3&rx=0&eae=4&fc=88&pc=0&brdim=0,0,0,0,1024,0,0,0,400,300&vis=0&rsz=d|||n&abl=XS&ppjl=t&pfx=0&fu=1040&bc=1&ifi=2&dtd=276, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://p4-davdyv4zc2jdu-my4shj6h625pljgf-if-v6exp3-v4.metric.gstatic.com/v6exp3/redir.html, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://cm.g.doubleclick.net/push?client=ca-pub-6781015738789422&srn=gdn, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://adfarm.mediaplex.com/ad/fm/27722-216270-36959-659?mpt=218454170&mpvce=1&mpvc=http://www.googleadservices.com/pagead/aclk?sa=L&ai=C83V83787VsbWFteahAT18Z2wA-Tr9Z8H5NOtze0CwI23ARABIJL0oidgya6ZjeykgBCgAdakvfYDyAEJqAMBqgSLAU_QLoVbHX-POxcCaYPqUUP_lDkVKuPv2ZcaP4mG4ZBtZIb3lcq_5E6hfd9iaXfkOte7NlYjZhtdbMDZT8SNDCbwYxNTrIDD1bkHgHFrGRHTVNV_ML3GbnS4Iz_OLgVknf9kFY81dwmZZBea6atqoeHPYuq71bKfp8CRrs2_dWtmXdoYIdYGMsFuxHeIBgGgBhGAB5LbwgmoB6a-G9gHANgTAw&num=1&cid=5GiWOsKhIHI2Ot7ovVbX1-_a&sig=AOD64_3PsoX5rVP6VOs3has5aL0j0rIcVw&client=ca-pub-6781015738789422&adurl=, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://cm.g.doubleclick.net/push?client=ca-pub-6781015738789422&srn=gdn, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-6781015738789422&output=html&h=280&slotname=5983341398&adk=1891922541&w=336&lmt=1446756320&ea=0&flash=0&url=http://rekbitcoin.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC&wgl=0&dt=1446756319074&bpp=5&fdt=1355&idt=1373&shv=r20151029&cbv=r20151006&saldr=sa&prev_slotnames=1466279796,1466279796&correlator=7585976795137&frm=20&ga_vid=2125477199.1446756319&ga_sid=1446756319&ga_hid=857824722&ga_fc=0&pv=1&u_tz=0&u_his=9&u_java=0&u_h=768&u_w=1024&u_ah=768&u_aw=1024&u_cd=32&u_nplug=0&u_nmime=0&dff=helvetica neue&dfs=12&adx=0&ady=0&biw=400&bih=300&eid=575144605,317150304&oid=3&rx=0&eae=4&fc=88&pc=0&brdim=0,0,0,0,1024,0,0,0,400,300&vis=0&rsz=||fn|&abl=CF&ppjl=t&pfx=1&fu=1040&bc=1&ifi=3&dtd=1395, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://secure.img-cdn.mediaplex.com/0/21945/167876/FPTIFrame.html, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://p4-davdyv4zc2jdu-my4shj6h625pljgf-if-v6exp3-v4.metric.gstatic.com/v6exp3/iframe.html, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-6781015738789422&output=html&h=600&slotname=1844601397&adk=3687308448&w=300&lmt=1446756320&ea=0&flash=0&url=http://rekbitcoin.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC&wgl=0&dt=1446756319083&bpp=5&fdt=1419&idt=1436&shv=r20151029&cbv=r20151006&saldr=sa&prev_slotnames=1466279796,1466279796,5983341398&correlator=7585976795137&frm=20&ga_vid=2125477199.1446756319&ga_sid=1446756319&ga_hid=857824722&ga_fc=0&pv=1&u_tz=0&u_his=9&u_java=0&u_h=768&u_w=1024&u_ah=768&u_aw=1024&u_cd=32&u_nplug=0&u_nmime=0&dff=helvetica neue&dfs=14&adx=554&ady=296&biw=400&bih=300&eid=575144605,317150304&oid=3&rx=0&eae=4&fc=88&pc=0&brdim=0,0,0,0,1024,0,0,0,400,300&vis=0&rsz=d|||n&abl=XS&ppjl=t&pfx=0&fu=1040&bc=1&ifi=4&dtd=1457, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://www.google.com/recaptcha/api2/anchor?k=6Le1zgYTAAAAADM2s5qehGpQV5imAZ9QDFPEcU4o&co=aHR0cDovL3Jla2JpdGNvaW4uY29t&hl=en&v=r20151013164303&size=normal&usegapi=1&jsh=m;/_/scs/apps-static/_/js/k=oz.gapi.en_US.4FKFoWCIF4w.O/m=__features__/am=AQ/rt=j/d=1/t=zcms/rs=AGLTcCMXNYv6sbPhZJzmBm7atF39_ZXK1w#id=I0_1446756320612&parent=http://rekbitcoin.com&pfname=&rpctoken=19369052, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Successfully injected Casper client-side utilities
+[36m[info][0m [phantom] Step anonymous 18/1492 http://rekbitcoin.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC (HTTP 200)
+OK http://rekbitcoin.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+NO MATCH FOR funds.*?:.*?\d+
+
+
+
+NO MATCH FOR balance.*?:.*?\d+
+
+
+
+[36m[info][0m [phantom] Step anonymous 18/1492: done in 33669ms.
+[32;1m[debug][0m [phantom] opening url: http://www.luckybitfaucet.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC, HTTP GET
+[32;1m[debug][0m [phantom] Navigation requested: url=http://www.luckybitfaucet.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC, type=Other, willNavigate=true, isMainFrame=true
+[32;1m[debug][0m [phantom] Navigation requested: url=http://luckyb.it/faucet/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC, type=Other, willNavigate=true, isMainFrame=true
+[32;1m[debug][0m [phantom] url changed to "http://luckyb.it/faucet/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC"
+[32;1m[debug][0m [phantom] Navigation requested: url=http://ad.bitmedia.io/p/55f0806f78b5be056bc2de0a/?source=http://luckyb.it/faucet/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC&ref=&ent=45&we=0&fid=9c3fc27b3baa9b46866326fc34059012&fidnoua=f7a42a8a6c0e855ab406a2f6a488df39&impid=ee84b7eb236bb78f2d26282143132a6f&ua=Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) CasperJS/1.1.0-beta3+PhantomJS/1.9.8 Safari/534.34&sig=0x00000&blocksubid=0, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://www.google.com/recaptcha/api2/anchor?k=6Ldy_wkTAAAAABxUObZaZI0ijIGdhhQgzo1JwitG&co=aHR0cDovL2x1Y2t5Yi5pdA..&hl=en&v=r20151013164303&size=normal&usegapi=1&jsh=m;/_/scs/apps-static/_/js/k=oz.gapi.en_US.4FKFoWCIF4w.O/m=__features__/am=AQ/rt=j/d=1/t=zcms/rs=AGLTcCMXNYv6sbPhZJzmBm7atF39_ZXK1w#id=I0_1446756322796&parent=http://luckyb.it&pfname=&rpctoken=26460430, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Successfully injected Casper client-side utilities
+[36m[info][0m [phantom] Step anonymous 20/1492 http://luckyb.it/faucet/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC (HTTP 200)
+OK http://www.luckybitfaucet.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+NO MATCH FOR funds.*?:.*?\d+
+
+
+
+NO MATCH FOR balance.*?:.*?\d+
+
+
+
+[36m[info][0m [phantom] Step anonymous 20/1492: done in 36166ms.
+[32;1m[debug][0m [phantom] opening url: http://rainingfreebitcoins.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC, HTTP GET
+[32;1m[debug][0m [phantom] Navigation requested: url=http://rainingfreebitcoins.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC, type=Other, willNavigate=true, isMainFrame=true
+[32;1m[debug][0m [phantom] url changed to "http://rainingfreebitcoins.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC"
+[32;1m[debug][0m [phantom] Navigation requested: url=http://adbit.co/adspace.php?a=4JUVY0H6883J9, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=http://bee-ads.com/ad.php?id=10149, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=http://adbit.co/adspace.php?a=4JA2YDCRWIA40, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=http://bee-ads.com/ad.php?id=10114, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=http://bee-ads.com/ad.php?id=10115, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=http://adbit.co/adspace.php?a=VQGHGBH67R896, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=http://adbit.co/adspace.php?a=HNN4HJGHSTRZ4, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=http://bee-ads.com/ad.php?id=10113, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=http://mellowads.com/view/2C5C81A4A75E, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=http://bee-ads.com/ad.php?id=10150, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=http://mellowads.com/view/D891141BF8CD, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=http://mellowads.com/view/2EEBF91CFD97, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://ad.a-ads.com/83435?size=728x90, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://www.youtube.com/embed/Gc2en3nHxA4?rel=0, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=http://mellowads.com/view/E0DFF69EE374, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=http://mellowads.com/view/C668C03DF8EE, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://googleads.g.doubleclick.net/pagead/html/r20151103/r20151006/zrt_lookup.html, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-9912502921523671&output=html&h=15&slotname=3055355149&adk=2244056888&w=728&lmt=1446756324&ea=0&flash=0&url=http://rainingfreebitcoins.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC&wgl=0&dt=1446756324259&bpp=23&fdt=26&idt=42&shv=r20151103&cbv=r20151006&saldr=aa&correlator=6266807552001&frm=20&ga_vid=1336780369.1446756324&ga_sid=1446756324&ga_hid=546326197&ga_fc=0&pv=2&u_tz=0&u_his=11&u_java=0&u_h=768&u_w=1024&u_ah=768&u_aw=1024&u_cd=32&u_nplug=0&u_nmime=0&dff=helvetica neue&dfs=14&adx=5&ady=518&biw=400&bih=300&eid=575144605,317150304&oid=3&rx=0&eae=4&fc=88&pc=0&brdim=0,0,0,0,1024,0,0,0,400,300&vis=0&rsz=|||&abl=CS&ppjl=u&pfx=0&fu=1040&bc=1&ifi=1&dtd=127, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-9912502921523671&format=300x600&output=html&h=600&slotname=2549801145&adk=3938894901&w=300&lmt=1446756324&ea=0&flash=0&url=http://rainingfreebitcoins.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC&wgl=0&dt=1446756324392&bpp=3&fdt=3&idt=19&shv=r20151103&cbv=r20151006&saldr=aa&prev_slotnames=3055355149&correlator=6266807552001&frm=20&ga_vid=1336780369.1446756324&ga_sid=1446756324&ga_hid=546326197&ga_fc=0&pv=1&u_tz=0&u_his=11&u_java=0&u_h=768&u_w=1024&u_ah=768&u_aw=1024&u_cd=32&u_nplug=0&u_nmime=0&dff=helvetica neue&dfs=14&adx=5&ady=2012&biw=400&bih=300&eid=575144605,317150304&oid=3&rx=0&eae=4&fc=88&pc=0&brdim=0,0,0,0,1024,0,0,0,400,300&vis=0&rsz=|||&abl=CS&ppjl=u&pfx=0&fu=1040&bc=1&ifi=2&dtd=40, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-9912502921523671&format=160x600&output=html&h=600&slotname=7750226749&adk=587465331&w=160&lmt=1446756324&ea=0&flash=0&url=http://rainingfreebitcoins.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC&wgl=0&dt=1446756324438&bpp=2&fdt=2&idt=40&shv=r20151103&cbv=r20151006&saldr=aa&prev_fmts=300x600&prev_slotnames=3055355149&correlator=6266807552001&frm=20&ga_vid=1336780369.1446756324&ga_sid=1446756324&ga_hid=546326197&ga_fc=0&pv=1&u_tz=0&u_his=11&u_java=0&u_h=768&u_w=1024&u_ah=768&u_aw=1024&u_cd=32&u_nplug=0&u_nmime=0&dff=helvetica neue&dfs=14&adx=220&ady=2012&biw=400&bih=300&eid=575144605,317150304&oid=3&rx=0&eae=4&fc=88&pc=0&brdim=0,0,0,0,1024,0,0,0,400,300&vis=0&rsz=|||&abl=CS&ppjl=u&pfx=0&fu=1040&bc=1&ifi=3&dtd=62, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-9912502921523671&output=html&h=90&slotname=7358006744&adk=4071877167&w=200&lmt=1446756324&ea=0&flash=0&url=http://rainingfreebitcoins.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC&wgl=0&dt=1446756324513&bpp=25&fdt=25&idt=66&shv=r20151103&cbv=r20151006&saldr=aa&prev_fmts=300x600,160x600&prev_slotnames=3055355149&correlator=6266807552001&frm=20&ga_vid=1336780369.1446756324&ga_sid=1446756324&ga_hid=546326197&ga_fc=0&pv=1&u_tz=0&u_his=11&u_java=0&u_h=768&u_w=1024&u_ah=768&u_aw=1024&u_cd=32&u_nplug=0&u_nmime=0&dff=helvetica neue&dfs=14&adx=205&ady=3474&biw=400&bih=300&eid=575144605,317150304&oid=3&rx=0&eae=4&fc=88&pc=0&brdim=0,0,0,0,1024,0,0,0,400,300&vis=0&rsz=|||&abl=CS&ppjl=u&pfx=0&fu=1040&bc=1&ifi=4&dtd=120, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-9912502921523671&output=html&h=15&slotname=6008821547&adk=2007148066&w=728&lmt=1446756324&ea=0&flash=0&url=http://rainingfreebitcoins.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC&wgl=0&dt=1446756324643&bpp=1&fdt=2&idt=37&shv=r20151103&cbv=r20151006&saldr=aa&prev_fmts=300x600,160x600&prev_slotnames=3055355149,7358006744&correlator=6266807552001&frm=20&ga_vid=1336780369.1446756324&ga_sid=1446756324&ga_hid=546326197&ga_fc=0&pv=1&u_tz=0&u_his=11&u_java=0&u_h=768&u_w=1024&u_ah=768&u_aw=1024&u_cd=32&u_nplug=0&u_nmime=0&dff=helvetica neue&dfs=14&adx=5&ady=3732&biw=400&bih=300&eid=575144605,317150304&oid=3&rx=0&eae=4&fc=88&pc=0&brdim=0,0,0,0,1024,0,0,0,400,300&vis=0&rsz=|||&abl=CS&ppjl=u&pfx=0&fu=1040&bc=1&ifi=5&dtd=93, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-9912502921523671&format=728x90&output=html&h=90&slotname=5723593541&adk=2320254860&w=728&lmt=1446756324&ea=0&flash=0&url=http://rainingfreebitcoins.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC&wgl=0&dt=1446756324754&bpp=2&fdt=3&idt=36&shv=r20151103&cbv=r20151006&saldr=aa&prev_fmts=300x600,160x600&prev_slotnames=3055355149,7358006744,6008821547&correlator=6266807552001&frm=20&ga_vid=1336780369.1446756324&ga_sid=1446756324&ga_hid=546326197&ga_fc=0&pv=1&u_tz=0&u_his=11&u_java=0&u_h=768&u_w=1024&u_ah=768&u_aw=1024&u_cd=32&u_nplug=0&u_nmime=0&dff=helvetica neue&dfs=14&adx=5&ady=4440&biw=400&bih=300&eid=575144605,317150304&oid=3&rx=0&eae=4&fc=88&pc=0&brdim=0,0,0,0,1024,0,0,0,400,300&vis=0&rsz=|||&abl=CS&ppjl=u&pfx=0&fu=1040&bc=1&ifi=6&dtd=71, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://adfarm.mediaplex.com/ad/fm/27722-216270-36959-514?mpt=1848927940&mpvce=1&mpvc=http://adclick.g.doubleclick.net/aclk?sa=l&ai=CLXUU5L87Vr-PHMmPhATC9aXoAeTr9Z8H_NGrze0CwI23ARABILeG0Clgya6ZjeykgBCgAdakvfYDyAEJqAMBqgSlAU_QcflzsraY5XqHUB2LKZSOKt5GE5xknCKn8qYU74lbgKI5v0kecf2CY7ZxU5QnjYOVbOjuJo9vC-R7IpxGxzuRQazFazrs9Zif6dRJde58ZTRQpUDN-IoYJMPmPFaod242oay4Jvg3VN1j64mWy77xEBLp4rUPQXSYIjoa7p3OXhtT3KgvjTrwpiVrKhf13vOpA_OgMjXnMEweEtif4Gtb7sjVnqAGEYAHktvCCagHpr4b2AcA2BMD&num=1&sig=AOD64_1BaQqDfWp2ywQVNmfDH-gqRDgfUg&client=ca-pub-9912502921523671&adurl=, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://cm.g.doubleclick.net/push?client=ca-pub-9912502921523671&srn=gdn, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://funcaptcha.com/fc/gc/?token=143563bbfe3ebb0e3.07596012&r=us-west-2&meta=3&metabgclr=#edf0f5&metaiconclr=#aebad3&guitextcolor=#000000&surl=https://funcaptcha.com, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://secure.img-cdn.mediaplex.com/0/21945/167876/FPTIFrame.html, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://ad.atdmt.com/as/direct;p=11087204554703;as=0;a=11087204554674;crs=11087204554656;cr=11087204554657;i.ts=1446756325/Cloud_EMS_Banner3_Animatedr_EN_US_728x90/index.html?click=http://adclick.g.doubleclick.net/aclk?sa=L&ai=CJFoc5L87VrKGNJCHhATx7broAfitmNsIyNCg8MwCwI23ARABILeG0Clgya6ZjeykgBDIAQmoAwGqBKUBT9BUqnmLiHQL-EwPU_5B1u4_rC2-lFwWa5iPUrXs9QfGpfWJjf-HjU-SmvrL2F-AFln-H6uTgTgPRaF20Yes9II31fI_vDLtAWpMiSM7dW7BRKAgr6y7PTHAHURE9DsrorfBKmrd1tcpJG4JShH_29qzSJOPgciMSzxVyORgTpm_YCyDeKl8zuUKO6em_8B4UOeo79sO0NxREUNj4JosY-el4V7UoAYRgAe42bM-qAemvhvYBwA&num=1&sig=AOD64_2_hg3cTqxlu7hvQcEeZN5rBuNEIw&client=ca-pub-9912502921523671&adurl=, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://secure.flashtalking.com/48145/1119386/index.html, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://cm.g.doubleclick.net/push?client=ca-pub-9912502921523671&srn=gdn, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://funcaptcha.com/fc/gc/blank.html, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://funcaptcha.com/fc/gc/blank.html, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=http://static.ak.facebook.com/connect/xd_arbiter/wjDNIDNrTQG.js?version=41#channel=f3695b864&origin=http://rainingfreebitcoins.com, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://s-static.ak.facebook.com/connect/xd_arbiter/wjDNIDNrTQG.js?version=41#channel=f3695b864&origin=http://rainingfreebitcoins.com, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://cm.g.doubleclick.net/push?client=ca-pub-9912502921523671&srn=gdn, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Successfully injected Casper client-side utilities
+[36m[info][0m [phantom] Step anonymous 22/1492 http://rainingfreebitcoins.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC (HTTP 200)
+OK http://rainingfreebitcoins.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+NO MATCH FOR funds.*?:.*?\d+
+
+
+
+
+
+
+thisMatch: Balance: 10897185
+[36m[info][0m [phantom] Step anonymous 22/1492: done in 39432ms.
+[32;1m[debug][0m [phantom] Navigation requested: url=http://www.facebook.com/v2.4/plugins/like.php?action=like&app_id=&channel=http://static.ak.facebook.com/connect/xd_arbiter/wjDNIDNrTQG.js?version=41#cb=f22ba6a79c&domain=rainingfreebitcoins.com&origin=http%3A%2F%2Frainingfreebitcoins.com%2Ff3695b864&relation=parent.parent&container_width=0&href=https://rainingfreebitcoins.com/&layout=button_count&locale=en_US&sdk=joey&share=true&show_faces=true, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=http://www.facebook.com/v2.4/plugins/like.php?action=like&app_id=&channel=http://static.ak.facebook.com/connect/xd_arbiter/wjDNIDNrTQG.js?version=41#cb=f645fd8fc&domain=rainingfreebitcoins.com&origin=http%3A%2F%2Frainingfreebitcoins.com%2Ff3695b864&relation=parent.parent&container_width=400&href=https://rainingfreebitcoins.com/&layout=button_count&locale=en_US&sdk=joey&share=true&show_faces=true, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] opening url: http://www.rapidbitco.in/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC, HTTP GET
+[32;1m[debug][0m [phantom] Navigation requested: url=http://www.rapidbitco.in/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC, type=Other, willNavigate=true, isMainFrame=true
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[33m[warning][0m [phantom] Loading resource failed with status=fail (HTTP 200): http://www.rapidbitco.in/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+[32;1m[debug][0m [phantom] url changed to "http://www.rapidbitco.in/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC"
+[32;1m[debug][0m [phantom] Navigation requested: url=http://bee-ads.com/ad.php?id=3768, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=http://adbit.co/adspace.php?a=T2U903Y0K4ZQ7, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=http://bee-ads.com/ad.php?id=3767, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=http://adbit.co/adspace.php?a=GZIGHFAJLQEXW, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://googleads.g.doubleclick.net/pagead/html/r20151029/r20151006/zrt_lookup.html, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=http://ad.bitmedia.io/p/54faccb4a37b08232e21188a/?source=http://www.rapidbitco.in/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC&ref=&ent=45&we=0&fid=9c3fc27b3baa9b46866326fc34059012&fidnoua=f7a42a8a6c0e855ab406a2f6a488df39&impid=c6c66bbbb16c35950cde8562ce1a0f61&ua=Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) CasperJS/1.1.0-beta3+PhantomJS/1.9.8 Safari/534.34&sig=0x00000&blocksubid=0, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-3398045428484544&output=html&h=600&slotname=1507902110&adk=1346341257&w=300&lmt=1446756332&ea=0&flash=0&url=http://www.rapidbitco.in/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC&wgl=0&dt=1446756331338&bpp=9&fdt=13&idt=756&shv=r20151029&cbv=r20151006&saldr=sa&correlator=8536512710657&frm=20&ga_vid=1921589221.1446756332&ga_sid=1446756332&ga_hid=641073740&ga_fc=0&pv=2&u_tz=0&u_his=12&u_java=0&u_h=768&u_w=1024&u_ah=768&u_aw=1024&u_cd=32&u_nplug=0&u_nmime=0&dff=helvetica neue&dfs=14&adx=30&ady=1930&biw=400&bih=300&eid=575144605,317150304,42631003&oid=3&rx=0&eae=4&fc=88&pc=0&brdim=0,0,0,0,1024,0,0,0,400,300&vis=0&rsz=|||&abl=CS&ppjl=u&pfx=0&fu=1040&bc=1&ifi=1&dtd=791, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=http://www.rapidbitco.in/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC#fji1446756332334, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-3398045428484544&format=336x280&output=html&h=280&slotname=7261887718&adk=1448474455&w=336&lmt=1446756332&ea=0&flash=0&url=http://www.rapidbitco.in/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC&wgl=0&dt=1446756332011&bpp=7&fdt=334&idt=351&shv=r20151103&cbv=r20151006&saldr=aa&prev_slotnames=1507902110&correlator=8536512710657&frm=20&ga_vid=1921589221.1446756332&ga_sid=1446756332&ga_hid=641073740&ga_fc=0&pv=1&u_tz=0&u_his=12&u_java=0&u_h=768&u_w=1024&u_ah=768&u_aw=1024&u_cd=32&u_nplug=0&u_nmime=0&dff=helvetica neue&dfs=14&adx=32&ady=518&biw=400&bih=300&eid=575144605,317150304,42631003&oid=3&rx=0&eae=4&fc=88&pc=0&brdim=0,0,0,0,1024,0,0,0,400,300&vis=0&rsz=|||&abl=CS&ppjl=f&pfx=0&mvp=-1,1,-1,0,1,-1,-1,1&fu=1040&bc=1&ifi=2&dtd=380, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-3398045428484544&format=336x280&output=html&h=280&slotname=8738620919&adk=683483259&w=336&lmt=1446756332&ea=0&flash=0&url=http://www.rapidbitco.in/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC&wgl=0&dt=1446756332018&bpp=3&fdt=499&idt=552&shv=r20151103&cbv=r20151006&saldr=aa&prev_fmts=336x280&prev_slotnames=1507902110&correlator=8536512710657&frm=20&ga_vid=1921589221.1446756332&ga_sid=1446756332&ga_hid=641073740&ga_fc=0&pv=1&u_tz=0&u_his=12&u_java=0&u_h=768&u_w=1024&u_ah=768&u_aw=1024&u_cd=32&u_nplug=0&u_nmime=0&dff=helvetica neue&dfs=14&adx=32&ady=1238&biw=400&bih=300&eid=575144605,317150304,42631003&oid=3&rx=0&eae=4&fc=88&pc=0&brdim=0,0,0,0,1024,0,0,0,400,300&vis=0&rsz=|||&abl=CS&ppjl=f&pfx=0&fu=1040&bc=1&ifi=3&dtd=598, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://adfarm.mediaplex.com/ad/fm/27722-216270-36959-659?mpt=845014540&mpvce=1&mpvc=http://www.googleadservices.com/pagead/aclk?sa=L&ai=C3jRS7L87VuzPGZCvhASY6I_ADuTr9Z8H5NOtze0CwI23ARABINqokCdgya6ZjeykgBCgAdakvfYDyAEJqAMBqgSVAU_QROvQUcOSrgp9DZ_7OQHfXvp8C1ULAdHm9GmJiQ_1bunSKbiPrelTkYznM2DJOV919CTzJ1gxNljvrfbfI_tuTX-2NMap2P9F1lIUpj_PsEQwsYxN0W6JKuLF4oFf5-hm2nxL9YqR7bmfQQ7oZ76kyFsXeYjB3Pw_rf22NASHGgMVOKujpzpEZpoR0zj7Rtc4ifmKiAYBoAYRgAeS28IJqAemvhvYBwDYEwM&num=1&cid=5GhCa2m8FPrGSwRkzJqthdA5&sig=AOD64_3YzmbfGTXetIuZMAjz8ABpywmJ5w&client=ca-pub-3398045428484544&adurl=, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://cm.g.doubleclick.net/push?client=ca-pub-3398045428484544&srn=gdn, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://ad.a-ads.com/61282?size=728x90, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=http://feedjit.com/wa/tf.html?r=239559605, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-3398045428484544&output=html&h=600&slotname=7401488512&adk=2840072964&w=300&lmt=1446756332&ea=0&flash=0&url=http://www.rapidbitco.in/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC&wgl=0&dt=1446756332473&bpp=29&fdt=264&idt=291&shv=r20151029&cbv=r20151006&saldr=sa&prev_fmts=336x280,336x280&prev_slotnames=1507902110&correlator=8536512710657&frm=20&ga_vid=1921589221.1446756332&ga_sid=1446756332&ga_hid=641073740&ga_fc=0&pv=1&u_tz=0&u_his=12&u_java=0&u_h=768&u_w=1024&u_ah=768&u_aw=1024&u_cd=32&u_nplug=0&u_nmime=0&dff=helvetica neue&dfs=14&adx=230&ady=1978&biw=400&bih=300&eid=575144605,317150304,42631003&oid=3&rx=0&eae=4&fc=88&pc=0&brdim=0,0,0,0,1024,0,0,0,400,300&vis=0&rsz=o|o||&abl=NS&ppjl=f&pfx=0&fu=1040&bc=1&ifi=4&dtd=450, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://secure.img-cdn.mediaplex.com/0/21945/167876/FPTIFrame.html, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://secure.flashtalking.com/48145/1119386/index.html, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://cm.g.doubleclick.net/push?client=ca-pub-3398045428484544&srn=gdn, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://ad.atdmt.com/as/direct;p=11087204554701;as=0;a=11087205137491;crs=11087204554329;cr=11087204554390;i.ts=1446756333/Cloud_EMS_Banner1B_Animated_EN_US_300x250/index.html?click=http://adclick.g.doubleclick.net/aclk?sa=L&ai=C_Gta7L87VsqwONe8hATMtJWwCPitmNsIgKCa8MwCwI23ARABINqokCdgya6ZjeykgBDIAQmoAwGqBJYBT9Din8S1IdWN9TszN0DVeVqOtX82KvSFNkil_GjyS_oBf7n-3K0w6u-e3DE3Q7VoA-imiA2ZJPhJmwTf5AcAtiwYgEU_Gh8O9iH7TH46R30ogV2P3VPZ4geYEuJaAEIEWQcmTa4aw6ZfVGcAcgrV6U7E-e4V3OMOZ3tnDOIraAHIp45LtvK1jOqmYs-z_QSnDCI2AZuJoAYRgAe42bM-qAemvhvYBwA&num=1&sig=AOD64_26mEau9GHggeWrPYO3tSdPyq9J9A&client=ca-pub-3398045428484544&adurl=, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://cm.g.doubleclick.net/push?client=ca-pub-3398045428484544&srn=gdn, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://cm.g.doubleclick.net/push?client=ca-pub-3398045428484544&srn=gdn, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://s0.2mdn.net/1831140/1441746693399/dish_pricelock_oneten_netflixmsp_dis_std_160x600/dish_pricelock_oneten_netflixmsp_dis_std_160x600.html, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://www.google.com/recaptcha/api2/anchor?k=6LdDEwMTAAAAACinGlpFLLrpPqYS2lXqWnjAg93m&co=aHR0cDovL3d3dy5yYXBpZGJpdGNvLmlu&hl=en&v=r20151013164303&size=normal&usegapi=1&jsh=m;/_/scs/apps-static/_/js/k=oz.gapi.en_US.4FKFoWCIF4w.O/m=__features__/am=AQ/rt=j/d=1/t=zcms/rs=AGLTcCMXNYv6sbPhZJzmBm7atF39_ZXK1w#id=I0_1446756333815&parent=http://www.rapidbitco.in&pfname=&rpctoken=40486934, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Successfully injected Casper client-side utilities
+[36m[info][0m [phantom] Step anonymous 24/1492 http://www.rapidbitco.in/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC (HTTP 200)
+OK http://www.rapidbitco.in?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+NO MATCH FOR funds.*?:.*?\d+
+
+
+
+
+
+
+thisMatch: Balance: 306053
+[36m[info][0m [phantom] Step anonymous 24/1492: done in 47275ms.
+[32;1m[debug][0m [phantom] opening url: http://www.SumoSatoshi.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC, HTTP GET
+[32;1m[debug][0m [phantom] Navigation requested: url=http://www.sumosatoshi.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC, type=Other, willNavigate=true, isMainFrame=true
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] url changed to "http://www.sumosatoshi.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC"
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://ad.a-ads.com/89969?size=468x60, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://ad.a-ads.com/93370?size=468x60, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=http://coinurl.com/get.php?id=43268, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://googleads.g.doubleclick.net/pagead/html/r20151103/r20151006/zrt_lookup.html, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-7254256941475540&format=340x100&output=html&h=100&slotname=3908528318&adk=143161700&w=340&lmt=1446756335&ea=0&flash=0&url=http://www.sumosatoshi.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC&resp_fmts=3&wgl=0&dt=1446756335471&bpp=9&fdt=14&idt=32&shv=r20151103&cbv=r20151006&saldr=aa&correlator=3710236055553&frm=20&ga_vid=949816518.1446756335&ga_sid=1446756336&ga_hid=1307665501&ga_fc=0&pv=2&u_tz=0&u_his=13&u_java=0&u_h=768&u_w=1024&u_ah=768&u_aw=1024&u_cd=32&u_nplug=0&u_nmime=0&dff=helvetica neue&dfs=14&adx=30&ady=107&biw=400&bih=300&eid=575144605,317150304&oid=3&rx=0&eae=4&fc=88&pc=0&brdim=0,0,0,0,1024,0,0,0,400,300&vis=0&rsz=o|o||&abl=NS&ppjl=u&pfx=0&fu=144&bc=1&ifi=1&dtd=58, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-7254256941475540&format=140x125&output=html&h=125&slotname=8478328714&adk=1840092824&w=140&lmt=1446756335&ea=0&flash=0&url=http://www.sumosatoshi.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC&resp_fmts=3&wgl=0&dt=1446756335536&bpp=5&fdt=5&idt=22&shv=r20151103&cbv=r20151006&saldr=aa&prev_fmts=340x100&correlator=3710236055553&frm=20&ga_vid=949816518.1446756335&ga_sid=1446756336&ga_hid=1307665501&ga_fc=0&pv=1&u_tz=0&u_his=13&u_java=0&u_h=768&u_w=1024&u_ah=768&u_aw=1024&u_cd=32&u_nplug=0&u_nmime=0&dff=helvetica neue&dfs=14&adx=30&ady=1473&biw=400&bih=300&eid=575144605,317150304&oid=3&rx=0&eae=4&fc=88&pc=0&brdim=0,0,0,0,1024,0,0,0,400,300&vis=0&rsz=o|do||&abl=NS&ppjl=u&pfx=0&fu=144&bc=1&ifi=2&dtd=45, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-7254256941475540&format=140x125&output=html&h=125&slotname=7515542312&adk=2505086270&w=140&lmt=1446756335&ea=0&flash=0&url=http://www.sumosatoshi.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC&resp_fmts=3&wgl=0&dt=1446756335587&bpp=3&fdt=3&idt=19&shv=r20151103&cbv=r20151006&saldr=aa&prev_fmts=340x100,140x125&correlator=3710236055553&frm=20&ga_vid=949816518.1446756335&ga_sid=1446756336&ga_hid=1307665501&ga_fc=0&pv=1&u_tz=0&u_his=13&u_java=0&u_h=768&u_w=1024&u_ah=768&u_aw=1024&u_cd=32&u_nplug=0&u_nmime=0&dff=helvetica neue&dfs=14&adx=30&ady=1618&biw=400&bih=300&eid=575144605,317150304&oid=3&rx=0&eae=4&fc=88&pc=0&brdim=0,0,0,0,1024,0,0,0,400,300&vis=0&rsz=o|do||&abl=NS&ppjl=u&pfx=0&fu=144&bc=1&ifi=3&dtd=41, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-7254256941475540&format=140x125&output=html&h=125&slotname=9955061912&adk=3888327974&w=140&lmt=1446756335&ea=0&flash=0&url=http://www.sumosatoshi.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC&resp_fmts=3&wgl=0&dt=1446756335634&bpp=3&fdt=3&idt=19&shv=r20151103&cbv=r20151006&saldr=aa&prev_fmts=340x100,140x125,140x125&correlator=3710236055553&frm=20&ga_vid=949816518.1446756335&ga_sid=1446756336&ga_hid=1307665501&ga_fc=0&pv=1&u_tz=0&u_his=13&u_java=0&u_h=768&u_w=1024&u_ah=768&u_aw=1024&u_cd=32&u_nplug=0&u_nmime=0&dff=helvetica neue&dfs=14&adx=230&ady=1473&biw=400&bih=300&eid=575144605,317150304&oid=3&rx=0&eae=4&fc=88&pc=0&brdim=0,0,0,0,1024,0,0,0,400,300&vis=0&rsz=o|do||&abl=NS&ppjl=u&pfx=0&fu=144&bc=1&ifi=4&dtd=49, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-7254256941475540&format=140x125&output=html&h=125&slotname=1469008719&adk=1929881845&w=140&lmt=1446756335&ea=0&flash=0&url=http://www.sumosatoshi.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC&resp_fmts=3&wgl=0&dt=1446756335690&bpp=2&fdt=3&idt=29&shv=r20151103&cbv=r20151006&saldr=aa&prev_fmts=340x100,140x125,140x125,140x125&correlator=3710236055553&frm=20&ga_vid=949816518.1446756335&ga_sid=1446756336&ga_hid=1307665501&ga_fc=0&pv=1&u_tz=0&u_his=13&u_java=0&u_h=768&u_w=1024&u_ah=768&u_aw=1024&u_cd=32&u_nplug=0&u_nmime=0&dff=helvetica neue&dfs=14&adx=230&ady=1618&biw=400&bih=300&eid=575144605,317150304&oid=3&rx=0&eae=4&fc=88&pc=0&brdim=0,0,0,0,1024,0,0,0,400,300&vis=0&rsz=o|do||&abl=NS&ppjl=u&pfx=0&fu=144&bc=1&ifi=5&dtd=58, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=http://sumosatoshi.com/img/Sumo_banner_160x600.gif, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://funcaptcha.com/fc/gc/?token=230563bbfef017633.50114643&r=us-west-2&meta=3&metabgclr=#edf0f5&metaiconclr=#aebad3&guitextcolor=#000000&surl=https://funcaptcha.com, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://cm.g.doubleclick.net/push?client=ca-pub-7254256941475540&srn=gdn, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://cm.g.doubleclick.net/push?client=ca-pub-7254256941475540&srn=gdn, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://funcaptcha.com/fc/gc/blank.html, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://funcaptcha.com/fc/gc/blank.html, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Successfully injected Casper client-side utilities
+[36m[info][0m [phantom] Step anonymous 26/1492 http://www.sumosatoshi.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC (HTTP 200)
+OK http://www.SumoSatoshi.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+NO MATCH FOR funds.*?:.*?\d+
+
+
+
+NO MATCH FOR balance.*?:.*?\d+
+
+
+
+[36m[info][0m [phantom] Step anonymous 26/1492: done in 50290ms.
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] opening url: http://rollingfaucet.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC, HTTP GET
+[32;1m[debug][0m [phantom] Navigation requested: url=http://rollingfaucet.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC, type=Other, willNavigate=true, isMainFrame=true
+[32;1m[debug][0m [phantom] url changed to "http://rollingfaucet.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC"
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://googleads.g.doubleclick.net/pagead/html/r20151103/r20151006/zrt_lookup.html, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-0974979611568830&format=340x100&output=html&h=100&slotname=7619952306&adk=90744230&w=340&lmt=1446756337&ea=0&flash=0&url=http://rollingfaucet.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC&resp_fmts=3&wgl=0&dt=1446756337794&bpp=22&fdt=25&idt=42&shv=r20151103&cbv=r20151006&saldr=aa&correlator=3226357897217&frm=20&ga_vid=1176129415.1446756338&ga_sid=1446756338&ga_hid=1432180189&ga_fc=0&pv=2&u_tz=0&u_his=14&u_java=0&u_h=768&u_w=1024&u_ah=768&u_aw=1024&u_cd=32&u_nplug=0&u_nmime=0&dff=helvetica neue&dfs=14&adx=30&ady=102&biw=400&bih=300&eid=575144605,317150304&oid=3&rx=0&eae=4&fc=88&pc=0&brdim=0,0,0,0,1024,0,0,0,400,300&vis=0&rsz=|||&abl=CS&ppjl=u&pfx=0&fu=1168&bc=1&ifi=1&dtd=67, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-0974979611568830&format=340x280&output=html&h=280&slotname=1340077503&adk=2833428183&w=340&lmt=1446756337&ea=0&flash=0&url=http://rollingfaucet.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC&resp_fmts=3&wgl=0&dt=1446756337867&bpp=3&fdt=4&idt=20&shv=r20151103&cbv=r20151006&saldr=aa&prev_fmts=340x100&correlator=3226357897217&frm=20&ga_vid=1176129415.1446756338&ga_sid=1446756338&ga_hid=1432180189&ga_fc=0&pv=1&u_tz=0&u_his=14&u_java=0&u_h=768&u_w=1024&u_ah=768&u_aw=1024&u_cd=32&u_nplug=0&u_nmime=0&dff=helvetica neue&dfs=14&adx=30&ady=710&biw=400&bih=300&eid=575144605,317150304&oid=3&rx=0&eae=4&fc=88&pc=0&brdim=0,0,0,0,1024,0,0,0,400,300&vis=0&rsz=|d||&abl=NS&ppjl=u&pfx=0&fu=1168&bc=1&ifi=2&dtd=43, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-0974979611568830&format=340x280&output=html&h=280&slotname=9643903509&adk=2899325373&w=340&lmt=1446756337&ea=0&flash=0&url=http://rollingfaucet.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC&resp_fmts=3&wgl=0&dt=1446756337915&bpp=3&fdt=3&idt=20&shv=r20151103&cbv=r20151006&saldr=aa&prev_fmts=340x100,340x280&correlator=3226357897217&frm=20&ga_vid=1176129415.1446756338&ga_sid=1446756338&ga_hid=1432180189&ga_fc=0&pv=1&u_tz=0&u_his=14&u_java=0&u_h=768&u_w=1024&u_ah=768&u_aw=1024&u_cd=32&u_nplug=0&u_nmime=0&dff=helvetica neue&dfs=14&adx=30&ady=1039&biw=400&bih=300&eid=575144605,317150304&oid=3&rx=0&eae=4&fc=88&pc=0&brdim=0,0,0,0,1024,0,0,0,400,300&vis=0&rsz=|d||&abl=NS&ppjl=u&pfx=0&fu=1168&bc=1&ifi=3&dtd=42, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-0974979611568830&format=300x600&output=html&h=600&slotname=5925811502&adk=2252641817&w=300&lmt=1446756337&ea=0&flash=0&url=http://rollingfaucet.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC&wgl=0&dt=1446756337963&bpp=2&fdt=2&idt=19&shv=r20151103&cbv=r20151006&saldr=aa&prev_fmts=340x100,340x280,340x280&correlator=3226357897217&frm=20&ga_vid=1176129415.1446756338&ga_sid=1446756338&ga_hid=1432180189&ga_fc=0&pv=1&u_tz=0&u_his=14&u_java=0&u_h=768&u_w=1024&u_ah=768&u_aw=1024&u_cd=32&u_nplug=0&u_nmime=0&dff=helvetica neue&dfs=14&adx=30&ady=1661&biw=400&bih=300&eid=575144605,317150304&oid=3&rx=0&eae=4&fc=88&pc=0&brdim=0,0,0,0,1024,0,0,0,400,300&vis=0&rsz=||l|&abl=CS&ppjl=u&pfx=0&fu=1040&bc=1&ifi=4&dtd=40, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-0974979611568830&format=300x600&output=html&h=600&slotname=5925811502&adk=2252641817&w=300&lmt=1446756338&ea=0&flash=0&url=http://rollingfaucet.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC&wgl=0&dt=1446756338007&bpp=2&fdt=3&idt=17&shv=r20151103&cbv=r20151006&saldr=aa&prev_fmts=340x100,340x280,340x280,300x600&correlator=3226357897217&frm=20&ga_vid=1176129415.1446756338&ga_sid=1446756338&ga_hid=1432180189&ga_fc=0&pv=1&u_tz=0&u_his=14&u_java=0&u_h=768&u_w=1024&u_ah=768&u_aw=1024&u_cd=32&u_nplug=0&u_nmime=0&dff=helvetica neue&dfs=14&adx=230&ady=1661&biw=400&bih=300&eid=575144605,317150304&oid=3&rx=0&eae=4&fc=88&pc=0&brdim=0,0,0,0,1024,0,0,0,400,300&vis=0&rsz=||l|&abl=CS&ppjl=u&pfx=0&fu=1040&bc=1&ifi=5&dtd=38, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://p4-aexrledpuuxhy-iov5xaiygulmvhge-if-v6exp3-v4.metric.gstatic.com/v6exp3/redir.html, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://cm.g.doubleclick.net/push?client=ca-pub-0974979611568830&srn=gdn, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://cm.g.doubleclick.net/push?client=ca-pub-0974979611568830&srn=gdn, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://www.google.com/recaptcha/api2/anchor?k=6LdlwQcTAAAAAOeWHwKLOvXRaFBM6EpoehYKBYPe&co=aHR0cDovL3JvbGxpbmdmYXVjZXQuY29t&hl=en&v=r20151013164303&size=normal&usegapi=1&jsh=m;/_/scs/apps-static/_/js/k=oz.gapi.en_US.4FKFoWCIF4w.O/m=__features__/am=AQ/rt=j/d=1/t=zcms/rs=AGLTcCMXNYv6sbPhZJzmBm7atF39_ZXK1w#id=I0_1446756338288&parent=http://rollingfaucet.com&pfname=&rpctoken=22927505, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://p4-aexrledpuuxhy-iov5xaiygulmvhge-if-v6exp3-v4.metric.gstatic.com/v6exp3/iframe.html, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://ad.atdmt.com/as/direct;p=11087204554702;as=0;a=11087204554674;crs=11087204554656;cr=11087204554658;i.ts=1446756338/Cloud_EMS_Banner3_Animated_EN_US_160x600/index.html?click=http://adclick.g.doubleclick.net/aclk?sa=L&ai=CX0lN8r87VqK7B8yZhASSjo6YBPitmNsI8MWO8MwCwI23ARABINOozRlgya6ZjeykgBDIAQmoAwGqBJcBT9BjitEy-MNDgM5aup6fncsjyVJxI9iicu52nb48X1myNvPBIzxY2voa24JAl975QJwms-7jpVwGak9XbGkGz7ffL2dX3taR4oZJ6IsIumhgYVroe7_wbBt3STqXpsTP3xsGtlxttalqi8SahWFBQ1Kt6rT1SFXJie0LCkbSGMkAV3uoFNPT-Rwir45XyRZgwOJtrKLSPaAGEYAHuNmzPqgHpr4b2AcA&num=1&sig=AOD64_3VbG0JD6_tJQ-tqSrIB1higYygOw&client=ca-pub-0974979611568830&adurl=, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://cm.g.doubleclick.net/push?client=ca-pub-0974979611568830&srn=gdn, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://secure.flashtalking.com/48145/1119389/index.html, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://cm.g.doubleclick.net/push?client=ca-pub-0974979611568830&srn=gdn, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://cm.g.doubleclick.net/push?client=ca-pub-0974979611568830&srn=gdn, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Successfully injected Casper client-side utilities
+[36m[info][0m [phantom] Step anonymous 28/1492 http://rollingfaucet.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC (HTTP 200)
+OK http://rollingfaucet.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+NO MATCH FOR funds.*?:.*?\d+
+
+
+
+
+
+
+thisMatch: Balance: 28095971
+[36m[info][0m [phantom] Step anonymous 28/1492: done in 51930ms.
+[32;1m[debug][0m [phantom] opening url: http://satoshifiesta.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC, HTTP GET
+[32;1m[debug][0m [phantom] Navigation requested: url=http://satoshifiesta.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC, type=Other, willNavigate=true, isMainFrame=true
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] url changed to "http://satoshifiesta.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC"
+[32;1m[debug][0m [phantom] Navigation requested: url=http://adbit.co/adspace.php?a=4801W7G6IJTB4, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=http://adbit.co/adspace.php?a=4801W7G6IJTB4, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=http://mellowads.com/view/5346922CA3D3, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=http://mellowads.com/view/143D3BF922A2, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=http://mellowads.com/view/A67C98566BC7, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=http://adbit.co/adspace.php?a=4801W7G6IJTB4, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=http://adbit.co/adspace.php?a=4801W7G6IJTB4, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=http://mellowads.com/view/6D709411C2BA, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://www.youtube.com/embed/Um63OQz3bjo, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=http://ad.a-ads.com/75792?size=728x90&background_color=0b0a0a&link_color=6a6a6a&title_color=ffffff&text_color=05af07&title_hover_color=ff0000, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://googleads.g.doubleclick.net/pagead/html/r20151103/r20151006/zrt_lookup.html, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-6913811517745103&format=468x60&output=html&h=60&slotname=2560439877&adk=1933094169&w=468&lmt=1446756339&ea=0&flash=0&url=http://satoshifiesta.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC&wgl=0&dt=1446756339671&bpp=8&fdt=11&idt=28&shv=r20151103&cbv=r20151006&saldr=aa&correlator=2676223983617&frm=20&ga_vid=1515823195.1446756340&ga_sid=1446756340&ga_hid=1123936680&ga_fc=0&pv=2&u_tz=0&u_his=15&u_java=0&u_h=768&u_w=1024&u_ah=768&u_aw=1024&u_cd=32&u_nplug=0&u_nmime=0&dff=helvetica neue&dfs=14&adx=30&ady=1081&biw=400&bih=300&eid=575144605,317150304&oid=3&rx=0&eae=4&fc=88&pc=0&brdim=0,0,0,0,1024,0,0,0,400,300&vis=0&rsz=|||&abl=CS&ppjl=u&pfx=0&fu=1040&bc=1&ifi=1&dtd=54, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-6913811517745103&format=468x60&output=html&h=60&slotname=8395009075&adk=901322130&w=468&lmt=1446756339&ea=0&flash=0&url=http://satoshifiesta.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC&wgl=0&dt=1446756339732&bpp=2&fdt=2&idt=14&shv=r20151103&cbv=r20151006&saldr=aa&prev_fmts=468x60&correlator=2676223983617&frm=20&ga_vid=1515823195.1446756340&ga_sid=1446756340&ga_hid=1123936680&ga_fc=0&pv=1&u_tz=0&u_his=15&u_java=0&u_h=768&u_w=1024&u_ah=768&u_aw=1024&u_cd=32&u_nplug=0&u_nmime=0&dff=helvetica neue&dfs=14&adx=30&ady=1458&biw=400&bih=300&eid=575144605,317150304&oid=3&rx=0&eae=4&fc=88&pc=0&brdim=0,0,0,0,1024,0,0,0,400,300&vis=0&rsz=|||&abl=CS&ppjl=u&pfx=0&fu=1040&bc=1&ifi=2&dtd=29, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-6913811517745103&format=300x250&output=html&h=250&slotname=6709607873&adk=2477922088&w=300&lmt=1446756339&avail_w=340&ea=0&flash=0&url=http://satoshifiesta.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC&wgl=0&dt=1446756339764&bpp=2&fdt=3&idt=13&shv=r20151103&cbv=r20151006&saldr=aa&prev_fmts=468x60,468x60&correlator=2676223983617&frm=20&ga_vid=1515823195.1446756340&ga_sid=1446756340&ga_hid=1123936680&ga_fc=0&pv=1&u_tz=0&u_his=15&u_java=0&u_h=768&u_w=1024&u_ah=768&u_aw=1024&u_cd=32&u_nplug=0&u_nmime=0&dff=helvetica neue&dfs=14&adx=50&ady=1524&biw=400&bih=300&eid=575144605,317150304&oid=3&rx=0&eae=4&fc=88&pc=0&brdim=0,0,0,0,1024,0,0,0,400,300&vis=0&rsz=|||&abl=CS&ppjl=u&pfx=0&fu=1040&bc=1&ifi=3&dtd=29, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://funcaptcha.com/fc/gc/?token=526563bbff3603f08.83031101&r=us-east-1&meta=3&metabgclr=#edf0f5&metaiconclr=#aebad3&guitextcolor=#000000&surl=https://funcaptcha.com, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://funcaptcha.com/fc/gc/blank.html, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://funcaptcha.com/fc/gc/blank.html, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://secure.flashtalking.com/48145/1119389/index.html, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://cm.g.doubleclick.net/push?client=ca-pub-6913811517745103&srn=gdn, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Successfully injected Casper client-side utilities
+[36m[info][0m [phantom] Step anonymous 30/1492 http://satoshifiesta.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC (HTTP 200)
+OK http://satoshifiesta.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+NO MATCH FOR funds.*?:.*?\d+
+
+
+
+
+
+
+thisMatch: Balance: 2630064
+[36m[info][0m [phantom] Step anonymous 30/1492: done in 53167ms.
+[32;1m[debug][0m [phantom] opening url: http://welovebtc.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC, HTTP GET
+[32;1m[debug][0m [phantom] Navigation requested: url=http://welovebtc.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC, type=Other, willNavigate=true, isMainFrame=true
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] url changed to "http://welovebtc.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC"
+[32;1m[debug][0m [phantom] Navigation requested: url=http://welovebtc.com/faucets_list/, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=http://coinad.com/ads/show/show.php?a=KU8GYGH1XR0JL&b=12OVGJTG9KA6R, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=http://coinad.com/ads/show/show.php?a=KU8GYGH1XR0JL&b=GEFSLNBUDLSEE, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=http://adbit.co/adspace.php?a=6HQFJHGLS8HAP, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=http://coinad.com/ads/show/show.php?a=KU8GYGH1XR0JL&b=7J8GZXVVTSCFR, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=http://coinad.com/ads/show/show.php?a=KU8GYGH1XR0JL&b=VFTUYY29GM41I, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=http://ad.a-ads.com/53478?size=728x90, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://googleads.g.doubleclick.net/pagead/html/r20151103/r20151006/zrt_lookup.html, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-7460009305463436&format=300x250&output=html&h=250&slotname=6621349304&adk=2350504529&w=300&lmt=1446756340&ea=0&flash=0&url=http://welovebtc.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC&resp_fmts=1&wgl=0&dt=1446756340807&bpp=7&fdt=10&idt=28&shv=r20151103&cbv=r20151006&saldr=aa&correlator=1050925252609&frm=20&ga_vid=870625528.1446756341&ga_sid=1446756341&ga_hid=164023866&ga_fc=0&pv=2&u_tz=0&u_his=16&u_java=0&u_h=768&u_w=1024&u_ah=768&u_aw=1024&u_cd=32&u_nplug=0&u_nmime=0&dff=roboto&dfs=14&adx=50&ady=778&biw=400&bih=300&eid=575144605,317150304&oid=3&rx=0&eae=4&fc=88&pc=0&brdim=0,0,0,0,1024,0,0,0,400,300&vis=0&rsz=|||&abl=CS&ppjl=u&pfx=0&fu=1168&bc=1&ifi=1&dtd=54, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-7460009305463436&format=300x250&output=html&h=250&slotname=8516884906&adk=2975446016&w=300&lmt=1446756340&ea=0&flash=0&url=http://welovebtc.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC&resp_fmts=3&wgl=0&dt=1446756340866&bpp=3&fdt=3&idt=19&shv=r20151103&cbv=r20151006&saldr=aa&prev_fmts=300x250&correlator=1050925252609&frm=20&ga_vid=870625528.1446756341&ga_sid=1446756341&ga_hid=164023866&ga_fc=0&pv=1&u_tz=0&u_his=16&u_java=0&u_h=768&u_w=1024&u_ah=768&u_aw=1024&u_cd=32&u_nplug=0&u_nmime=0&dff=roboto&dfs=14&adx=17&ady=1192&biw=400&bih=300&eid=575144605,317150304&oid=3&rx=0&eae=4&fc=88&pc=0&brdim=0,0,0,0,1024,0,0,0,400,300&vis=0&rsz=|d||&abl=NS&ppjl=u&pfx=0&fu=1168&bc=1&ifi=2&dtd=40, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=http://adbit.co/adspace.php?a=8A6NSV26P57FX, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=http://adbit.co/adspace.php?a=8A6NSV26P57FX, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=http://adbit.co/adspace.php?a=0XM9B83BC5TL9, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=http://seg.sharethis.com/getSegment.php?purl=http://welovebtc.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC&jsref=&rnd=1446756341041, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://cdn.w55c.net/i/s_0RqMJ5eSBO_529078898.html?&rtbhost=rtb03-c.us.dataxu.net&btid=NTYzQkJGRjQwMDBEOEJDNjBBODExODRDRjQwM0Y4QjJ8R0ZHZlY2blJsZ3wxNDQ2NzU2MzQwOTQyfDF8MEZmYVpwVlZ1ZnwwUnFNSjVlU0JPfC0xMzI2NTcxNzU2X0VYfDM2MDAwMHx8fHwxNS4wUHxVU0Q&ei=GOOGLE_CONTENTNETWORK&wp_exchange=Vju_9AANi8YKgRhMAAP4sqfy4mjEBipp-z0akg&psid=MTQwNDAwNjc3MQ&js=0&ob=1&ccw=SUFCMTMjMC4wNzE2NTE1N3xJQUIxOSMwLjE4MDMzODA1fElBQjMjMC4wODI1NTM2N3xJQUIxMy0yIzAuMDcxNjUxNTc&ci=0COSz8E2EI&fiu=MEZmYVpwVlZ1Zg&sd=welovebtc.com&s=http://welovebtc.com/&ts=1446756340976&dvt=1&dvdp=tps30.doubleverify.com/visit.jpg&ai=0DwV5dG6CI&tpcee=http://adclick.g.doubleclick.net/aclk%3Fsa%3Dl%26ai%3DCpWLB9L87VsaXNsywhASy8Y-gD52Rie4FteP097gBwI23ARABIABgya6ZjeykgBCCARdjYS1wdWItNzQ2MDAwOTMwNTQ2MzQzNqABsbTV7APIAQmoAwGqBH1P0FPqxMjLXUkgKw7Rn6px87taB76wWd2aRGT8jAeqjah69n5s_GmkQiavha5dYeKH9qTHg5Ay3_KlION2cvxcWSPwLcPCkFZxd7TQd0f_1V92IAXwY9FN-_bbyh2MOhMKPm05O24VhJd2-y2q1NOYWM9rPzFHN6EzYoy-IIAGwafo1Kf417YKoAYh2AcA%26num%3D1%26sig%3DAOD64_1oUZCFYggpbXUDCbkDiVEZejV3pw%26client%3Dca-pub-7460009305463436%26adurl%3D&c=US&r=VA&m=511&pc=20147&rnd=5319552883425772&epid=R0Mx&ct=b1cca87ae82e40c7b29b2c3e67e2cd5a&l=ZW58fA&v=2&euid=Q0FFU0VDUFZvSUwwTmFxOHRMUGFqNVZhSzdr, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://cm.g.doubleclick.net/push?client=ca-pub-7460009305463436&srn=gdn, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://cdn.w55c.net/i/s_0RqMJ5eSBO_529078898.html?&rtbhost=rtb03-c.us.dataxu.net&btid=NTYzQkJGRjQwMDBFMzg5OTBBODEzNkM4RjQwMDI2QUJ8R0Yzdmp1T2swUXwxNDQ2NzU2MzQwOTg2fDF8MEZmYVpwVlZ1ZnwwUnFNSjVlU0JPfC0xMzI2NTcxNzU2X0VYfDM2MDAwMHx8fHwxNS4wUHxVU0Q&ei=GOOGLE_CONTENTNETWORK&wp_exchange=Vju_9AAOOJkKgTbIAAAmqzsbJ8ze6Oupc4jRAw&psid=MTQwNDAwNjc3MQ&js=0&ob=1&ccw=SUFCMTMjMC4wNzE2NTE1N3xJQUIxOSMwLjE4MDMzODA1fElBQjMjMC4wODI1NTM2N3xJQUIxMy0yIzAuMDcxNjUxNTc&ci=0COSz8E2EI&fiu=MEZmYVpwVlZ1Zg&sd=welovebtc.com&s=http://welovebtc.com/&ts=1446756341009&dvt=1&dvdp=tps30.doubleverify.com/visit.jpg&ai=0DwV5dG6CI&tpcee=http://adclick.g.doubleclick.net/aclk%3Fsa%3Dl%26ai%3DC8sl19L87VpnxOMjthASrzYCgD52Rie4FteP097gBwI23ARABIABgya6ZjeykgBCCARdjYS1wdWItNzQ2MDAwOTMwNTQ2MzQzNqABsbTV7APIAQmoAwGqBHxP0Ok4RPzN3eLyBxvSdPZQYrokogYi5Zu2-Unzh67o-GDxtNDMJXoXd-Owm2LBIJQ75onEjJxs3bgFg_5ZnsG1KcFUAD27a5rbS5AipA6grL74tX11nGqGE_GfpXvbsUKixUKiCUQYJW0Z6Y-LLXNcpjr72Jl5iZivpEhOgAbBp-jUp_jXtgqgBiHYBwA%26num%3D1%26sig%3DAOD64_153wmcgqkWPcgaxBEZEB0aEBQTuw%26client%3Dca-pub-7460009305463436%26adurl%3D&c=US&r=VA&m=511&pc=20147&rnd=2213809234708078&epid=R0Mx&ct=b1cca87ae82e40c7b29b2c3e67e2cd5a&l=ZW58fA&v=2&euid=Q0FFU0VDUFZvSUwwTmFxOHRMUGFqNVZhSzdr, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://cm.g.doubleclick.net/push?client=ca-pub-7460009305463436&srn=gdn, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=rsb&c=28&pli=14631367&PluID=0&w=300&h=250&ord=5319552883425772&ifrm=2&ucm=false&ncu=https://i.w55c.net/cl?t=1&btid=NTYzQkJGRjQwMDBEOEJDNjBBODExODRDRjQwM0Y4QjJ8R0ZHZlY2blJsZ3wxNDQ2NzU2MzQwOTQyfDF8MEZmYVpwVlZ1ZnwwUnFNSjVlU0JPfC0xMzI2NTcxNzU2X0VYfDM2MDAwMHx8fHwxNS4wUHxVU0Q&ei=GOOGLE_CONTENTNETWORK&tpc=http://adclick.g.doubleclick.net/aclk%3Fsa%3Dl%26ai%3DCpWLB9L87VsaXNsywhASy8Y-gD52Rie4FteP097gBwI23ARABIABgya6ZjeykgBCCARdjYS1wdWItNzQ2MDAwOTMwNTQ2MzQzNqABsbTV7APIAQmoAwGqBH1P0FPqxMjLXUkgKw7Rn6px87taB76wWd2aRGT8jAeqjah69n5s_GmkQiavha5dYeKH9qTHg5Ay3_KlION2cvxcWSPwLcPCkFZxd7TQd0f_1V92IAXwY9FN-_bbyh2MOhMKPm05O24VhJd2-y2q1NOYWM9rPzFHN6EzYoy-IIAGwafo1Kf417YKoAYh2AcA%26num%3D1%26sig%3DAOD64_1oUZCFYggpbXUDCbkDiVEZejV3pw%26client%3Dca-pub-7460009305463436%26adurl%3D&rurl=, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=rsb&c=28&pli=14631367&PluID=0&w=300&h=250&ord=2213809234708078&ifrm=2&ucm=false&ncu=https://i.w55c.net/cl?t=1&btid=NTYzQkJGRjQwMDBFMzg5OTBBODEzNkM4RjQwMDI2QUJ8R0Yzdmp1T2swUXwxNDQ2NzU2MzQwOTg2fDF8MEZmYVpwVlZ1ZnwwUnFNSjVlU0JPfC0xMzI2NTcxNzU2X0VYfDM2MDAwMHx8fHwxNS4wUHxVU0Q&ei=GOOGLE_CONTENTNETWORK&tpc=http://adclick.g.doubleclick.net/aclk%3Fsa%3Dl%26ai%3DC8sl19L87VpnxOMjthASrzYCgD52Rie4FteP097gBwI23ARABIABgya6ZjeykgBCCARdjYS1wdWItNzQ2MDAwOTMwNTQ2MzQzNqABsbTV7APIAQmoAwGqBHxP0Ok4RPzN3eLyBxvSdPZQYrokogYi5Zu2-Unzh67o-GDxtNDMJXoXd-Owm2LBIJQ75onEjJxs3bgFg_5ZnsG1KcFUAD27a5rbS5AipA6grL74tX11nGqGE_GfpXvbsUKixUKiCUQYJW0Z6Y-LLXNcpjr72Jl5iZivpEhOgAbBp-jUp_jXtgqgBiHYBwA%26num%3D1%26sig%3DAOD64_153wmcgqkWPcgaxBEZEB0aEBQTuw%26client%3Dca-pub-7460009305463436%26adurl%3D&rurl=, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://c.betrad.com/ba.html?d5fceb3, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://c.betrad.com/ba.html?d5fceb3, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://cdn3.doubleverify.com/t2tv7.html, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://cdn3.doubleverify.com/t2tv7.html, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Successfully injected Casper client-side utilities
+[36m[info][0m [phantom] Step anonymous 32/1492 http://welovebtc.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC (HTTP 200)
+OK http://welovebtc.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+NO MATCH FOR funds.*?:.*?\d+
+
+
+
+NO MATCH FOR balance.*?:.*?\d+
+
+
+
+[36m[info][0m [phantom] Step anonymous 32/1492: done in 54622ms.
+[32;1m[debug][0m [phantom] opening url: http://minionsfaucet.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC, HTTP GET
+[32;1m[debug][0m [phantom] Navigation requested: url=http://minionsfaucet.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC, type=Other, willNavigate=true, isMainFrame=true
+[32;1m[debug][0m [phantom] url changed to "http://minionsfaucet.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC"
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://googleads.g.doubleclick.net/pagead/html/r20151103/r20151006/zrt_lookup.html, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-0974979611568830&format=340x100&output=html&h=100&slotname=6327591901&adk=3672839488&w=340&lmt=1446756342&ea=0&flash=0&url=http://minionsfaucet.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC&resp_fmts=3&wgl=0&dt=1446756342035&bpp=20&fdt=22&idt=39&shv=r20151103&cbv=r20151006&saldr=aa&correlator=5477206960129&frm=20&ga_vid=81047579.1446756342&ga_sid=1446756342&ga_hid=454326364&ga_fc=0&pv=2&u_tz=0&u_his=17&u_java=0&u_h=768&u_w=1024&u_ah=768&u_aw=1024&u_cd=32&u_nplug=0&u_nmime=0&dff=helvetica neue&dfs=14&adx=30&ady=102&biw=400&bih=300&eid=575144605,317150304&oid=3&rx=0&eae=4&fc=88&pc=0&brdim=0,0,0,0,1024,0,0,0,400,300&vis=0&rsz=|||&abl=CS&ppjl=u&pfx=0&fu=1168&bc=1&ifi=1&dtd=64, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-0974979611568830&format=340x280&output=html&h=280&slotname=7360659905&adk=3017469944&w=340&lmt=1446756342&ea=0&flash=0&url=http://minionsfaucet.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC&resp_fmts=3&wgl=0&dt=1446756342104&bpp=3&fdt=3&idt=19&shv=r20151103&cbv=r20151006&saldr=aa&prev_fmts=340x100&correlator=5477206960129&frm=20&ga_vid=81047579.1446756342&ga_sid=1446756342&ga_hid=454326364&ga_fc=0&pv=1&u_tz=0&u_his=17&u_java=0&u_h=768&u_w=1024&u_ah=768&u_aw=1024&u_cd=32&u_nplug=0&u_nmime=0&dff=helvetica neue&dfs=14&adx=30&ady=870&biw=400&bih=300&eid=575144605,317150304&oid=3&rx=0&eae=4&fc=88&pc=0&brdim=0,0,0,0,1024,0,0,0,400,300&vis=0&rsz=|d||&abl=NS&ppjl=u&pfx=0&fu=1168&bc=1&ifi=2&dtd=41, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-0974979611568830&format=340x280&output=html&h=280&slotname=1314126304&adk=947498736&w=340&lmt=1446756342&ea=0&flash=0&url=http://minionsfaucet.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC&resp_fmts=3&wgl=0&dt=1446756342150&bpp=2&fdt=2&idt=18&shv=r20151103&cbv=r20151006&saldr=aa&prev_fmts=340x100,340x280&correlator=5477206960129&frm=20&ga_vid=81047579.1446756342&ga_sid=1446756342&ga_hid=454326364&ga_fc=0&pv=1&icsg=2&nhd=1&dssz=2&mdo=0&mso=0&u_tz=0&u_his=17&u_java=0&u_h=768&u_w=1024&u_ah=768&u_aw=1024&u_cd=32&u_nplug=0&u_nmime=0&dff=helvetica neue&dfs=14&adx=30&ady=1199&biw=400&bih=300&eid=575144605,317150304,20040051&oid=3&rx=0&eae=4&fc=88&pc=0&brdim=0,0,0,0,1024,0,0,0,400,300&vis=0&rsz=|d||&abl=NS&ppjl=u&pfx=0&fu=1168&bc=1&ifi=3&dtd=41, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-0974979611568830&format=300x600&output=html&h=600&slotname=6442329905&adk=3584207963&w=300&lmt=1446756342&ea=0&flash=0&url=http://minionsfaucet.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC&wgl=0&dt=1446756342197&bpp=2&fdt=2&idt=18&shv=r20151103&cbv=r20151006&saldr=aa&prev_fmts=340x100,340x280,340x280&correlator=5477206960129&frm=20&ga_vid=81047579.1446756342&ga_sid=1446756342&ga_hid=454326364&ga_fc=0&pv=1&u_tz=0&u_his=17&u_java=0&u_h=768&u_w=1024&u_ah=768&u_aw=1024&u_cd=32&u_nplug=0&u_nmime=0&dff=helvetica neue&dfs=14&adx=30&ady=1749&biw=400&bih=300&eid=575144605,317150304&oid=3&rx=0&eae=4&fc=88&pc=0&brdim=0,0,0,0,1024,0,0,0,400,300&vis=0&rsz=||l|&abl=CS&ppjl=u&pfx=0&fu=1040&bc=1&ifi=4&dtd=40, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-0974979611568830&format=300x600&output=html&h=600&slotname=6442329905&adk=3584207963&w=300&lmt=1446756342&ea=0&flash=0&url=http://minionsfaucet.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC&wgl=0&dt=1446756342242&bpp=2&fdt=3&idt=18&shv=r20151103&cbv=r20151006&saldr=aa&prev_fmts=340x100,340x280,340x280,300x600&correlator=5477206960129&frm=20&ga_vid=81047579.1446756342&ga_sid=1446756342&ga_hid=454326364&ga_fc=0&pv=1&u_tz=0&u_his=17&u_java=0&u_h=768&u_w=1024&u_ah=768&u_aw=1024&u_cd=32&u_nplug=0&u_nmime=0&dff=helvetica neue&dfs=14&adx=230&ady=1749&biw=400&bih=300&eid=575144605,317150304,4087070&oid=3&rx=0&eae=4&fc=88&pc=0&brdim=0,0,0,0,1024,0,0,0,400,300&vis=0&rsz=||l|&abl=CS&ppjl=u&pfx=0&fu=1040&bc=1&ifi=5&dtd=40, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://www.google.com/recaptcha/api2/anchor?k=6Le9FgsTAAAAAFP_QmrVy0V55nHncE7Re34Fzwea&co=aHR0cDovL21pbmlvbnNmYXVjZXQuY29t&hl=en&v=r20151013164303&size=normal&usegapi=1&jsh=m;/_/scs/apps-static/_/js/k=oz.gapi.en_US.4FKFoWCIF4w.O/m=__features__/am=AQ/rt=j/d=1/t=zcms/rs=AGLTcCMXNYv6sbPhZJzmBm7atF39_ZXK1w#id=I0_1446756342387&parent=http://minionsfaucet.com&pfname=&rpctoken=14916028, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://cm.g.doubleclick.net/push?client=ca-pub-0974979611568830&srn=gdn, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://ad.atdmt.com/as/direct;p=11087204554702;as=0;a=11087204554676;crs=11087204554640;cr=11087204554641;i.ts=1446756342/Cloud_EMS_Banner2B_Animated_EN_US_160x600/index.html?click=http://adclick.g.doubleclick.net/aclk?sa=L&ai=C4XWY9r87Vvz0D5aZhATAzKGQBvitmNsIwPiO8MwCwI23ARABINOozRlgya6ZjeykgBDIAQmoAwGqBJcBT9B_oqkCPlg1p_IzBSVBTGBZ3VY9zWaZrXxw3oF0XVI_djGsc8b5EdGC_j2A4GvbvV2ao0D93HvVciPv5zO1M6EFULycwgiqmq-_osUDj51oxSJfqzqqQ7xntKSt6qT4Y_1MI7R5AskJBG3t2q6sNnV74sonzT5yeadN3y_hpDlpdTEEzLA1VgQGDKQ7-lzr826E9KB6MaAGEYAHuNmzPqgHpr4b2AcA&num=1&sig=AOD64_1G4UtBG_Hi2tvNtoTZElWFJSwvzg&client=ca-pub-0974979611568830&adurl=, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Successfully injected Casper client-side utilities
+[32;1m[debug][0m [phantom] Navigation requested: url=https://cm.g.doubleclick.net/push?client=ca-pub-0974979611568830&srn=gdn, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://cm.g.doubleclick.net/push?client=ca-pub-0974979611568830&srn=gdn, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://secure.flashtalking.com/48145/1119389/index.html, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://cm.g.doubleclick.net/push?client=ca-pub-0974979611568830&srn=gdn, type=Other, willNavigate=true, isMainFrame=false
+[36m[info][0m [phantom] Step anonymous 34/1492 http://minionsfaucet.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC (HTTP 200)
+OK http://minionsfaucet.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+NO MATCH FOR funds.*?:.*?\d+
+
+
+
+
+
+
+thisMatch: Balance: 28096771
+[36m[info][0m [phantom] Step anonymous 34/1492: done in 55796ms.
+[32;1m[debug][0m [phantom] opening url: http://greenbitco.in/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC, HTTP GET
+[32;1m[debug][0m [phantom] Navigation requested: url=http://greenbitco.in/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC, type=Other, willNavigate=true, isMainFrame=true
+[32;1m[debug][0m [phantom] url changed to "http://greenbitco.in/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC"
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://googleads.g.doubleclick.net/pagead/html/r20151103/r20151006/zrt_lookup.html, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-2801849552141328&format=360x280&output=html&h=280&slotname=1930327305&adk=130875386&w=360&lmt=1446756347&ea=0&flash=0&url=http://greenbitco.in/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC&resp_fmts=3&wgl=0&dt=1446756347814&bpp=6&fdt=8&idt=19&shv=r20151103&cbv=r20151006&saldr=aa&correlator=3079241873409&frm=20&ga_vid=1723523776.1446756348&ga_sid=1446756348&ga_hid=1945851948&ga_fc=0&pv=2&u_tz=0&u_his=18&u_java=0&u_h=768&u_w=1024&u_ah=768&u_aw=1024&u_cd=32&u_nplug=0&u_nmime=0&dff=quattrocento&dfs=16&adx=20&ady=223&biw=400&bih=300&eid=575144605,317150304,4087072&oid=3&rx=0&eae=4&fc=88&pc=0&brdim=0,0,0,0,1024,0,0,0,400,300&vis=0&rsz=|d||&abl=NS&ppjl=u&pfx=0&fu=144&bc=1&ifi=1&dtd=37, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=http://adbit.co/adspace.php?a=ETK2RCU147VQN, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-3282547114800347&output=html&h=600&slotname=6340807874&adk=3193835341&w=160&lmt=1446756348&ea=0&flash=0&url=http://greenbitco.in/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC&wgl=0&dt=1446756348127&bpp=4&fdt=21&idt=137&shv=r20151029&cbv=r20151006&saldr=sa&prev_fmts=360x280&correlator=3079241873409&frm=20&ga_vid=1723523776.1446756348&ga_sid=1446756348&ga_hid=1945851948&ga_fc=0&pv=2&u_tz=0&u_his=18&u_java=0&u_h=768&u_w=1024&u_ah=768&u_aw=1024&u_cd=32&u_nplug=0&u_nmime=0&dff=quattrocento&dfs=16&adx=20&ady=593&biw=400&bih=300&eid=575144605,317150304&oid=3&rx=0&eae=4&fc=88&pc=0&brdim=0,0,0,0,1024,0,0,0,400,300&vis=0&rsz=d|d||n&abl=XS&ppjl=u1&pfx=0&fu=1040&bc=1&ifi=2&dtd=159, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-2801849552141328&format=300x600&output=html&h=600&slotname=5597115707&adk=4170750426&w=300&lmt=1446756348&ea=0&flash=0&url=http://greenbitco.in/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC&wgl=0&dt=1446756348154&bpp=4&fdt=143&idt=159&shv=r20151103&cbv=r20151006&saldr=aa&prev_fmts=360x280&prev_slotnames=6340807874&correlator=3079241873409&frm=20&ga_vid=1723523776.1446756348&ga_sid=1446756348&ga_hid=1945851948&ga_fc=0&pv=1&u_tz=0&u_his=18&u_java=0&u_h=768&u_w=1024&u_ah=768&u_aw=1024&u_cd=32&u_nplug=0&u_nmime=0&dff=quattrocento&dfs=16&adx=1120&ady=593&biw=400&bih=300&eid=575144605,317150304&oid=3&rx=0&eae=4&fc=88&pc=0&brdim=0,0,0,0,1024,0,0,0,400,300&vis=0&rsz=d|||n&abl=XS&ppjl=f&pfx=0&fu=1040&bc=1&ifi=3&dtd=182, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-2801849552141328&output=html&h=15&slotname=5659982506&adk=1983112152&w=728&lmt=1446756348&ea=0&flash=0&url=http://greenbitco.in/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC&wgl=0&dt=1446756348167&bpp=1&fdt=185&idt=201&shv=r20151103&cbv=r20151006&saldr=aa&prev_fmts=360x280,300x600&prev_slotnames=6340807874&correlator=3079241873409&frm=20&ga_vid=1723523776.1446756348&ga_sid=1446756348&ga_hid=1945851948&ga_fc=0&pv=1&u_tz=0&u_his=18&u_java=0&u_h=768&u_w=1024&u_ah=768&u_aw=1024&u_cd=32&u_nplug=0&u_nmime=0&dff=quattrocento&dfs=16&adx=284&ady=735&biw=400&bih=300&eid=575144605,317150304&oid=3&rx=0&eae=4&fc=88&pc=0&brdim=0,0,0,0,1024,0,0,0,400,300&vis=0&rsz=d|||n&abl=XS&ppjl=f&pfx=0&fu=1040&bc=1&ifi=4&dtd=224, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-2801849552141328&format=336x280&output=html&h=280&slotname=7173189706&adk=3510532788&w=336&lmt=1446756348&ea=0&flash=0&url=http://greenbitco.in/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC&wgl=0&dt=1446756348199&bpp=2&fdt=210&idt=226&shv=r20151103&cbv=r20151006&saldr=aa&prev_fmts=360x280,300x600&prev_slotnames=6340807874,5659982506&correlator=3079241873409&frm=20&ga_vid=1723523776.1446756348&ga_sid=1446756348&ga_hid=1945851948&ga_fc=0&pv=1&u_tz=0&u_his=18&u_java=0&u_h=768&u_w=1024&u_ah=768&u_aw=1024&u_cd=32&u_nplug=0&u_nmime=0&dff=quattrocento&dfs=16&adx=480&ady=1024&biw=400&bih=300&eid=575144605,317150304&oid=3&rx=0&eae=4&fc=88&pc=0&brdim=0,0,0,0,1024,0,0,0,400,300&vis=0&rsz=d|||n&abl=XS&ppjl=f&pfx=0&fu=1040&bc=1&ifi=5&dtd=249, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=http://mellowads.com/view/336132CF236A, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=http://mellowads.com/view/BEA30A53D09E, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://www.youtube.com/embed/Gc2en3nHxA4?fs=1&hl=en_US&rel=0&hd=1, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-3282547114800347&output=html&h=250&slotname=3387392114&adk=3634690073&w=300&lmt=1446756348&ea=0&flash=0&url=http://greenbitco.in/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC&wgl=0&dt=1446756348344&bpp=4&fdt=152&idt=169&shv=r20151029&cbv=r20151006&saldr=sa&prev_fmts=360x280,300x600,336x280&prev_slotnames=6340807874,5659982506&correlator=3079241873409&frm=20&ga_vid=1723523776.1446756348&ga_sid=1446756348&ga_hid=1945851948&ga_fc=0&pv=1&u_tz=0&u_his=18&u_java=0&u_h=768&u_w=1024&u_ah=768&u_aw=1024&u_cd=32&u_nplug=0&u_nmime=0&dff=quattrocento&dfs=16&adx=500&ady=1483&biw=400&bih=300&eid=575144605,317150304&oid=3&rx=0&eae=4&fc=88&pc=0&brdim=0,0,0,0,1024,0,0,0,400,300&vis=0&rsz=d|||n&abl=XS&ppjl=u1&pfx=0&fu=1040&bc=1&ifi=6&dtd=192, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://cm.g.doubleclick.net/push?client=ca-pub-3282547114800347, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://cm.g.doubleclick.net/push?client=ca-pub-2801849552141328&srn=gdn, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://cm.g.doubleclick.net/push?client=ca-pub-2801849552141328&srn=gdn, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://cm.g.doubleclick.net/push?client=ca-pub-3282547114800347, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-2801849552141328&output=html&h=90&slotname=8898235302&adk=3043583631&w=180&lmt=1446756348&ea=0&flash=0&url=http://greenbitco.in/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC&wgl=0&dt=1446756348406&bpp=2&fdt=550&idt=561&shv=r20151103&cbv=r20151006&saldr=aa&prev_fmts=360x280,300x600,336x280&prev_slotnames=6340807874,5659982506,3387392114&correlator=3079241873409&frm=20&ga_vid=1723523776.1446756348&ga_sid=1446756348&ga_hid=1945851948&ga_fc=0&pv=1&u_tz=0&u_his=18&u_java=0&u_h=768&u_w=1024&u_ah=768&u_aw=1024&u_cd=32&u_nplug=0&u_nmime=0&dff=quattrocento&dfs=16&adx=468&ady=1733&biw=400&bih=300&eid=575144605,317150304&oid=3&rx=0&eae=4&fc=88&pc=0&brdim=0,0,0,0,1024,0,0,0,400,300&vis=0&rsz=d|||n&abl=XS&ppjl=f&pfx=0&fu=1040&bc=1&ifi=7&dtd=580, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://secure.flashtalking.com/48145/1119389/index.html, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://cm.g.doubleclick.net/push?client=ca-pub-2801849552141328&srn=gdn, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-2801849552141328&output=html&h=90&slotname=1374968509&adk=1667071485&w=180&lmt=1446756349&ea=0&flash=0&url=http://greenbitco.in/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC&wgl=0&dt=1446756348462&bpp=2&fdt=722&idt=733&shv=r20151103&cbv=r20151006&saldr=aa&prev_fmts=360x280,300x600,336x280&prev_slotnames=6340807874,5659982506,3387392114,8898235302&correlator=3079241873409&frm=20&ga_vid=1723523776.1446756348&ga_sid=1446756348&ga_hid=1945851948&ga_fc=0&pv=1&u_tz=0&u_his=18&u_java=0&u_h=768&u_w=1024&u_ah=768&u_aw=1024&u_cd=32&u_nplug=0&u_nmime=0&dff=quattrocento&dfs=16&adx=653&ady=1733&biw=400&bih=300&eid=575144605,317150304&oid=3&rx=0&eae=4&fc=88&pc=0&brdim=0,0,0,0,1024,0,0,0,400,300&vis=0&rsz=d|||n&abl=XS&ppjl=f&pfx=0&fu=1040&bc=1&ifi=8&dtd=752, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] Successfully injected Casper client-side utilities
+[32;1m[debug][0m [phantom] Navigation requested: url=https://www.google.com/recaptcha/api2/anchor?k=6Lcr4fsSAAAAAFwezfuKvwe1nH3PUwNZbUMdMhkS&co=aHR0cDovL2dyZWVuYml0Y28uaW4.&hl=en&v=r20151013164303&size=normal&usegapi=1&jsh=m;/_/scs/apps-static/_/js/k=oz.gapi.en_US.4FKFoWCIF4w.O/m=__features__/am=AQ/rt=j/d=1/t=zcms/rs=AGLTcCMXNYv6sbPhZJzmBm7atF39_ZXK1w#id=I0_1446756349467&parent=http://greenbitco.in&pfname=&rpctoken=21688840, type=Other, willNavigate=true, isMainFrame=false
+[36m[info][0m [phantom] Step anonymous 36/1492 http://greenbitco.in/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC (HTTP 200)
+OK http://greenbitco.in?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC
+NO MATCH FOR funds.*?:.*?\d+
+
+
+
+NO MATCH FOR balance.*?:.*?\d+
+
+
+
+[36m[info][0m [phantom] Step anonymous 36/1492: done in 62343ms.
+[32;1m[debug][0m [phantom] opening url: https://xchange.cc/bitcoincran/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC, HTTP GET
+[32;1m[debug][0m [phantom] Navigation requested: url=https://xchange.cc/bitcoincran/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC, type=Other, willNavigate=true, isMainFrame=true
+[32;1m[debug][0m [phantom] Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=false
+[32;1m[debug][0m [phantom] url changed to "https://xchange.cc/bitcoincran/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC"
+[32;1m[debug][0m [phantom] Navigation requested: url=https://www.google.com/recaptcha/api2/anchor?k=6LcH9A0TAAAAAA7aqJE9AoLpw9NLtu07hDYcOjnn&co=aHR0cHM6Ly94Y2hhbmdlLmNj&hl=en&v=r20151013164303&size=normal&usegapi=1&jsh=m;/_/scs/apps-static/_/js/k=oz.gapi.en_US.4FKFoWCIF4w.O/m=__features__/am=AQ/rt=j/d=1/t=zcms/rs=AGLTcCMXNYv6sbPhZJzmBm7atF39_ZXK1w#id=I0_1446756351378&parent=https://xchange.cc&pfname=&rpctoken=86813208, type=Other, willNavigate=true, isMainFrame=false

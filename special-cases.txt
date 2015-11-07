@@ -1,0 +1,31 @@
+--- 
+ http://faucet-bitco.in/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC, HTTP GET                                                                                                                                                                                                             
+ (34) TOTAL: 517632038                                                                                                                                                                                       
+                                                                                                                                                                                                             
+---                                                                                                                                                                                                          
+NO MATCH FOR funds.*?:.*?\d+                                                                                                                                                                                 
+                                                                                                                                                                                                             
+                                                                                                                                                                                                             
+                                                                                                                                                                                                             
+                                                                                                                                                                                                             
+                                                                                                                                                                                                             
+                                                                                                                                                                                                             
+CORRIGIDO:  thisMatch: Balance: 9031083,Balance: 9031083  
+
+
+----------------------------------
+
+(45) TOTAL: 741982059
+
+thisMatch: balance: 577
+[36m[info][0m [phantom] Step anonymous 184/1458: done in 345334ms.
+
+
+
+
+----------------------------------
+
+LOOK HERE FOR ANSWERS ABOUT FILTERING STUFF AND OTHER USEFUL EVENTS
+http://docs.casperjs.org/en/latest/events-filters.html
+
+
