@@ -261,3 +261,471 @@
 			"name": "getsatoshi.xyz",
 			"highestdailypayout": "0 satoshi"
 		},
+		{
+			"clean": "true",
+			"reward": "617 satoshi",
+			"interval": "0 min",
+			"description": 1446341207289,
+			"link": "http://givemecoins.xyz?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC",
+			"name": "givemecoins.xyz",
+			"highestdailypayout": "0 satoshi"
+		},
+		{
+			"clean": "true",
+			"reward": "589 satoshi",
+			"interval": "0 min",
+			"description": 1446341207290,
+			"link": "http://allbtc.ru/btc/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC",
+			"name": "allbtc.ru",
+			"highestdailypayout": "0 satoshi"
+		},
+		{
+			"clean": "true",
+			"reward": "581 satoshi",
+			"interval": "0 min",
+			"description": 1446341207291,
+			"link": "http://foxfaucetbitcoin.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC",
+			"name": "foxfaucetbitcoin.com",
+			"highestdailypayout": "0 satoshi"
+		},
+		{
+			"clean": "true",
+			"reward": "580 satoshi",
+			"interval": "0 min",
+			"description": 1446341207291,
+			"link": "http://tr4.eu?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC",
+			"name": "tr4.eu",
+			"highestdailypayout": "0 satoshi"
+		},
+		{
+			"clean": "true",
+			"reward": "545 satoshi",
+			"interval": "0 min",
+			"description": 1446341207297,
+			"link": "http://givemebtc.xyz/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC",
+			"name": "givemebtc.xyz",
+			"highestdailypayout": "0 satoshi"
+		},
+		{
+			"clean": "true",
+			"reward": "539 satoshi",
+			"interval": "0 min",
+			"description": 1446341207297,
+			"link": "http://navjob.info/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC",
+			"name": "navjob.info",
+			"highestdailypayout": "0 satoshi"
+		},
+		{
+			"clean": "true",
+			"reward": "536 satoshi",
+			"interval": "0 min",
+			"description": 1446341207297,
+			"link": "http://starcraft.pw?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC",
+			"name": "starcraft.pw",
+			"highestdailypayout": "0 satoshi"
+		},
+		{
+			"clean": "true",
+			"reward": "535 satoshi",
+			"interval": "0 min",
+			"description": 1446341207297,
+			"link": "http://sclib.pw?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC",
+			"name": "sclib.pw",
+			"highestdailypayout": "0 satoshi"
+		},
+		{
+			"clean": "true",
+			"reward": "534 satoshi",
+			"interval": "0 min",
+			"description": 1446341207298,
+			"link": "http://woweu.pw?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC",
+			"name": "woweu.pw",
+			"highestdailypayout": "0 satoshi"
+		},
+		{
+			"clean": "true",
+			"reward": "532 satoshi",
+			"interval": "0 min",
+			"description": 1446341207298,
+			"link": "http://wowgold.pw?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC",
+			"name": "wowgold.pw",
+			"highestdailypayout": "0 satoshi"
+		},
+		{
+			"clean": "true",
+			"reward": "526 satoshi",
+			"interval": "0 min",
+			"description": 1446341207298,
+			"link": "http://btcearn.ml/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC",
+			"name": "btcearn.ml",
+			"highestdailypayout": "0 satoshi"
+		},
+		{
+			"clean": "true",
+			"reward": "513 satoshi",
+			"interval": "0 min",
+			"description": 1446341207298,
+			"link": "http://freecoins.info?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC",
+			"name": "freecoins.info",
+			"highestdailypayout": "0 satoshi"
+		},
+		{
+			"clean": "true",
+			"reward": "498 satoshi",
+			"interval": "0 min",
+			"description": 1446341207299,
+			"link": "http://ifaucet.info?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC",
+			"name": "ifaucet.info",
+			"highestdailypayout": "0 satoshi"
+		},
+		{
+			"clean": "true",
+			"reward": "494 satoshi",
+			"interval": "0 min",
+			"description": 1446341207299,
+			"link": "http://faucet-bitco.in.ua?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC",
+			"name": "faucet-bitco.in.ua",
+			"highestdailypayout": "0 satoshi"
+		},
+		{
+			"clean": "true",
+			"reward": "484 satoshi",
+			"interval": "0 min",
+			"description": 1446341207300,
+			"link": "http://sc2.pw/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC",
+			"name": "sc2.pw",
+			"highestdailypayout": "0 satoshi"
+		},
+		{
+			"clean": "true",
+			"reward": "471 satoshi",
+			"interval": "0 min",
+			"description": 1446341207300,
+			"link": "http://printmoney.info?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC",
+			"name": "printmoney.info",
+			"highestdailypayout": "0 satoshi"
+		},
+		{
+			"clean": "true",
+			"reward": "449 satoshi",
+			"interval": "0 min",
+			"description": 1446341207300,
+			"link": "http://freebitcoinyour.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC",
+			"name": "freebitcoinyour.com",
+			"highestdailypayout": "0 satoshi"
+		},
+		{
+			"clean": "true",
+			"reward": "433 satoshi",
+			"interval": "0 min",
+			"description": 1446341207301,
+			"link": "http://coin-land.info/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC",
+			"name": "coin-land.info",
+			"highestdailypayout": "0 satoshi"
+		},
+		{
+			"clean": "true",
+			"reward": "419 satoshi",
+			"interval": "0 min",
+			"description": 1446341207301,
+			"link": "http://btc-for-free.tk?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC",
+			"name": "btc-for-free.tk",
+			"highestdailypayout": "0 satoshi"
+		},
+		{
+			"clean": "true",
+			"reward": "427 satoshi",
+			"interval": "0 min",
+			"description": 1446341207301,
+			"link": "http://nukemcoin.ml/bitcoin/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC",
+			"name": "nukemcoin.ml",
+			"highestdailypayout": "0 satoshi"
+		},
+		{
+			"clean": "true",
+			"reward": "410 satoshi",
+			"interval": "0 min",
+			"description": 1446341207302,
+			"link": "http://wot-farm.ru?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC",
+			"name": "wot-farm.ru",
+			"highestdailypayout": "0 satoshi"
+		},
+		{
+			"clean": "true",
+			"reward": "381 satoshi",
+			"interval": "0 min",
+			"description": 1446341207302,
+			"link": "http://rouletkacraft.ru/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC",
+			"name": "rouletkacraft.ru",
+			"highestdailypayout": "0 satoshi"
+		},
+		{
+			"clean": "true",
+			"reward": "364 satoshi",
+			"interval": "0 min",
+			"description": 1446341207303,
+			"link": "http://xn-----7kcbbbr8aaficfrsjefbfd6f8fydh.xn--j1amh/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC",
+			"name": "xn-----7kcbbbr8aaficfrsjefbfd6f8fydh.xn--j1amh",
+			"highestdailypayout": "0 satoshi"
+		},
+		{
+			"clean": "true",
+			"reward": "344 satoshi",
+			"interval": "0 min",
+			"description": 1446341207304,
+			"link": "http://www.freebtc.allmof.net/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC",
+			"name": "www.freebtc.allmof.net",
+			"highestdailypayout": "0 satoshi"
+		},
+		{
+			"clean": "true",
+			"reward": "328 satoshi",
+			"interval": "0 min",
+			"description": 1446341207306,
+			"link": "http://gevemecoin.net/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC",
+			"name": "gevemecoin.net",
+			"highestdailypayout": "0 satoshi"
+		},
+		{
+			"clean": "true",
+			"reward": "327 satoshi",
+			"interval": "0 min",
+			"description": 1446341207306,
+			"link": "http://your-free-btc.info?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC",
+			"name": "your-free-btc.info",
+			"highestdailypayout": "0 satoshi"
+		},
+		{
+			"clean": "true",
+			"reward": "326 satoshi",
+			"interval": "0 min",
+			"description": 1446341207306,
+			"link": "http://casinofaucetbitc.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC",
+			"name": "casinofaucetbitc.com",
+			"highestdailypayout": "0 satoshi"
+		},
+		{
+			"clean": "true",
+			"reward": "321 satoshi",
+			"interval": "0 min",
+			"description": 1446341207306,
+			"link": "http://coin-x.ru/bitcoin/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC",
+			"name": "coin-x.ru",
+			"highestdailypayout": "0 satoshi"
+		},
+		{
+			"clean": "true",
+			"reward": "222 satoshi",
+			"interval": "0 min",
+			"description": 1446341207309,
+			"link": "http://plus.bitganancias.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC",
+			"name": "plus.bitganancias.com",
+			"highestdailypayout": "0 satoshi"
+		},
+		{
+			"clean": "true",
+			"reward": "215 satoshi",
+			"interval": "0 min",
+			"description": 1446341207309,
+			"link": "http://bits2go.com/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC",
+			"name": "bits2go.com",
+			"highestdailypayout": "0 satoshi"
+		},
+		{
+			"clean": "true",
+			"reward": "208 satoshi",
+			"interval": "0 min",
+			"description": 1446341207310,
+			"link": "http://btc-free.info/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC",
+			"name": "btc-free.info",
+			"highestdailypayout": "0 satoshi"
+		},
+		{
+			"clean": "true",
+			"reward": "213 satoshi",
+			"interval": "0 min",
+			"description": 1446341207309,
+			"link": "http://c-free.info?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC",
+			"name": "c-free.info",
+			"highestdailypayout": "0 satoshi"
+		},
+		{
+			"clean": "true",
+			"reward": "210 satoshi",
+			"interval": "0 min",
+			"description": 1446341207310,
+			"link": "http://super-coin.info/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC",
+			"name": "super-coin.info",
+			"highestdailypayout": "0 satoshi"
+		},
+		{
+			"clean": "true",
+			"reward": "207 satoshi",
+			"interval": "0 min",
+			"description": 1446341207310,
+			"link": "http://coin-mine.info?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC",
+			"name": "coin-mine.info",
+			"highestdailypayout": "0 satoshi"
+		},
+		{
+			"clean": "true",
+			"reward": "163 satoshi",
+			"interval": "0 min",
+			"description": 1446341207311,
+			"link": "http://happybit.org/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC",
+			"name": "happybit.org",
+			"highestdailypayout": "0 satoshi"
+		},
+		{
+			"clean": "true",
+			"reward": "158 satoshi",
+			"interval": "0 min",
+			"description": 1446341207311,
+			"link": "http://blizzard.pw/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC",
+			"name": "blizzard.pw",
+			"highestdailypayout": "0 satoshi"
+		},
+		{
+			"clean": "true",
+			"reward": "154 satoshi",
+			"interval": "0 min",
+			"description": 1446341207311,
+			"link": "http://faucet-btc.ml/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC",
+			"name": "faucet-btc.ml",
+			"highestdailypayout": "0 satoshi"
+		},
+		{
+			"clean": "true",
+			"reward": "153 satoshi",
+			"interval": "0 min",
+			"description": 1446341207311,
+			"link": "http://hstn.pw/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC",
+			"name": "hstn.pw",
+			"highestdailypayout": "0 satoshi"
+		},
+		{
+			"clean": "true",
+			"reward": "143 satoshi",
+			"interval": "0 min",
+			"description": 1446341207312,
+			"link": "http://bbits.ru?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC",
+			"name": "bbits.ru",
+			"highestdailypayout": "0 satoshi"
+		},
+		{
+			"clean": "true",
+			"reward": "142 satoshi",
+			"interval": "0 min",
+			"description": 1446341207312,
+			"link": "http://aion.pw/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC",
+			"name": "aion.pw",
+			"highestdailypayout": "0 satoshi"
+		},
+		{
+			"clean": "true",
+			"reward": "141 satoshi",
+			"interval": "0 min",
+			"description": 1446341207312,
+			"link": "http://bitinnet.com/bitcoin-faucet?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC",
+			"name": "bitinnet.com",
+			"highestdailypayout": "0 satoshi"
+		},
+		{
+			"clean": "true",
+			"reward": "140 satoshi",
+			"interval": "0 min",
+			"description": 1446341207312,
+			"link": "http://ll2.pw?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC",
+			"name": "ll2.pw",
+			"highestdailypayout": "0 satoshi"
+		},
+		{
+			"clean": "true",
+			"reward": "123 satoshi",
+			"interval": "0 min",
+			"description": 1446341207312,
+			"link": "http://allbitcoin.info/free?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC",
+			"name": "allbitcoin.info",
+			"highestdailypayout": "0 satoshi"
+		},
+		{
+			"clean": "true",
+			"reward": "67 satoshi",
+			"interval": "0 min",
+			"description": 1446341207315,
+			"link": "http://tipaul.hst.im?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC",
+			"name": "tipaul.hst.im",
+			"highestdailypayout": "0 satoshi"
+		},
+		{
+			"clean": "true",
+			"reward": "45 satoshi",
+			"interval": "0 min",
+			"description": 1446341207315,
+			"link": "http://bitrec.ml/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC",
+			"name": "bitrec.ml",
+			"highestdailypayout": "0 satoshi"
+		},
+		{
+			"clean": "true",
+			"reward": "22 satoshi",
+			"interval": "0 min",
+			"description": 1446341207316,
+			"link": "http://freebitcoincity.tk/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC",
+			"name": "freebitcoincity.tk",
+			"highestdailypayout": "0 satoshi"
+		},
+		{
+			"clean": "true",
+			"reward": "17 satoshi",
+			"interval": "0 min",
+			"description": 1446341207316,
+			"link": "http://aunderrednua.tk/faucet/bitcoin/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC",
+			"name": "aunderrednua.tk",
+			"highestdailypayout": "0 satoshi"
+		},
+		{
+			"clean": "true",
+			"reward": "16 satoshi",
+			"interval": "0 min",
+			"description": 1446341207316,
+			"link": "http://bitbink.com/faucet?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC",
+			"name": "bitbink.com",
+			"highestdailypayout": "0 satoshi"
+		},
+		{
+			"clean": "true",
+			"reward": "413 satoshi",
+			"interval": "0 min",
+			"description": 1446341207301,
+			"link": "http://xhosmedia.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC",
+			"name": "xhosmedia.com",
+			"highestdailypayout": "0 satoshi"
+		},
+		{
+			"clean": "true",
+			"reward": "316 satoshi",
+			"interval": "0 min",
+			"description": 1446341207306,
+			"link": "http://bitcoin-faucet.space?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC",
+			"name": "bitcoin-faucet.space",
+			"highestdailypayout": "0 satoshi"
+		},
+		{
+			"clean": "true",
+			"reward": "614 satoshi",
+			"interval": "0 min",
+			"description": 1446341207289,
+			"link": "http://supersatoshi.xyz/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC",
+			"name": "supersatoshi.xyz",
+			"highestdailypayout": "0 satoshi"
+		},
+		{
+			"clean": "true",
+			"reward": "553 satoshi",
+			"interval": "0 min",
+			"description": 1446341207297,
+			"link": "http://www.geo-btc.com/Btc/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC",
+			"name": "www.geo-btc.com",
+			"highestdailypayout": "0 satoshi"
+		},

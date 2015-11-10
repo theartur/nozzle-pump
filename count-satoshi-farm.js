@@ -12,7 +12,7 @@ var possibleFundsPhrase = ["funds.*?:.*?\\d+", "balance.*?:.*?\\d+"];
 var possibleRewardsPhrase = ["every.*?\\d+.*?(minute|hour)s?"];
 var possibleReferralPhrase = ["referral.*?(http://)"];
 
-var faucetz = require('nozzle-filtered').results;
+var faucetz = require('nozzle-filtered-CLEAN').results;
 
 var casper = require('casper').create({
     pageSettings: { 
@@ -33,14 +33,21 @@ casper.on('page.resource.requested', function(requestData, request) {
     }
 });
 
+var totalReadCount = 0;
 var successfulReadCount = 0;
 var totalFunds = 0;
 var idList = [];
 
 function parseFunds(id, match) {
-    var value = parseInt((''+match).replace(/[^0-9]/ig, ''), 10);
+    var value;
+    
+    if (match && match.length && match[0]) {
+       value = parseInt((''+match[0]).replace(/[^0-9\-]/ig, ''), 10);
+    }
+    
     idList.push({id:id,value:value});
-    if (value) {
+    
+    if (value && value > 0) {
         successfulReadCount++;
         totalFunds += value;
     }
@@ -55,7 +62,13 @@ casper.start().each(faucetz, function(self, link) {
     self.thenOpen(link, function() {
         
         this.echo(" -- OK " + link);
-        this.echo('\n\n\n---\n (' + successfulReadCount + ') TOTAL: ' + totalFunds + "\n\n---");
+        var BTCtoUSD = 388;
+        var USDtoBRL = 3.85;
+        var fundsBTC = (totalFunds / 1e8);
+        var fundsUSD = ((totalFunds / 1e8) * BTCtoUSD).toFixed(2);
+        var fundsBRL = (((totalFunds / 1e8) * BTCtoUSD) * USDtoBRL).toFixed(2);
+        this.echo("\n\n\nBTCtoUSD: " + BTCtoUSD + ", USDtoBRL: " + USDtoBRL);
+        this.echo('---\n (' + successfulReadCount + ') TOTAL: ' + totalFunds + "\n\nBTC " + fundsBTC + "\n\nUSD$ " + fundsUSD + "\n\nR$ " + fundsBRL + "\n\n---");
         
         var innerText = this.evaluate(function() {
             return document.body.innerText;
@@ -66,13 +79,13 @@ casper.start().each(faucetz, function(self, link) {
         // get funds
         var foundSomething = [], thisMatch;
         for (var i = 0; i < possibleFundsPhrase.length; i++) {
-            thisMatch = innerText.match(new RegExp(possibleFundsPhrase[i], 'i'));
-//             thisMatch = innerText.match(new RegExp('balance.*?:.*?\\d+', 'ig'));
-            
-
+            if (innerText) {
+                thisMatch = innerText.match(new RegExp(possibleFundsPhrase[i], 'i'));
+            }
             
             if (thisMatch) {
-                this.echo("\n\n\nthisMatch: " + thisMatch);
+                this.echo("\n\nthisMatch: " + thisMatch + "\n\n");
+                totalReadCount++;
                 parseFunds(link, thisMatch);
                 break;
                 //foundSomething.concat(thisMatch);
