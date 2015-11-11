@@ -1,0 +1,126 @@
+15
+http://bluesatoshi.com?r=c6i3dmsv34l69hhu1t7f08xrspim627klc
+http://razercrypt.com/btc/?r=o6s7wnenkb685jxjfsl88qd9d4jn14sujk
+http://breaktheco.in/?r=b42u4mh10h8j4d2jfs51v58uaewa6wlysr
+http://www.safebitco.in?r=629ufw2lawd9ffsrvq6e5ac9iq2kvwygpj
+1 3885 'TOTAL: ' { timestamp: 'Tue Nov 10 2015 18:48:47 GMT+0000 (UTC)',
+  BTCtoUSD: 354.656,
+  USDtoBRL: 3.85,
+  satoshi: 18113172,
+  fundsBTC: 0.18113172,
+  fundsUSD: 64.24,
+  fundsBRL: 247.32 }
+http://theearner.co.in/?r=bymphchocaysaaa5tx7w38ghhnm68w12f1
+2 4616 'TOTAL: ' { timestamp: 'Tue Nov 10 2015 18:48:47 GMT+0000 (UTC)',
+  BTCtoUSD: 354.656,
+  USDtoBRL: 3.85,
+  satoshi: 50464830,
+  fundsBTC: 0.5046483,
+  fundsUSD: 178.98,
+  fundsBRL: 689.06 }
+http://oneadfaucet.com/btc?r=jhqndyav2muysr15b1y69j1u2wrif918tm
+3 7569 'TOTAL: ' { timestamp: 'Tue Nov 10 2015 18:48:50 GMT+0000 (UTC)',
+  BTCtoUSD: 354.656,
+  USDtoBRL: 3.85,
+  satoshi: 56492244,
+  fundsBTC: 0.56492244,
+  fundsUSD: 200.35,
+  fundsBRL: 771.36 }
+http://bitcoin.cryptorials.io?r=ma01nd3s2mxa1v07di68vpu5gim7ojtypl
+4 8528 'TOTAL: ' { timestamp: 'Tue Nov 10 2015 18:48:51 GMT+0000 (UTC)',
+  BTCtoUSD: 354.656,
+  USDtoBRL: 3.85,
+  satoshi: 56492244,
+  fundsBTC: 0.56492244,
+  fundsUSD: 200.35,
+  fundsBRL: 771.36 }
+http://freebit.website/?r=79txu2lbe06vb8pm44kbj1v6hfipc4r0hm
+5 8889 'TOTAL: ' { timestamp: 'Tue Nov 10 2015 18:48:52 GMT+0000 (UTC)',
+  BTCtoUSD: 354.656,
+  USDtoBRL: 3.85,
+  satoshi: 56492244,
+  fundsBTC: 0.56492244,
+  fundsUSD: 200.35,
+  fundsBRL: 771.36 }
+http://rekbitcoin.com?r=qfu13mql7ge26y25rg4ug5wmbhgdc04aqd
+6 11999 'TOTAL: ' { timestamp: 'Tue Nov 10 2015 18:48:55 GMT+0000 (UTC)',
+  BTCtoUSD: 354.656,
+  USDtoBRL: 3.85,
+  satoshi: 84839545,
+  fundsBTC: 0.84839545,
+  fundsUSD: 300.89,
+  fundsBRL: 1158.42 }
+http://www.luckybitfaucet.com?r=8j9t4ypxwtnv5kg0cy0dnnnd7p4qucej8x
+7 12880 'TOTAL: ' { timestamp: 'Tue Nov 10 2015 18:48:56 GMT+0000 (UTC)',
+  BTCtoUSD: 354.656,
+  USDtoBRL: 3.85,
+  satoshi: 84839545,
+  fundsBTC: 0.84839545,
+  fundsUSD: 300.89,
+  fundsBRL: 1158.42 }
+http://rainingfreebitcoins.com?r=y03mh3fb0mid15mfaq0gaaycbbggkvr60e
+8 13087 'TOTAL: ' { timestamp: 'Tue Nov 10 2015 18:48:56 GMT+0000 (UTC)',
+  BTCtoUSD: 354.656,
+  USDtoBRL: 3.85,
+  satoshi: 105459019,
+  fundsBTC: 1.05459019,
+  fundsUSD: 374.02,
+  fundsBRL: 1439.96 }
+http://www.rapidbitco.in?r=6ui5danhppc5sueu5crw1meqv50pt8ke46
+9 15354 'TOTAL: ' { timestamp: 'Tue Nov 10 2015 18:48:58 GMT+0000 (UTC)',
+  BTCtoUSD: 354.656,
+  USDtoBRL: 3.85,
+  satoshi: 105459019,
+  fundsBTC: 1.05459019,
+  fundsUSD: 374.02,
+  fundsBRL: 1439.96 }
+http://www.SumoSatoshi.com?r=lmqpmtr3ui2si8b2x5ueuxduub1me4ytiy
+10 16159 'TOTAL: ' { timestamp: 'Tue Nov 10 2015 18:48:59 GMT+0000 (UTC)',
+  BTCtoUSD: 354.656,
+  USDtoBRL: 3.85,
+  satoshi: 105459019,
+  fundsBTC: 1.05459019,
+  fundsUSD: 374.02,
+  fundsBRL: 1439.96 }
+http://rollingfaucet.com/?r=flsdri5kimlfmfm2u0am7icfp61sdyobwa
+11 29479 'TOTAL: ' { timestamp: 'Tue Nov 10 2015 18:49:12 GMT+0000 (UTC)',
+  BTCtoUSD: 354.656,
+  USDtoBRL: 3.85,
+  satoshi: 108900615,
+  fundsBTC: 1.08900615,
+  fundsUSD: 386.22,
+  fundsBRL: 1486.96 }
+http://satoshifiesta.com/?r=a1ikpuyi3erbf02fhp8t5jcf3t4khnjkau
+12 30019 'TOTAL: ' { timestamp: 'Tue Nov 10 2015 18:49:13 GMT+0000 (UTC)',
+  BTCtoUSD: 354.656,
+  USDtoBRL: 3.85,
+  satoshi: 134739846,
+  fundsBTC: 1.34739846,
+  fundsUSD: 477.86,
+  fundsBRL: 1839.77 }
+13 30643 'TOTAL: ' { timestamp: 'Tue Nov 10 2015 18:49:14 GMT+0000 (UTC)',
+  BTCtoUSD: 354.656,
+  USDtoBRL: 3.85,
+  satoshi: 134851199,
+  fundsBTC: 1.34851199,
+  fundsUSD: 478.26,
+  fundsBRL: 1841.29 }
+14 32499 'TOTAL: ' { timestamp: 'Tue Nov 10 2015 18:49:15 GMT+0000 (UTC)',
+  BTCtoUSD: 354.656,
+  USDtoBRL: 3.85,
+  satoshi: 134851199,
+  fundsBTC: 1.34851199,
+  fundsUSD: 478.26,
+  fundsBRL: 1841.29 }
+15 33419 'TOTAL: ' { timestamp: 'Tue Nov 10 2015 18:49:16 GMT+0000 (UTC)',
+  BTCtoUSD: 354.656,
+  USDtoBRL: 3.85,
+  satoshi: 142289995,
+  fundsBTC: 1.42289995,
+  fundsUSD: 504.64,
+  fundsBRL: 1942.86 }
+
+
+ -- 
+
+

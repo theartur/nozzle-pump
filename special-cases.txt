@@ -1,0 +1,57 @@
+
+GET CURRENT PRICE
+curl --silent "https://btc-e.com" | grep "Last Price" | grep -o '[\\.0-9]\+'
+
+
+LOOK HERE FOR ANSWERS ABOUT FILTERING STUFF AND OTHER USEFUL EVENTS
+http://docs.casperjs.org/en/latest/events-filters.html
+
+
+
+---------------------------
+NOVOS CRITERIOS PARA FAUCETZ
+- MOSTRA BALANÇO?
+ > sim:
+  - rankeia por valor
+ > não:
+  - vai para o final da fila
+  
+
+
+PhantomJS / CasperJS - keep session open indefinitely and interact with it via HTTP?
+http://stackoverflow.com/questions/22675985/phantomjs-casperjs-keep-session-open-indefinitely-and-interact-with-it-via-h
+ 
+Finally got something reasonable!
+
+There is an onRunComplete setting that by default calls this.exit. If you override it with a function that does nothing, then the process won't terminate when run finishes. Then you can call then and run again and the tasks will just work. Complete example:
+
+var port = 6100;
+
+var casper = require("casper").create({
+  onRunComplete: function() {
+    // Don't exit on complete.
+  }
+});
+casper.start("http://google.com");
+casper.run(function() {
+  console.log("finished");
+});
+
+var pictureNum = 0;
+require("webserver").create().listen(port, function(request, response) {
+  var src = "my_picture_" + (pictureNum++) + ".png";
+  response.writeHead(200, { 'Content-Type': 'text/html' });
+  response.write("written " + src);
+  response.close();
+
+  // HACK: without this, the `run()` call will re-execute all
+  // the previous steps too!
+  casper.steps = [];
+  casper.step = 0;
+
+  casper.then(function() {
+    this.capture(src);
+  });
+  casper.run();
+});
+console.log("listening on port", port);

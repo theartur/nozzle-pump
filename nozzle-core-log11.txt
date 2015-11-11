@@ -1,0 +1,135 @@
+20
+http://www.cmmonitor.com/btc/?r=ec9fwhbyopjho9sc7h7qrgm1mvj3jg2w6g
+http://cointhief.eu?r=5ry2kwfl0f9neyx9e0pe770oncrb1vqxh4
+http://knolix.com/53b3373bb7635/?r=hyoem4gd11btoh5e2sx8eouaro6lfnoc7c
+http://sumosatos.com?r=pgesct6dvhw9607fpquuton8d7p70we584
+http://btc.rena-faucet.com/?r=6t5c0vofv3e0d6o3w4eedlrf72r2is3sem
+http://www.chesimangia.it/microfaucet/?r=r8ac282s8qq8148us6v5sn8h3lwnho0e4c
+http://bitganancias.com/?r=b85pk6i7yvojc7w7397sj2675qg8rnoklt
+http://faucet.bitcoinclub.eu/latvia?r=m4wqpborjft6befjd9wsnmyyan1nrttqya
+>>> {"link":"http://sumosatos.com?r=pgesct6dvhw9607fpquuton8d7p70we584","timestamp":"Tue Nov 10 2015 20:49:51 GMT+0000 (UTC)","BTCtoUSD":353.996,"USDtoBRL":3.85,"satoshi":0,"fundsBTC":0,"fundsUSD":0,"fundsBRL":0}
+
+1 1816 'TOTAL: ' { timestamp: 'Tue Nov 10 2015 20:49:51 GMT+0000 (UTC)',
+  BTCtoUSD: 353.996,
+  USDtoBRL: 3.85,
+  satoshi: 0,
+  fundsBTC: 0,
+  fundsUSD: 0,
+  fundsBRL: 0 }
+http://www.faucetmania.com?r=yxuu8hg9irekltk02gkm8q7cyiedcdxv4l
+>>> {"link":"http://knolix.com/53b3373bb7635/?r=hyoem4gd11btoh5e2sx8eouaro6lfnoc7c","timestamp":"Tue Nov 10 2015 20:50:05 GMT+0000 (UTC)","BTCtoUSD":353.996,"USDtoBRL":3.85,"satoshi":0,"fundsBTC":0,"fundsUSD":0,"fundsBRL":0}
+
+2 17946 'TOTAL: ' { timestamp: 'Tue Nov 10 2015 20:50:07 GMT+0000 (UTC)',
+  BTCtoUSD: 353.996,
+  USDtoBRL: 3.85,
+  satoshi: 0,
+  fundsBTC: 0,
+  fundsUSD: 0,
+  fundsBRL: 0 }
+http://artfaucet.ru/?r=u447jeol0ga550ctxa130es55ryqjooq6n
+>>> {"link":"http://cointhief.eu?r=5ry2kwfl0f9neyx9e0pe770oncrb1vqxh4","timestamp":"Tue Nov 10 2015 20:50:12 GMT+0000 (UTC)","BTCtoUSD":353.996,"USDtoBRL":3.85,"satoshi":0,"fundsBTC":0,"fundsUSD":0,"fundsBRL":0}
+
+3 32478 'TOTAL: ' { timestamp: 'Tue Nov 10 2015 20:50:22 GMT+0000 (UTC)',
+  BTCtoUSD: 353.996,
+  USDtoBRL: 3.85,
+  satoshi: 0,
+  fundsBTC: 0,
+  fundsUSD: 0,
+  fundsBRL: 0 }
+http://faucet.bitcoinclub.eu/lietuva/?r=st7ks62a7yyk8qjtktgn5a4krjndc6nqq4
+>>> {"link":"http://www.faucetmania.com?r=yxuu8hg9irekltk02gkm8q7cyiedcdxv4l","timestamp":"Tue Nov 10 2015 20:50:48 GMT+0000 (UTC)","BTCtoUSD":353.996,"USDtoBRL":3.85,"satoshi":0,"fundsBTC":0,"fundsUSD":0,"fundsBRL":0}
+
+4 72374 'TOTAL: ' { timestamp: 'Tue Nov 10 2015 20:50:59 GMT+0000 (UTC)',
+  BTCtoUSD: 353.996,
+  USDtoBRL: 3.85,
+  satoshi: 0,
+  fundsBTC: 0,
+  fundsUSD: 0,
+  fundsBRL: 0 }
+http://damebitcoin.com?r=92sfo9ot8b5x0sfo8ta2urm27ctbcguagw
+>>> {"link":"http://www.cmmonitor.com/btc/?r=ec9fwhbyopjho9sc7h7qrgm1mvj3jg2w6g","timestamp":"Tue Nov 10 2015 20:50:48 GMT+0000 (UTC)","BTCtoUSD":353.996,"USDtoBRL":3.85,"satoshi":2896215,"fundsBTC":0.02896215,"fundsUSD":10.25,"fundsBRL":39.47}
+
+5 76358 'TOTAL: ' { timestamp: 'Tue Nov 10 2015 20:51:06 GMT+0000 (UTC)',
+  BTCtoUSD: 353.996,
+  USDtoBRL: 3.85,
+  satoshi: 2896215,
+  fundsBTC: 0.02896215,
+  fundsUSD: 10.25,
+  fundsBRL: 39.47 }
+http://faucet.csingenieros.com?r=98fmx7h7tdsdu5fiib8cipejybe38em4tj
+>>> {"link":"http://www.chesimangia.it/microfaucet/?r=r8ac282s8qq8148us6v5sn8h3lwnho0e4c","timestamp":"Tue Nov 10 2015 20:50:49 GMT+0000 (UTC)","BTCtoUSD":353.996,"USDtoBRL":3.85,"satoshi":1077105,"fundsBTC":0.01077105,"fundsUSD":3.81,"fundsBRL":14.68}
+
+6 76440 'TOTAL: ' { timestamp: 'Tue Nov 10 2015 20:51:06 GMT+0000 (UTC)',
+  BTCtoUSD: 353.996,
+  USDtoBRL: 3.85,
+  satoshi: 3973320,
+  fundsBTC: 0.0397332,
+  fundsUSD: 14.07,
+  fundsBRL: 54.15 }
+http://freebitclick.com?r=8g6blnw8hip09b5420uqvge5me8lydudt4
+>>> {"link":"http://damebitcoin.com?r=92sfo9ot8b5x0sfo8ta2urm27ctbcguagw","timestamp":"Tue Nov 10 2015 20:52:03 GMT+0000 (UTC)","BTCtoUSD":353.996,"USDtoBRL":3.85,"satoshi":14,"fundsBTC":1.4e-7,"fundsUSD":0,"fundsBRL":0}
+
+7 142097 'TOTAL: ' { timestamp: 'Tue Nov 10 2015 20:52:11 GMT+0000 (UTC)',
+  BTCtoUSD: 353.996,
+  USDtoBRL: 3.85,
+  satoshi: 3973334,
+  fundsBTC: 0.03973334,
+  fundsUSD: 14.07,
+  fundsBRL: 54.15 }
+http://vafaucet.ru?r=grv716t7yb7xhykbe9obblttorcu80l85w
+>>> {"link":"http://artfaucet.ru/?r=u447jeol0ga550ctxa130es55ryqjooq6n","timestamp":"Tue Nov 10 2015 20:52:27 GMT+0000 (UTC)","BTCtoUSD":353.996,"USDtoBRL":3.85,"satoshi":3000000,"fundsBTC":0.03,"fundsUSD":10.62,"fundsBRL":40.89}
+
+8 162634 'TOTAL: ' { timestamp: 'Tue Nov 10 2015 20:52:32 GMT+0000 (UTC)',
+  BTCtoUSD: 353.996,
+  USDtoBRL: 3.85,
+  satoshi: 6973334,
+  fundsBTC: 0.06973334,
+  fundsUSD: 24.69,
+  fundsBRL: 95.04 }
+http://tortugafirefaucet.info?r=65qdt8kkgn11hybqrbnjfi7ukercjywec9
+>>> {"link":"http://freebitclick.com?r=8g6blnw8hip09b5420uqvge5me8lydudt4","timestamp":"Tue Nov 10 2015 20:52:36 GMT+0000 (UTC)","BTCtoUSD":353.996,"USDtoBRL":3.85,"satoshi":1643694,"fundsBTC":0.01643694,"fundsUSD":5.82,"fundsBRL":22.4}
+
+9 167020 'TOTAL: ' { timestamp: 'Tue Nov 10 2015 20:52:36 GMT+0000 (UTC)',
+  BTCtoUSD: 353.996,
+  USDtoBRL: 3.85,
+  satoshi: 8617028,
+  fundsBTC: 0.08617028,
+  fundsUSD: 30.5,
+  fundsBRL: 117.44 }
+http://btcsoft.ru?r=t2pb6t8dcx0q0ys8u995mvisb3tayby91g
+>>> {"link":"http://tortugafirefaucet.info?r=65qdt8kkgn11hybqrbnjfi7ukercjywec9","timestamp":"Tue Nov 10 2015 20:52:45 GMT+0000 (UTC)","BTCtoUSD":353.996,"USDtoBRL":3.85,"satoshi":87530,"fundsBTC":0.0008753,"fundsUSD":0.31,"fundsBRL":1.19}
+
+10 177057 'TOTAL: ' { timestamp: 'Tue Nov 10 2015 20:52:46 GMT+0000 (UTC)',
+  BTCtoUSD: 353.996,
+  USDtoBRL: 3.85,
+  satoshi: 8704558,
+  fundsBTC: 0.08704558,
+  fundsUSD: 30.81,
+  fundsBRL: 118.63 }
+http://www.warhammer-coin.com/?r=03ulceyk12y9mi6b6l8575yl8k0egryh8i
+>>> {"link":"http://btc.rena-faucet.com/?r=6t5c0vofv3e0d6o3w4eedlrf72r2is3sem","timestamp":"Tue Nov 10 2015 20:52:44 GMT+0000 (UTC)","BTCtoUSD":353.996,"USDtoBRL":3.85,"satoshi":0,"fundsBTC":0,"fundsUSD":0,"fundsBRL":0}
+
+11 177233 'TOTAL: ' { timestamp: 'Tue Nov 10 2015 20:52:47 GMT+0000 (UTC)',
+  BTCtoUSD: 353.996,
+  USDtoBRL: 3.85,
+  satoshi: 8704558,
+  fundsBTC: 0.08704558,
+  fundsUSD: 30.81,
+  fundsBRL: 118.63 }
+http://www.juraganfaucet.info/?r=sapsl8j5j8irwf019wr2khiaksryrnms4n
+>>> {"link":"http://btcsoft.ru?r=t2pb6t8dcx0q0ys8u995mvisb3tayby91g","timestamp":"Tue Nov 10 2015 20:52:47 GMT+0000 (UTC)","BTCtoUSD":353.996,"USDtoBRL":3.85,"satoshi":86315,"fundsBTC":0.00086315,"fundsUSD":0.31,"fundsBRL":1.18}
+
+12 178125 'TOTAL: ' { timestamp: 'Tue Nov 10 2015 20:52:48 GMT+0000 (UTC)',
+  BTCtoUSD: 353.996,
+  USDtoBRL: 3.85,
+  satoshi: 8790873,
+  fundsBTC: 0.08790873,
+  fundsUSD: 31.12,
+  fundsBRL: 119.81 }
+http://mybitfaucet.ru/?r=sq2ij2qr3pjiy7jfjkadvuabeirn7a1k5n
+>>> [37;41;1mError: cannot access member `customHeaders' of deleted QObject                  [0m
+  /home/codio/.nvm/v0.10.25/lib/node_modules/casperjs/modules/casper.js:[33m1385[0m in [36mopen[0m
+  /home/codio/.nvm/v0.10.25/lib/node_modules/casperjs/modules/casper.js:[33m1832[0m in [36m_step[0m
+  /home/codio/.nvm/v0.10.25/lib/node_modules/casperjs/modules/casper.js:[33m1553[0m in [36mrunStep[0m
+  /home/codio/.nvm/v0.10.25/lib/node_modules/casperjs/modules/casper.js:[33m399[0m in [36mcheckStep[0m
+

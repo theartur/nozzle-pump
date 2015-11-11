@@ -1,0 +1,118 @@
+;}-
+<script type="text/javascript" src="https://cdn.firebase.com/js/client/2.2.7/firebase.js"></script>
+<script>
+    var solved = [];
+    var img = document.createElement("img");
+    
+    function jazzbase(channel, key, data) {
+        var defer = {then:function(resolve){this.resolve=resolve}};
+        var xhr = new XMLHttpRequest();
+        
+         function getIndexUrl(url) {
+            console.log("Faucetz.getIndexUrl()", url);
+            return url.replace(/[^a-zA-Z0-9]+/g, "X");
+        }
+        
+        xhr.onreadystatechange = function() {
+            if(xhr.readyState === 4) { // done
+                if(xhr.status === 200) { // complete	
+                    var response;
+                    
+                    try {
+                        response = JSON.parse(xhr.responseText);
+                    } catch(e) {
+                        response = xhr.responseText;
+                    }
+                    
+                    defer.resolve && defer.resolve(response);
+                }
+            }
+        };
+        
+        var queryString = '?';
+        
+        channel = getIndexUrl(channel || location.host);
+        queryString += 'channel=' + channel;
+        queryString += '&key=' + key;
+        
+        if (data) {
+            data = (typeof data == "object") ? JSON.stringify(data) : data ;
+            queryString += '&data=' + data;
+        }
+        
+        xhr.open('GET', 'http://' + location.host + ':1337' + queryString, true);
+        xhr.send();
+        
+        return defer;
+    }
+    
+    window.torneiroComm = new Firebase('http://torneiro-comm.firebaseio-demo.com/');
+    
+    torneiroComm.child("challenge-available").on('value', function (solution) {
+        var available = solution.val();
+        
+        if (available) {
+            // reload the image
+            document.body.removeChild(img);
+            document.body.appendChild(img);
+        }
+    });
+
+    torneiroComm.child("challenge-solved").set(solved);
+    
+    function getCellByCoord(img, x, y) {
+        var headerSize = 120;
+        var footerSize = 94;
+        
+        y = y - headerSize;
+        var fullWidth = img.width;
+        var fullHeight = img.height - headerSize - footerSize;
+        
+        if (y <= 0 || y >= fullHeight) {
+            var solvedArr = solved.slice(0);
+            solved = [];
+            torneiroComm.child("challenge-solved").set(solvedArr);
+            return solvedArr;
+        }
+        
+        var xRatio = (x * 100) / fullWidth;
+        var yRatio = (y * 100) / fullHeight;
+        
+        var cell;
+
+        if (xRatio <= 33) { // 1,4,7
+            cell = "147";
+        } else if (xRatio <= 66) { // 2,5,8
+            cell = "258";
+        } else if (xRatio <= 100) { // 3,6,9
+            cell = "369";
+        }
+
+        if (yRatio <= 33) { // 1,2,3
+            cell = cell[0];
+        } else if (yRatio <= 66) { // 4,5,6
+            cell = cell[1];
+        } else if (yRatio <= 100) { // 7,8,9
+            cell = cell[2];
+        }
+        
+        solved.push(cell);
+        
+        return cell;
+    }
+    
+    img.src = "bluesatoshi-challenge.png";
+    img.onclick = function (e) {
+        var cell = getCellByCoord(this, e.offsetX, e.offsetY);
+        console.log("CELL CLICKED: ", cell);
+        
+        jazzbase("cryptoFetcher", "sandbox", solved).then(function (info) {
+            console.log("Salvo: ", info);
+            jazzbase("cryptoFetcher", "sandbox").then(function (info) {
+                console.log("Salvo como: ", info);
+            });
+        });
+        
+    };
+    document.body.appendChild(img);
+</script>

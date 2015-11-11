@@ -1,0 +1,133 @@
+669
+http://bluesatoshi.com?r=sga2pcd75t7s80t4o8eblgwmbnigmvdnwx
+http://razercrypt.com/btc/?r=xrrvh7a4m9hyn99fxb720y7xptigvgg3sk
+http://breaktheco.in/?r=j1dex18i8ugvxkjofxsamy2yfgh4srx2nu
+http://www.safebitco.in?r=eq6opk1ng0r2wi6nxaq9fi1benpd9hed9n
+1 3705 'TOTAL: ' { timestamp: 'Tue Nov 10 2015 20:10:09 GMT+0000 (UTC)',
+  BTCtoUSD: 357.013,
+  USDtoBRL: 3.85,
+  satoshi: 31012118,
+  fundsBTC: 0.31012118,
+  fundsUSD: 110.72,
+  fundsBRL: 426.26 }
+http://theearner.co.in/?r=k6kc4mtrcwwctkj8ke8hw3ungjxevl7o06
+2 4874 'TOTAL: ' { timestamp: 'Tue Nov 10 2015 20:10:10 GMT+0000 (UTC)',
+  BTCtoUSD: 357.013,
+  USDtoBRL: 3.85,
+  satoshi: 99318796,
+  fundsBTC: 0.99318796,
+  fundsUSD: 354.58,
+  fundsBRL: 1365.14 }
+http://oneadfaucet.com/btc?r=scy3gqgb3jqhg7pt6u63vtlk4olp2ia05r
+3 8814 'TOTAL: ' { timestamp: 'Tue Nov 10 2015 20:10:14 GMT+0000 (UTC)',
+  BTCtoUSD: 357.013,
+  USDtoBRL: 3.85,
+  satoshi: 105182380,
+  fundsBTC: 1.0518238,
+  fundsUSD: 375.51,
+  fundsBRL: 1445.73 }
+http://bitcoin.cryptorials.io?r=sfli0h952swkiefc9bipgqcc7bdgjcax78
+4 12201 'TOTAL: ' { timestamp: 'Tue Nov 10 2015 20:10:17 GMT+0000 (UTC)',
+  BTCtoUSD: 357.013,
+  USDtoBRL: 3.85,
+  satoshi: 105182380,
+  fundsBTC: 1.0518238,
+  fundsUSD: 375.51,
+  fundsBRL: 1445.73 }
+http://freebit.website/?r=hbemj6pv6c0i5h5camxnriwnicf09lr7uf
+5 13199 'TOTAL: ' { timestamp: 'Tue Nov 10 2015 20:10:18 GMT+0000 (UTC)',
+  BTCtoUSD: 357.013,
+  USDtoBRL: 3.85,
+  satoshi: 105182380,
+  fundsBTC: 1.0518238,
+  fundsUSD: 375.51,
+  fundsBRL: 1445.73 }
+http://rekbitcoin.com?r=iop6k84b8v1kegl1cionhyl1aqfenmtamv
+6 16267 'TOTAL: ' { timestamp: 'Tue Nov 10 2015 20:10:21 GMT+0000 (UTC)',
+  BTCtoUSD: 357.013,
+  USDtoBRL: 3.85,
+  satoshi: 105182380,
+  fundsBTC: 1.0518238,
+  fundsUSD: 375.51,
+  fundsBRL: 1445.73 }
+http://www.luckybitfaucet.com?r=5qpogyv65r9m51ra62puykcuxe6thnbbnb
+7 16636 'TOTAL: ' { timestamp: 'Tue Nov 10 2015 20:10:22 GMT+0000 (UTC)',
+  BTCtoUSD: 357.013,
+  USDtoBRL: 3.85,
+  satoshi: 133021400,
+  fundsBTC: 1.330214,
+  fundsUSD: 474.9,
+  fundsBRL: 1828.38 }
+http://rainingfreebitcoins.com?r=5xse5v0ovas6tbiqsqvrewpx5mifdgpaya
+8 18150 'TOTAL: ' { timestamp: 'Tue Nov 10 2015 20:10:23 GMT+0000 (UTC)',
+  BTCtoUSD: 357.013,
+  USDtoBRL: 3.85,
+  satoshi: 153345474,
+  fundsBTC: 1.53345474,
+  fundsUSD: 547.46,
+  fundsBRL: 2107.73 }
+http://www.rapidbitco.in?r=fcdjjo1231srbtx4pukm0nt549i9lbeldi
+9 21973 'TOTAL: ' { timestamp: 'Tue Nov 10 2015 20:10:27 GMT+0000 (UTC)',
+  BTCtoUSD: 357.013,
+  USDtoBRL: 3.85,
+  satoshi: 153345474,
+  fundsBTC: 1.53345474,
+  fundsUSD: 547.46,
+  fundsBRL: 2107.73 }
+http://www.SumoSatoshi.com?r=rwvasmg3gnn1hu7pcaynqcx0b9cgg0mi70
+10 62153 'TOTAL: ' { timestamp: 'Tue Nov 10 2015 20:11:07 GMT+0000 (UTC)',
+  BTCtoUSD: 357.013,
+  USDtoBRL: 3.85,
+  satoshi: 155150595,
+  fundsBTC: 1.55150595,
+  fundsUSD: 553.91,
+  fundsBRL: 2132.55 }
+http://rollingfaucet.com/?r=8rue05skfdiwljg7r9ajfuvv1bm1vd4axd
+11 71526 'TOTAL: ' { timestamp: 'Tue Nov 10 2015 20:11:17 GMT+0000 (UTC)',
+  BTCtoUSD: 357.013,
+  USDtoBRL: 3.85,
+  satoshi: 155150595,
+  fundsBTC: 1.55150595,
+  fundsUSD: 553.91,
+  fundsBRL: 2132.55 }
+http://satoshifiesta.com/?r=30idl93roje2ufk3s3e5ti7tb9wxx9tug3
+12 72190 'TOTAL: ' { timestamp: 'Tue Nov 10 2015 20:11:17 GMT+0000 (UTC)',
+  BTCtoUSD: 357.013,
+  USDtoBRL: 3.85,
+  satoshi: 156093008,
+  fundsBTC: 1.56093008,
+  fundsUSD: 557.27,
+  fundsBRL: 2145.5 }
+http://welovebtc.com/?r=xm8xd3qfesyxm24ph2virjo1gdkvo0ocre
+13 85285 'TOTAL: ' { timestamp: 'Tue Nov 10 2015 20:11:31 GMT+0000 (UTC)',
+  BTCtoUSD: 357.013,
+  USDtoBRL: 3.85,
+  satoshi: 156093008,
+  fundsBTC: 1.56093008,
+  fundsUSD: 557.27,
+  fundsBRL: 2145.5 }
+http://minionsfaucet.com?r=l0d3wbl52261va5nlxr2hg5dfxmyqmiyio
+14 85362 'TOTAL: ' { timestamp: 'Tue Nov 10 2015 20:11:31 GMT+0000 (UTC)',
+  BTCtoUSD: 357.013,
+  USDtoBRL: 3.85,
+  satoshi: 181630868,
+  fundsBTC: 1.81630868,
+  fundsUSD: 648.45,
+  fundsBRL: 2496.52 }
+http://greenbitco.in?r=u5qwdyx9etirg6i4l2v6o3784wxgkhh3gl
+15 86612 'TOTAL: ' { timestamp: 'Tue Nov 10 2015 20:11:32 GMT+0000 (UTC)',
+  BTCtoUSD: 357.013,
+  USDtoBRL: 3.85,
+  satoshi: 181630868,
+  fundsBTC: 1.81630868,
+  fundsUSD: 648.45,
+  fundsBRL: 2496.52 }
+http://valley-bitcoin.com/?r=kw7gj4myaaioa0qllml5u7x5ocot2672mo
+16 87487 'TOTAL: ' { timestamp: 'Tue Nov 10 2015 20:11:33 GMT+0000 (UTC)',
+  BTCtoUSD: 357.013,
+  USDtoBRL: 3.85,
+  satoshi: 181630868,
+  fundsBTC: 1.81630868,
+  fundsUSD: 648.45,
+  fundsBRL: 2496.52 }
+http://wallabycoin.link/?r=rdqmhf9g5abcnibxeksuxw0u4sm6ktglkl

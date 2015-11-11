@@ -1,0 +1,184 @@
+20
+http://www.cmmonitor.com/btc/?r=ubos1ci6coo95oiaai6gu2mp6v5yji2ff2
+http://cointhief.eu?r=0klvdqu0o8h7h74behcvlamsc747qknynh
+http://knolix.com/53b3373bb7635/?r=ad4pqbo1lgckysirxkqutyrkc6hswxaetd
+http://sumosatos.com?r=6ivv77f9jpd0k7imlncyd5k06jrd2l3g32
+http://btc.rena-faucet.com/?r=9swaphno5xq7m5bq19oaqxn18p7mdjlswi
+http://www.chesimangia.it/microfaucet/?r=dry3nt1dp5x0ojejwp62qcq2gccvn2qv4w
+http://bitganancias.com/?r=awifau37hk14mgn89o459kwje21eogy9e2
+http://faucet.bitcoinclub.eu/latvia?r=pptiudr9sumhc5fdb3stdelqnlecabc29s
+>>> {"link":"http://knolix.com/53b3373bb7635/?r=ad4pqbo1lgckysirxkqutyrkc6hswxaetd","timestamp":"Tue Nov 10 2015 21:39:54 GMT+0000 (UTC)","BTCtoUSD":342.909,"USDtoBRL":3.85,"satoshi":0,"fundsBTC":0,"fundsUSD":0,"fundsBRL":0}
+
+1 21303 'TOTAL: ' { timestamp: 'Tue Nov 10 2015 21:39:55 GMT+0000 (UTC)',
+  BTCtoUSD: 342.909,
+  USDtoBRL: 3.85,
+  satoshi: 0,
+  fundsBTC: 0,
+  fundsUSD: 0,
+  fundsBRL: 0 }
+http://www.faucetmania.com?r=kumlqa80ohp61wymsntrs6x6p7cd7jn583
+>>> {"link":"http://sumosatos.com?r=6ivv77f9jpd0k7imlncyd5k06jrd2l3g32","timestamp":"Tue Nov 10 2015 21:39:54 GMT+0000 (UTC)","BTCtoUSD":342.909,"USDtoBRL":3.85,"satoshi":0,"fundsBTC":0,"fundsUSD":0,"fundsBRL":0}
+
+2 21534 'TOTAL: ' { timestamp: 'Tue Nov 10 2015 21:39:56 GMT+0000 (UTC)',
+  BTCtoUSD: 342.909,
+  USDtoBRL: 3.85,
+  satoshi: 0,
+  fundsBTC: 0,
+  fundsUSD: 0,
+  fundsBRL: 0 }
+http://artfaucet.ru/?r=d0fnfqk48up7veiug6bs7hwm1t95gxjlg0
+>>> {"link":"http://www.chesimangia.it/microfaucet/?r=dry3nt1dp5x0ojejwp62qcq2gccvn2qv4w","timestamp":"Tue Nov 10 2015 21:40:00 GMT+0000 (UTC)","BTCtoUSD":342.909,"USDtoBRL":3.85,"satoshi":1076525,"fundsBTC":0.01076525,"fundsUSD":3.69,"fundsBRL":14.21}
+
+3 27913 'TOTAL: ' { timestamp: 'Tue Nov 10 2015 21:40:02 GMT+0000 (UTC)',
+  BTCtoUSD: 342.909,
+  USDtoBRL: 3.85,
+  satoshi: 1076525,
+  fundsBTC: 0.01076525,
+  fundsUSD: 3.69,
+  fundsBRL: 14.21 }
+http://faucet.bitcoinclub.eu/lietuva/?r=b72u63atehwwhimth5x0jtewllboeva21b
+>>> {"link":"http://cointhief.eu?r=0klvdqu0o8h7h74behcvlamsc747qknynh","timestamp":"Tue Nov 10 2015 21:40:03 GMT+0000 (UTC)","BTCtoUSD":342.909,"USDtoBRL":3.85,"satoshi":0,"fundsBTC":0,"fundsUSD":0,"fundsBRL":0}
+
+4 30082 'TOTAL: ' { timestamp: 'Tue Nov 10 2015 21:40:04 GMT+0000 (UTC)',
+  BTCtoUSD: 342.909,
+  USDtoBRL: 3.85,
+  satoshi: 1076525,
+  fundsBTC: 0.01076525,
+  fundsUSD: 3.69,
+  fundsBRL: 14.21 }
+http://damebitcoin.com?r=6fcly9ev7jq3pulaiudkn96bp4euyq2lb7
+>>> {"link":"http://www.cmmonitor.com/btc/?r=ubos1ci6coo95oiaai6gu2mp6v5yji2ff2","timestamp":"Tue Nov 10 2015 21:40:14 GMT+0000 (UTC)","BTCtoUSD":342.909,"USDtoBRL":3.85,"satoshi":2858642,"fundsBTC":0.02858642,"fundsUSD":9.8,"fundsBRL":37.74}
+
+5 54892 'TOTAL: ' { timestamp: 'Tue Nov 10 2015 21:40:29 GMT+0000 (UTC)',
+  BTCtoUSD: 342.909,
+  USDtoBRL: 3.85,
+  satoshi: 3935167,
+  fundsBTC: 0.03935167,
+  fundsUSD: 13.49,
+  fundsBRL: 51.95 }
+http://faucet.csingenieros.com?r=n2p637bgky27j4dsu7t990mfn6dxh2k987
+
+
+KILL:  http://btc.rena-faucet.com/?r=9swaphno5xq7m5bq19oaqxn18p7mdjlswi
+
+
+KILL:  http://bitganancias.com/?r=awifau37hk14mgn89o459kwje21eogy9e2
+
+
+KILL:  http://faucet.bitcoinclub.eu/latvia?r=pptiudr9sumhc5fdb3stdelqnlecabc29s
+>>> 
+6 63187 'ERROR: ' { url: 'http://btc.rena-faucet.com/?r=9swaphno5xq7m5bq19oaqxn18p7mdjlswi',
+  error: '' } '\n\n'
+http://freebitclick.com?r=3vvrcfgg6al1hcc86ja1d7ojh6xru4sqm6
+>>> 
+7 65078 'ERROR: ' { url: 'http://faucet.bitcoinclub.eu/latvia?r=pptiudr9sumhc5fdb3stdelqnlecabc29s',
+  error: '' } '\n\n'
+http://vafaucet.ru?r=kq0ss91nqep4b27sxmnqw1v7m1d6wgyj7j
+>>> 
+8 65087 'ERROR: ' { url: 'http://bitganancias.com/?r=awifau37hk14mgn89o459kwje21eogy9e2',
+  error: '' } '\n\n'
+http://tortugafirefaucet.info?r=bhbnunxgofjlv7hppw1c1yy4qex0qx9gg2
+>>> {"link":"http://www.faucetmania.com?r=kumlqa80ohp61wymsntrs6x6p7cd7jn583","timestamp":"Tue Nov 10 2015 21:40:39 GMT+0000 (UTC)","BTCtoUSD":342.909,"USDtoBRL":3.85,"satoshi":0,"fundsBTC":0,"fundsUSD":0,"fundsBRL":0}
+
+9 65498 'TOTAL: ' { timestamp: 'Tue Nov 10 2015 21:40:40 GMT+0000 (UTC)',
+  BTCtoUSD: 342.909,
+  USDtoBRL: 3.85,
+  satoshi: 3935167,
+  fundsBTC: 0.03935167,
+  fundsUSD: 13.49,
+  fundsBRL: 51.95 }
+http://btcsoft.ru?r=qnottx8ipk7rebwuu0isvb8eenla4ai0v9
+>>> {"link":"http://artfaucet.ru/?r=d0fnfqk48up7veiug6bs7hwm1t95gxjlg0","timestamp":"Tue Nov 10 2015 21:40:30 GMT+0000 (UTC)","BTCtoUSD":342.909,"USDtoBRL":3.85,"satoshi":3000000,"fundsBTC":0.03,"fundsUSD":10.29,"fundsBRL":39.61}
+
+10 66206 'TOTAL: ' { timestamp: 'Tue Nov 10 2015 21:40:40 GMT+0000 (UTC)',
+  BTCtoUSD: 342.909,
+  USDtoBRL: 3.85,
+  satoshi: 6935167,
+  fundsBTC: 0.06935167,
+  fundsUSD: 23.78,
+  fundsBRL: 91.56 }
+http://www.warhammer-coin.com/?r=0drhvku84t784yyfpc5ywr5m1rk5jxp67q
+
+
+KILL:  http://faucet.bitcoinclub.eu/lietuva/?r=b72u63atehwwhimth5x0jtewllboeva21b
+>>> 
+11 90916 'ERROR: ' { url: 'http://faucet.bitcoinclub.eu/lietuva/?r=b72u63atehwwhimth5x0jtewllboeva21b',
+  error: '' } '\n\n'
+http://www.juraganfaucet.info/?r=chkil9arcdvj9dq8vl1bb5qslnwhv3bx19
+
+
+KILL:  http://damebitcoin.com?r=6fcly9ev7jq3pulaiudkn96bp4euyq2lb7
+>>> 
+12 91022 'ERROR: ' { url: 'http://damebitcoin.com?r=6fcly9ev7jq3pulaiudkn96bp4euyq2lb7',
+  error: '' } '\n\n'
+http://mybitfaucet.ru/?r=ba2sxvkg4wixwie7svh8woy4rirtuplj24
+>>> {"link":"http://tortugafirefaucet.info?r=bhbnunxgofjlv7hppw1c1yy4qex0qx9gg2","timestamp":"Tue Nov 10 2015 21:41:23 GMT+0000 (UTC)","BTCtoUSD":342.909,"USDtoBRL":3.85,"satoshi":0,"fundsBTC":0,"fundsUSD":0,"fundsBRL":0}
+
+13 109462 'TOTAL: ' { timestamp: 'Tue Nov 10 2015 21:41:23 GMT+0000 (UTC)',
+  BTCtoUSD: 342.909,
+  USDtoBRL: 3.85,
+  satoshi: 6935167,
+  fundsBTC: 0.06935167,
+  fundsUSD: 23.78,
+  fundsBRL: 91.56 }
+>>> [37;41;1mError: cannot access member `customHeaders' of deleted QObject                  [0m
+  /home/codio/.nvm/v0.10.25/lib/node_modules/casperjs/modules/casper.js:[33m1385[0m in [36mopen[0m
+  /home/codio/.nvm/v0.10.25/lib/node_modules/casperjs/modules/casper.js:[33m1832[0m in [36m_step[0m
+  /home/codio/.nvm/v0.10.25/lib/node_modules/casperjs/modules/casper.js:[33m1553[0m in [36mrunStep[0m
+  /home/codio/.nvm/v0.10.25/lib/node_modules/casperjs/modules/casper.js:[33m399[0m in [36mcheckStep[0m
+
+14 111841 'ERROR: ' { url: 'http://www.juraganfaucet.info/?r=chkil9arcdvj9dq8vl1bb5qslnwhv3bx19',
+  error: '\u001b[37;41;1mError: cannot access member `customHeaders\' of deleted QObject                  \u001b[0m\n  /home/codio/.nvm/v0.10.25/lib/node_modules/casperjs/modules/casper.js:\u001b[33m1385\u001b[0m in \u001b[36mopen\u001b[0m\n  /home/codio/.nvm/v0.10.25/lib/node_modules/casperjs/modules/casper.js:\u001b[33m1832\u001b[0m in \u001b[36m_step\u001b[0m\n  /home/codio/.nvm/v0.10.25/lib/node_modules/casperjs/modules/casper.js:\u001b[33m1553\u001b[0m in \u001b[36mrunStep\u001b[0m\n  /home/codio/.nvm/v0.10.25/lib/node_modules/casperjs/modules/casper.js:\u001b[33m399\u001b[0m in \u001b[36mcheckStep\u001b[0m\n' } '\n\n'
+>>> {"link":"http://www.warhammer-coin.com/?r=0drhvku84t784yyfpc5ywr5m1rk5jxp67q","timestamp":"Tue Nov 10 2015 21:41:27 GMT+0000 (UTC)","BTCtoUSD":342.909,"USDtoBRL":3.85,"satoshi":231607,"fundsBTC":0.00231607,"fundsUSD":0.79,"fundsBRL":3.06}
+
+15 113144 'TOTAL: ' { timestamp: 'Tue Nov 10 2015 21:41:27 GMT+0000 (UTC)',
+  BTCtoUSD: 342.909,
+  USDtoBRL: 3.85,
+  satoshi: 7166774,
+  fundsBTC: 0.07166774,
+  fundsUSD: 24.58,
+  fundsBRL: 94.62 }
+
+
+KILL:  http://faucet.csingenieros.com?r=n2p637bgky27j4dsu7t990mfn6dxh2k987
+>>> 
+16 115024 'ERROR: ' { url: 'http://faucet.csingenieros.com?r=n2p637bgky27j4dsu7t990mfn6dxh2k987',
+  error: '' } '\n\n'
+>>> {"link":"http://mybitfaucet.ru/?r=ba2sxvkg4wixwie7svh8woy4rirtuplj24","timestamp":"Tue Nov 10 2015 21:41:31 GMT+0000 (UTC)","BTCtoUSD":342.909,"USDtoBRL":3.85,"satoshi":3000000,"fundsBTC":0.03,"fundsUSD":10.29,"fundsBRL":39.61}
+
+17 116868 'TOTAL: ' { timestamp: 'Tue Nov 10 2015 21:41:31 GMT+0000 (UTC)',
+  BTCtoUSD: 342.909,
+  USDtoBRL: 3.85,
+  satoshi: 10166774,
+  fundsBTC: 0.10166774,
+  fundsUSD: 34.86,
+  fundsBRL: 134.22 }
+>>> {"link":"http://freebitclick.com?r=3vvrcfgg6al1hcc86ja1d7ojh6xru4sqm6","timestamp":"Tue Nov 10 2015 21:41:33 GMT+0000 (UTC)","BTCtoUSD":342.909,"USDtoBRL":3.85,"satoshi":1619494,"fundsBTC":0.01619494,"fundsUSD":5.55,"fundsBRL":21.38}
+
+18 118970 'TOTAL: ' { timestamp: 'Tue Nov 10 2015 21:41:33 GMT+0000 (UTC)',
+  BTCtoUSD: 342.909,
+  USDtoBRL: 3.85,
+  satoshi: 11786268,
+  fundsBTC: 0.11786268,
+  fundsUSD: 40.42,
+  fundsBRL: 155.6 }
+>>> {"link":"http://btcsoft.ru?r=qnottx8ipk7rebwuu0isvb8eenla4ai0v9","timestamp":"Tue Nov 10 2015 21:41:33 GMT+0000 (UTC)","BTCtoUSD":342.909,"USDtoBRL":3.85,"satoshi":86215,"fundsBTC":0.00086215,"fundsUSD":0.3,"fundsBRL":1.14}
+
+19 119262 'TOTAL: ' { timestamp: 'Tue Nov 10 2015 21:41:33 GMT+0000 (UTC)',
+  BTCtoUSD: 342.909,
+  USDtoBRL: 3.85,
+  satoshi: 11872483,
+  fundsBTC: 0.11872483,
+  fundsUSD: 40.71,
+  fundsBRL: 156.74 }
+
+
+KILL:  http://vafaucet.ru?r=kq0ss91nqep4b27sxmnqw1v7m1d6wgyj7j
+>>> 
+20 125095 'ERROR: ' { url: 'http://vafaucet.ru?r=kq0ss91nqep4b27sxmnqw1v7m1d6wgyj7j',
+  error: '' } '\n\n'
+
+
+ -- 
+
+

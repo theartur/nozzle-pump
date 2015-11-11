@@ -1,0 +1,43 @@
+5
+http://ptcnote.com/faucet/btc/?r=iriosr6qgautq5imn8tnrvsippa825mqvt
+http://huntercoin.website?r=s72nvyl69ph5no1d1owgaooskxe2a2e4u9
+http://giantbitcoin.com/?r=qol7cnlx0sw1guv5yau8bq9mj6hc8r07b9
+http://www.thefaucetrunner.com/faucet/?r=qmdnufgtba4v9lok207m3yrk12xebwc1rq
+>>> {"link":"http://www.thefaucetrunner.com/faucet/?r=qmdnufgtba4v9lok207m3yrk12xebwc1rq","timestamp":"Tue Nov 10 2015 19:04:42 GMT+0000 (UTC)","BTCtoUSD":355.499,"USDtoBRL":3.85,"satoshi":0,"fundsBTC":0,"fundsUSD":0,"fundsBRL":0}
+
+1 1443 'TOTAL: ' { timestamp: 'Tue Nov 10 2015 19:04:43 GMT+0000 (UTC)',
+  BTCtoUSD: 355.499,
+  USDtoBRL: 3.85,
+  satoshi: 0,
+  fundsBTC: 0,
+  fundsUSD: 0,
+  fundsBRL: 0 }
+http://ScoutFaucet.com?r=1ywvjmfr2tmiviq02jmlgvh5vt7h3543ra
+>>> {"link":"http://ptcnote.com/faucet/btc/?r=iriosr6qgautq5imn8tnrvsippa825mqvt","timestamp":"Tue Nov 10 2015 19:04:43 GMT+0000 (UTC)","BTCtoUSD":355.499,"USDtoBRL":3.85,"satoshi":71466360,"fundsBTC":0.7146636,"fundsUSD":254.06,"fundsBRL":978.14}
+
+2 2257 'TOTAL: ' { timestamp: 'Tue Nov 10 2015 19:04:43 GMT+0000 (UTC)',
+  BTCtoUSD: 355.499,
+  USDtoBRL: 3.85,
+  satoshi: 71466360,
+  fundsBTC: 0.7146636,
+  fundsUSD: 254.06,
+  fundsBRL: 978.14 }
+>>> {"link":"http://giantbitcoin.com/?r=qol7cnlx0sw1guv5yau8bq9mj6hc8r07b9","timestamp":"Tue Nov 10 2015 19:04:46 GMT+0000 (UTC)","BTCtoUSD":355.499,"USDtoBRL":3.85,"satoshi":1787482,"fundsBTC":0.01787482,"fundsUSD":6.35,"fundsBRL":24.46}
+
+3 4763 'TOTAL: ' { timestamp: 'Tue Nov 10 2015 19:04:46 GMT+0000 (UTC)',
+  BTCtoUSD: 355.499,
+  USDtoBRL: 3.85,
+  satoshi: 73253842,
+  fundsBTC: 0.73253842,
+  fundsUSD: 260.42,
+  fundsBRL: 1002.6 }
+>>> {"link":"http://ScoutFaucet.com?r=1ywvjmfr2tmiviq02jmlgvh5vt7h3543ra","timestamp":"Tue Nov 10 2015 19:04:47 GMT+0000 (UTC)","BTCtoUSD":355.499,"USDtoBRL":3.85,"satoshi":420144,"fundsBTC":0.00420144,"fundsUSD":1.49,"fundsBRL":5.75}
+
+4 5622 'TOTAL: ' { timestamp: 'Tue Nov 10 2015 19:04:47 GMT+0000 (UTC)',
+  BTCtoUSD: 355.499,
+  USDtoBRL: 3.85,
+  satoshi: 73673986,
+  fundsBTC: 0.73673986,
+  fundsUSD: 261.91,
+  fundsBRL: 1008.35 }
+-

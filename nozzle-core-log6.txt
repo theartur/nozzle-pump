@@ -1,0 +1,47 @@
+5
+http://ptcnote.com/faucet/btc/?r=xcwvb31viyfp54grpmc39jskc4ivk262hs
+http://huntercoin.website?r=8uqg1nxk8yt9aysg59s9nac1re7xrnxqmg
+http://giantbitcoin.com/?r=oc4u1d0vfo7v7rdek6hpc26xdh0aqnfuqb
+http://www.thefaucetrunner.com/faucet/?r=ay9h7ojdya5ncxriivlw4g4eticxdlyokf
+>>> {"link":"http://www.thefaucetrunner.com/faucet/?r=ay9h7ojdya5ncxriivlw4g4eticxdlyokf","timestamp":"Tue Nov 10 2015 19:20:07 GMT+0000 (UTC)","BTCtoUSD":355.3,"USDtoBRL":3.85,"satoshi":0,"fundsBTC":0,"fundsUSD":0,"fundsBRL":0}
+
+1 1533 'TOTAL: ' { timestamp: 'Tue Nov 10 2015 19:20:07 GMT+0000 (UTC)',
+  BTCtoUSD: 355.3,
+  USDtoBRL: 3.85,
+  satoshi: 0,
+  fundsBTC: 0,
+  fundsUSD: 0,
+  fundsBRL: 0 }
+http://ScoutFaucet.com?r=rtni80nt56keictnnv8hx2d8y505fho8lx
+>>> {"link":"http://ptcnote.com/faucet/btc/?r=xcwvb31viyfp54grpmc39jskc4ivk262hs","timestamp":"Tue Nov 10 2015 19:20:07 GMT+0000 (UTC)","BTCtoUSD":355.3,"USDtoBRL":3.85,"satoshi":71303950,"fundsBTC":0.7130395,"fundsUSD":253.34,"fundsBRL":975.37}
+
+2 2123 'TOTAL: ' { timestamp: 'Tue Nov 10 2015 19:20:07 GMT+0000 (UTC)',
+  BTCtoUSD: 355.3,
+  USDtoBRL: 3.85,
+  satoshi: 71303950,
+  fundsBTC: 0.7130395,
+  fundsUSD: 253.34,
+  fundsBRL: 975.37 }
+>>> {"link":"http://ScoutFaucet.com?r=rtni80nt56keictnnv8hx2d8y505fho8lx","timestamp":"Tue Nov 10 2015 19:20:11 GMT+0000 (UTC)","BTCtoUSD":355.3,"USDtoBRL":3.85,"satoshi":419744,"fundsBTC":0.00419744,"fundsUSD":1.49,"fundsBRL":5.74}
+
+3 5602 'TOTAL: ' { timestamp: 'Tue Nov 10 2015 19:20:11 GMT+0000 (UTC)',
+  BTCtoUSD: 355.3,
+  USDtoBRL: 3.85,
+  satoshi: 71723694,
+  fundsBTC: 0.71723694,
+  fundsUSD: 254.83,
+  fundsBRL: 981.11 }
+>>> {"link":"http://giantbitcoin.com/?r=oc4u1d0vfo7v7rdek6hpc26xdh0aqnfuqb","timestamp":"Tue Nov 10 2015 19:20:11 GMT+0000 (UTC)","BTCtoUSD":355.3,"USDtoBRL":3.85,"satoshi":1778932,"fundsBTC":0.01778932,"fundsUSD":6.32,"fundsBRL":24.33}
+
+4 5736 'TOTAL: ' { timestamp: 'Tue Nov 10 2015 19:20:11 GMT+0000 (UTC)',
+  BTCtoUSD: 355.3,
+  USDtoBRL: 3.85,
+  satoshi: 73502626,
+  fundsBTC: 0.73502626,
+  fundsUSD: 261.15,
+  fundsBRL: 1005.45 }
+>>> TypeError: 'null' is not an object (evaluating 'document.getElementById('theTime').innerHTML = time')
+
+  http://myrewardfeed.com/countries/rewardsplus4.html?brand=&model=&carrier=Amazon.Com%20inc.&voluumdata=vid..00000003-1142-4473-8000-000000000000__vpid..3ddbb800-87dd-11e5-850e-6ee3b6060e78__caid..d9eed9f2-b7fb-49f0-9e14-97aed317ebda__rt..R__lid..5746259f-fb65-4e88-b418-025b1d509c03__oid1..647fa741-74f8-47f2-be1b-b384ad89f76a__var1..963929__var2..US__var3..1447183211__rd..www%5C.%5Cliveadexchanger%5C.%5Ccom__aid..__sid..&zone=963929&country=US&time=1447183211&cid=17965093401447183211:114 in countDown
+{"link":"http://huntercoin.website?r=8uqg1nxk8yt9aysg59s9nac1re7xrnxqmg","timestamp":"Tue Nov 10 2015 19:20:12 GMT+0000 (UTC)","BTCtoUSD":355.3,"USDtoBRL":3.85,"satoshi":0,"fundsBTC":0,"fundsUSD":0,"fundsBRL":0}
+

@@ -1,0 +1,46 @@
+5
+http://ptcnote.com/faucet/btc/?r=oen392w6eqvg9i0d3hfof6jo3yugc950oc
+http://huntercoin.website?r=lxo4mdq7brnxoanlt2mpms4uw7otb5171s
+http://giantbitcoin.com/?r=qukb0a4og6n97klt6oh1xmwqjsnuud050u
+http://www.thefaucetrunner.com/faucet/?r=es6iwl8edoucp91omrid7dm820dlo1c1ld
+1 1577 'TOTAL: ' { timestamp: 'Tue Nov 10 2015 20:06:22 GMT+0000 (UTC)',
+  BTCtoUSD: 356.174,
+  USDtoBRL: 3.85,
+  satoshi: 0,
+  fundsBTC: 0,
+  fundsUSD: 0,
+  fundsBRL: 0 }
+http://ScoutFaucet.com?r=xmkegfpc5h8fuf3tl5kwe5u7hd7y1khpvl
+2 1826 'TOTAL: ' { timestamp: 'Tue Nov 10 2015 20:06:23 GMT+0000 (UTC)',
+  BTCtoUSD: 356.174,
+  USDtoBRL: 3.85,
+  satoshi: 70861600,
+  fundsBTC: 0.708616,
+  fundsUSD: 252.39,
+  fundsBRL: 971.7 }
+3 5332 'TOTAL: ' { timestamp: 'Tue Nov 10 2015 20:06:26 GMT+0000 (UTC)',
+  BTCtoUSD: 356.174,
+  USDtoBRL: 3.85,
+  satoshi: 72604757,
+  fundsBTC: 0.72604757,
+  fundsUSD: 258.6,
+  fundsBRL: 995.61 }
+4 6015 'TOTAL: ' { timestamp: 'Tue Nov 10 2015 20:06:27 GMT+0000 (UTC)',
+  BTCtoUSD: 356.174,
+  USDtoBRL: 3.85,
+  satoshi: 73023476,
+  fundsBTC: 0.73023476,
+  fundsUSD: 260.09,
+  fundsBRL: 1001.35 }
+5 9206 'TOTAL: ' { timestamp: 'Tue Nov 10 2015 20:06:30 GMT+0000 (UTC)',
+  BTCtoUSD: 356.174,
+  USDtoBRL: 3.85,
+  satoshi: 73023476,
+  fundsBTC: 0.73023476,
+  fundsUSD: 260.09,
+  fundsBRL: 1001.35 }
+
+
+ -- 
+
+
