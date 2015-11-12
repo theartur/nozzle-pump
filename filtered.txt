@@ -750,3 +750,39 @@
 			"name": "freesatoshi.com.ua",
 			"highestdailypayout": "0 satoshi"
 		},
+		{
+			"clean": "true",
+			"reward": "558 satoshi",
+			"interval": "0 min",
+			"description": 1446341207296,
+			"link": "http://www.DailyHits.website?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC",
+			"name": "www.dailyhits.website",
+			"highestdailypayout": "0 satoshi"
+		},
+		{
+			"clean": "true",
+			"reward": "543 satoshi",
+			"interval": "0 min",
+			"description": 1446341207297,
+			"link": "http://beta.bithits.info?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC",
+			"name": "beta.bithits.info",
+			"highestdailypayout": "0 satoshi"
+		},
+		{
+			"clean": "true",
+			"reward": "404 satoshi",
+			"interval": "0 min",
+			"description": 1446341207302,
+			"link": "http://www.SatoshiHits.website?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC",
+			"name": "www.satoshihits.website",
+			"highestdailypayout": "0 satoshi"
+		},
+		{
+			"clean": "true",
+			"reward": "98 satoshi",
+			"interval": "0 min",
+			"description": 1446341207313,
+			"link": "http://bit-lucky.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC",
+			"name": "bit-lucky.com",
+			"highestdailypayout": "0 satoshi"
+		},

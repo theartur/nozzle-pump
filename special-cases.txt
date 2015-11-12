@@ -103,3 +103,20 @@ console.log("listening on port", port);
   fundsBRL: '23915804.98' }
   
   
+
+
+
+
+
+
+
+TIMEOUT:  http://www.DailyHits.website?r=5oeiujyim42gqbey73qmtovl8p9k75au87                                                                                                                                  
+                                                                                                                                                                                                             
+                                                                                                                                                                                                             
+TIMEOUT:  http://beta.bithits.info?r=pyfto85mylnusa1qdije6eih2qylpw909i                                                                                                                                      
+                                                                                                                                                                                                             
+                                                                                                                                                                                                             
+TIMEOUT:  http://www.SatoshiHits.website?r=ee3rai8g5u22rl4sl5qp1bsplr794bg5tr                                                                                                                                
+                                                                                                                                                                                                             
+                                                                                                                                                                                                             
+TIMEOUT:  http://bit-lucky.com?r=hkw3q6ckp2sruxm54pfkk4iulnhikjj82f                                
