@@ -729,3 +729,24 @@
 			"name": "www.geo-btc.com",
 			"highestdailypayout": "0 satoshi"
 		},
+        
+		{ // special case match: >>> balance-scale"></i> Faucet balance: <input type="text" class="form-balance" value="470572 <<<
+			"clean": "true",
+			"reward": "702 satoshi",
+			"interval": "0 min",
+			"description": 1446341207283,
+			"link": "http://bitcoinsblue.com?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC",
+			"name": "bitcoinsblue.com",
+			"highestdailypayout": "0 satoshi"
+		},
+        
+        
+		{ // special case match: >>> balance.png" width="160" height="100"> &nbsp; Balance: 4382240 <<<
+			"clean": "true",
+			"reward": "672 satoshi",
+			"interval": "0 min",
+			"description": 1446341207285,
+			"link": "http://freesatoshi.com.ua/?r=weFVogcxq6K21zWXf1NnFcBCTTcmEYH4LC",
+			"name": "freesatoshi.com.ua",
+			"highestdailypayout": "0 satoshi"
+		},

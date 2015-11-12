@@ -1,0 +1,4 @@
+- rank good nozzles
+- dump good nozzles to file
+- dump bad nozzles to rejected to file
+- treat bad nozzles

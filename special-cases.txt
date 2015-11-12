@@ -55,3 +55,51 @@ require("webserver").create().listen(port, function(request, response) {
   casper.run();
 });
 console.log("listening on port", port);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  )))))))  FOUND:  http://bitcoinsblue.com?r=1lr42yew7rhusnaj9byvf54s6ehn1x2p4o >>> balance-scale"></i> Faucet balance: <input type="text" class="form-balance" value="470572 <<<
+  
+  >>> balance-scale"></i> Faucet balance: <input type="text" class="form-balance" value="470572 <<<
+  
+  55:::>>> BALANCE [ good: 26 (69%), bad: 18 (31%) ]:  { link: 'http://bitcoinsblue.com?r=1lr42yew7rhusnaj9byvf54s6ehn1x2p4o',
+  timestamp: 'Wed Nov 11 2015 19:32:09 GMT+0000 (UTC)',
+  BTCtoUSD: 388,
+  USDtoBRL: 3.85,
+  satoshi: NaN,
+  fundsBTC: NaN,
+  fundsUSD: 'NaN',
+  fundsBRL: 'NaN' }
+  
+  
+  
+  )))))))  FOUND:  http://freesatoshi.com.ua/?r=akvtevexmoe5qrsp3px7u5160oru4kgs1k >>> balance.png" width="160" height="100"> &nbsp; Balance: 4382240 <<< 
+  
+  >>> balance.png" width="160" height="100"> &nbsp; Balance: 4382240 <<< 
+  
+  52:::>>> BALANCE [ good: 30 (60%), bad: 18 (40%) ]:  { link: 'http://freesatoshi.com.ua/?r=akvtevexmoe5qrsp3px7u5160oru4kgs1k',
+  timestamp: 'Wed Nov 11 2015 19:32:09 GMT+0000 (UTC)',
+  BTCtoUSD: 388,
+  USDtoBRL: 3.85,
+  satoshi: 1601004483725,
+  fundsBTC: 16010.04483725,
+  fundsUSD: '6211897.40',
+  fundsBRL: '23915804.98' }
+  
+  
