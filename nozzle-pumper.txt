@@ -1,4 +1,18 @@
-- rank good nozzles
-- dump good nozzles to file
+- GET THE FUCKING MONEY
+
+
+/ get BTC price
+/ get USD price
+/ rank good nozzles
+/ dump good nozzles to file
 - dump bad nozzles to rejected to file
 - treat bad nozzles
+
+- update faucetz
+
+- CREATE Nozzle Monitor
+
+
+Cada target tem sua particularidade, e muitos deles são praticamente idênticos.
+
+- store eficiently the historic of total balance, for each nozzle and the total of nozzles

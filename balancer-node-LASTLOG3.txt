@@ -1,0 +1,5336 @@
+nozzleList 663
+
+
+)))))))  FOUND:  http://rollingfaucet.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 16117050 <<<
+
+662:::>>> BALANCE [ good: 1 (100%), bad: 0 (0%) ]:  { link: 'http://rollingfaucet.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:20:50 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 16117050,
+  fundsBTC: 0.1611705,
+  fundsUSD: '52.39',
+  fundsBRL: '199.02' }
+
+661:::>>> BALANCE [ good: 1 (50%), bad: 1 (50%) ]:  undefined
+
+660:::>>> BALANCE [ good: 1 (33%), bad: 2 (67%) ]:  undefined
+
+659:::>>> BALANCE [ good: 1 (25%), bad: 3 (75%) ]:  undefined
+
+658:::>>> BALANCE [ good: 1 (20%), bad: 4 (80%) ]:  undefined
+
+
+)))))))  FOUND:  http://yoshifaucet.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 16116426 <<<
+
+657:::>>> BALANCE [ good: 2 (33%), bad: 4 (67%) ]:  { link: 'http://yoshifaucet.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:20:51 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 16116426,
+  fundsBTC: 0.16116426,
+  fundsUSD: '52.39',
+  fundsBRL: '199.01' }
+
+
+)))))))  FOUND:  http://minionsfaucet.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 16117250 <<<
+
+656:::>>> BALANCE [ good: 3 (42%), bad: 4 (58%) ]:  { link: 'http://minionsfaucet.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:20:51 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 16117250,
+  fundsBTC: 0.1611725,
+  fundsUSD: '52.39',
+  fundsBRL: '199.02' }
+
+
+)))))))  FOUND:  http://www.rapidbitco.in?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 746798 <<<
+
+655:::>>> BALANCE [ good: 4 (50%), bad: 4 (50%) ]:  { link: 'http://www.rapidbitco.in?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:20:51 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 746798,
+  fundsBTC: 0.00746798,
+  fundsUSD: '2.43',
+  fundsBRL: '9.22' }
+
+
+)))))))  FOUND:  http://bitcoin.cryptorials.io?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 14008557 <<<
+
+654:::>>> BALANCE [ good: 5 (55%), bad: 4 (45%) ]:  { link: 'http://bitcoin.cryptorials.io?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:20:51 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 14008557,
+  fundsBTC: 0.14008557,
+  fundsUSD: '45.53',
+  fundsBRL: '172.99' }
+
+
+)))))))  FOUND:  http://bluesatoshi.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 27975154 <<<
+
+653:::>>> BALANCE [ good: 6 (60%), bad: 4 (40%) ]:  { link: 'http://bluesatoshi.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:20:51 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 27975154,
+  fundsBTC: 0.27975154,
+  fundsUSD: '90.93',
+  fundsBRL: '345.45' }
+
+652:::>>> BALANCE [ good: 6 (54%), bad: 5 (46%) ]:  undefined
+
+651:::>>> BALANCE [ good: 6 (50%), bad: 6 (50%) ]:  undefined
+
+
+)))))))  FOUND:  http://satoshifiesta.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 5653065 <<<
+
+650:::>>> BALANCE [ good: 7 (53%), bad: 6 (47%) ]:  { link: 'http://satoshifiesta.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:20:51 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 5653065,
+  fundsBTC: 0.05653065,
+  fundsUSD: '18.38',
+  fundsBRL: '69.81' }
+
+
+)))))))  FOUND:  http://www.btcon.net?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 13549201 <<<
+
+649:::>>> BALANCE [ good: 8 (57%), bad: 6 (43%) ]:  { link: 'http://www.btcon.net?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:20:51 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 13549201,
+  fundsBTC: 0.13549201,
+  fundsUSD: '44.04',
+  fundsBRL: '167.31' }
+
+
+)))))))  FOUND:  http://rainingfreebitcoins.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 6905533 <<<
+
+648:::>>> BALANCE [ good: 9 (60%), bad: 6 (40%) ]:  { link: 'http://rainingfreebitcoins.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:20:51 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 6905533,
+  fundsBTC: 0.06905533,
+  fundsUSD: '22.45',
+  fundsBRL: '85.27' }
+
+
+)))))))  FOUND:  http://thefreebitcoin.website/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 14008799 <<<
+
+647:::>>> BALANCE [ good: 10 (62%), bad: 6 (38%) ]:  { link: 'http://thefreebitcoin.website/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:20:51 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 14008799,
+  fundsBTC: 0.14008799,
+  fundsUSD: '45.54',
+  fundsBRL: '172.99' }
+
+
+)))))))  FOUND:  http://razercrypt.com/btc/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 17876478 <<<
+
+646:::>>> BALANCE [ good: 11 (64%), bad: 6 (36%) ]:  { link: 'http://razercrypt.com/btc/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:20:51 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 17876478,
+  fundsBTC: 0.17876478,
+  fundsUSD: '58.11',
+  fundsBRL: '220.75' }
+
+
+)))))))  FOUND:  http://bitcoinnewsday.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 14008974 <<<
+
+645:::>>> BALANCE [ good: 12 (66%), bad: 6 (34%) ]:  { link: 'http://bitcoinnewsday.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:20:51 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 14008974,
+  fundsBTC: 0.14008974,
+  fundsUSD: '45.54',
+  fundsBRL: '172.99' }
+
+644:::>>> BALANCE [ good: 12 (63%), bad: 7 (37%) ]:  undefined
+
+
+)))))))  FOUND:  http://btc-snack.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 5654974 <<<
+
+643:::>>> BALANCE [ good: 13 (65%), bad: 7 (35%) ]:  { link: 'http://btc-snack.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:20:51 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 5654974,
+  fundsBTC: 0.05654974,
+  fundsUSD: '18.38',
+  fundsBRL: '69.83' }
+
+642:::>>> BALANCE [ good: 13 (61%), bad: 8 (39%) ]:  undefined
+
+641:::>>> BALANCE [ good: 13 (59%), bad: 9 (41%) ]:  undefined
+
+
+)))))))  FOUND:  http://minions-faucet.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 4162123 <<<
+
+640:::>>> BALANCE [ good: 14 (60%), bad: 9 (40%) ]:  { link: 'http://minions-faucet.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:20:51 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 4162123,
+  fundsBTC: 0.04162123,
+  fundsUSD: '13.53',
+  fundsBRL: '51.40' }
+
+
+)))))))  FOUND:  http://www.jazfaucetlist.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 20177134 <<<
+
+639:::>>> BALANCE [ good: 15 (62%), bad: 9 (38%) ]:  { link: 'http://www.jazfaucetlist.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:20:51 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 20177134,
+  fundsBTC: 0.20177134,
+  fundsUSD: '65.59',
+  fundsBRL: '249.16' }
+
+
+)))))))  FOUND:  http://valley-bitcoin.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 51345133 <<<
+
+638:::>>> BALANCE [ good: 16 (64%), bad: 9 (36%) ]:  { link: 'http://valley-bitcoin.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:20:51 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 51345133,
+  fundsBTC: 0.51345133,
+  fundsUSD: '166.90',
+  fundsBRL: '634.04' }
+
+
+)))))))  FOUND:  http://freebit.website/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 4687365 <<<
+
+637:::>>> BALANCE [ good: 17 (65%), bad: 9 (35%) ]:  { link: 'http://freebit.website/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:20:51 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 4687365,
+  fundsBTC: 0.04687365,
+  fundsUSD: '15.24',
+  fundsBRL: '57.88' }
+
+636:::>>> BALANCE [ good: 17 (62%), bad: 10 (38%) ]:  undefined
+
+
+)))))))  FOUND:  http://clumsybitcoin.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> balance: 52 <<<
+
+635:::>>> BALANCE [ good: 18 (64%), bad: 10 (36%) ]:  { link: 'http://clumsybitcoin.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:20:51 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 52,
+  fundsBTC: 5.2e-7,
+  fundsUSD: '0.00',
+  fundsBRL: '0.00' }
+
+634:::>>> BALANCE [ good: 18 (62%), bad: 11 (38%) ]:  undefined
+
+
+)))))))  FOUND:  http://faucetsfree.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 503 <<<
+
+633:::>>> BALANCE [ good: 19 (63%), bad: 11 (37%) ]:  { link: 'http://faucetsfree.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:20:51 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 503,
+  fundsBTC: 0.00000503,
+  fundsUSD: '0.00',
+  fundsBRL: '0.01' }
+
+
+--->>> ERROR: NO BODY FOUND http://www.satoshisfaucet.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17
+
+632:::>>> BALANCE [ good: 19 (61%), bad: 12 (39%) ]:  undefined
+
+
+)))))))  FOUND:  http://wallabycoin.link/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 1222125 <<<
+
+631:::>>> BALANCE [ good: 20 (62%), bad: 12 (38%) ]:  { link: 'http://wallabycoin.link/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:20:51 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 1222125,
+  fundsBTC: 0.01222125,
+  fundsUSD: '3.97',
+  fundsBRL: '15.09' }
+
+
+)))))))  FOUND:  http://www.favoritefaucets.com/btc-faucet/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 1142240 <<<
+
+630:::>>> BALANCE [ good: 21 (63%), bad: 12 (37%) ]:  { link: 'http://www.favoritefaucets.com/btc-faucet/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:20:51 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 1142240,
+  fundsBTC: 0.0114224,
+  fundsUSD: '3.71',
+  fundsBRL: '14.10' }
+
+629:::>>> BALANCE [ good: 21 (61%), bad: 13 (39%) ]:  undefined
+
+
+)))))))  FOUND:  http://www.freebtc.co.in?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 20178085 <<<
+
+628:::>>> BALANCE [ good: 22 (62%), bad: 13 (38%) ]:  { link: 'http://www.freebtc.co.in?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:20:52 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 20178085,
+  fundsBTC: 0.20178085,
+  fundsUSD: '65.59',
+  fundsBRL: '249.17' }
+
+627:::>>> BALANCE [ good: 22 (61%), bad: 14 (39%) ]:  undefined
+
+
+)))))))  FOUND:  http://allbtcfree.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 574659 <<<
+
+626:::>>> BALANCE [ good: 23 (62%), bad: 14 (38%) ]:  { link: 'http://allbtcfree.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:20:52 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 574659,
+  fundsBTC: 0.00574659,
+  fundsUSD: '1.87',
+  fundsBRL: '7.10' }
+
+625:::>>> BALANCE [ good: 23 (60%), bad: 15 (40%) ]:  undefined
+
+624:::>>> BALANCE [ good: 23 (58%), bad: 16 (42%) ]:  undefined
+
+623:::>>> BALANCE [ good: 23 (57%), bad: 17 (43%) ]:  undefined
+
+
+)))))))  FOUND:  http://faucetstarbtc.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 359 <<<
+
+622:::>>> BALANCE [ good: 24 (58%), bad: 17 (42%) ]:  { link: 'http://faucetstarbtc.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:20:52 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 359,
+  fundsBTC: 0.00000359,
+  fundsUSD: '0.00',
+  fundsBRL: '0.00' }
+
+621:::>>> BALANCE [ good: 24 (57%), bad: 18 (43%) ]:  undefined
+
+620:::>>> BALANCE [ good: 24 (55%), bad: 19 (45%) ]:  undefined
+
+619:::>>> BALANCE [ good: 24 (54%), bad: 20 (46%) ]:  undefined
+
+
+)))))))  FOUND:  http://faucetsgalaxy.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 398060 <<<
+
+618:::>>> BALANCE [ good: 25 (55%), bad: 20 (45%) ]:  { link: 'http://faucetsgalaxy.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:20:52 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 398060,
+  fundsBTC: 0.0039806,
+  fundsUSD: '1.29',
+  fundsBRL: '4.92' }
+
+
+)))))))  FOUND:  http://faucet.bitcoins43.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 5326853 <<<
+
+617:::>>> BALANCE [ good: 26 (56%), bad: 20 (44%) ]:  { link: 'http://faucet.bitcoins43.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:20:52 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 5326853,
+  fundsBTC: 0.05326853,
+  fundsUSD: '17.31',
+  fundsBRL: '65.78' }
+
+616:::>>> BALANCE [ good: 26 (55%), bad: 21 (45%) ]:  undefined
+
+
+)))))))  FOUND:  http://faucetplanet.net/bitcoin.php?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 283 <<<
+
+615:::>>> BALANCE [ good: 27 (56%), bad: 21 (44%) ]:  { link: 'http://faucetplanet.net/bitcoin.php?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:20:52 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 283,
+  fundsBTC: 0.00000283,
+  fundsUSD: '0.00',
+  fundsBRL: '0.00' }
+
+
+)))))))  FOUND:  http://free-satoshi.eu?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 1787340 <<<
+
+614:::>>> BALANCE [ good: 28 (57%), bad: 21 (43%) ]:  { link: 'http://free-satoshi.eu?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:20:52 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 1787340,
+  fundsBTC: 0.0178734,
+  fundsUSD: '5.81',
+  fundsBRL: '22.07' }
+
+
+)))))))  FOUND:  http://www.skolingas.eu?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 7084526 <<<
+
+613:::>>> BALANCE [ good: 29 (58%), bad: 21 (42%) ]:  { link: 'http://www.skolingas.eu?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:20:52 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 7084526,
+  fundsBTC: 0.07084526,
+  fundsUSD: '23.03',
+  fundsBRL: '87.48' }
+
+612:::>>> BALANCE [ good: 29 (56%), bad: 22 (44%) ]:  undefined
+
+
+)))))))  FOUND:  http://www.partybang.eu?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 2063414 <<<
+
+611:::>>> BALANCE [ good: 30 (57%), bad: 22 (43%) ]:  { link: 'http://www.partybang.eu?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:20:53 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 2063414,
+  fundsBTC: 0.02063414,
+  fundsUSD: '6.71',
+  fundsBRL: '25.48' }
+
+610:::>>> BALANCE [ good: 30 (56%), bad: 23 (44%) ]:  undefined
+
+609:::>>> BALANCE [ good: 30 (55%), bad: 24 (45%) ]:  undefined
+
+608:::>>> BALANCE [ good: 30 (54%), bad: 25 (46%) ]:  undefined
+
+607:::>>> BALANCE [ good: 30 (53%), bad: 26 (47%) ]:  undefined
+
+
+)))))))  FOUND:  http://faucetgolden.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 503 <<<
+
+606:::>>> BALANCE [ good: 31 (54%), bad: 26 (46%) ]:  { link: 'http://faucetgolden.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:20:53 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 503,
+  fundsBTC: 0.00000503,
+  fundsUSD: '0.00',
+  fundsBRL: '0.01' }
+
+
+)))))))  FOUND:  http://www.hourlybitcoin.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 20176814 <<<
+
+605:::>>> BALANCE [ good: 32 (55%), bad: 26 (45%) ]:  { link: 'http://www.hourlybitcoin.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:20:53 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 20176814,
+  fundsBTC: 0.20176814,
+  fundsUSD: '65.58',
+  fundsBRL: '249.15' }
+
+604:::>>> BALANCE [ good: 32 (54%), bad: 27 (46%) ]:  undefined
+
+603:::>>> BALANCE [ good: 32 (53%), bad: 28 (47%) ]:  undefined
+
+
+)))))))  FOUND:  http://www.starsfaucet.com/faucet.php?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 283 <<<
+
+602:::>>> BALANCE [ good: 33 (54%), bad: 28 (46%) ]:  { link: 'http://www.starsfaucet.com/faucet.php?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:20:53 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 283,
+  fundsBTC: 0.00000283,
+  fundsUSD: '0.00',
+  fundsBRL: '0.00' }
+
+
+)))))))  FOUND:  http://www.coinfreebtcve.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 175433 <<<
+
+601:::>>> BALANCE [ good: 34 (54%), bad: 28 (46%) ]:  { link: 'http://www.coinfreebtcve.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:20:53 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 175433,
+  fundsBTC: 0.00175433,
+  fundsUSD: '0.57',
+  fundsBRL: '2.17' }
+
+600:::>>> BALANCE [ good: 34 (53%), bad: 29 (47%) ]:  undefined
+
+
+--->>> ERROR: NO BODY FOUND http://thefaucetbanker.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17
+
+599:::>>> BALANCE [ good: 34 (53%), bad: 30 (47%) ]:  undefined
+
+
+)))))))  FOUND:  http://neobitcoinfaucet.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 459 <<<
+
+598:::>>> BALANCE [ good: 35 (53%), bad: 30 (47%) ]:  { link: 'http://neobitcoinfaucet.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:20:53 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 459,
+  fundsBTC: 0.00000459,
+  fundsUSD: '0.00',
+  fundsBRL: '0.01' }
+
+
+)))))))  FOUND:  http://faucetsatoshi.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 476 <<<
+
+597:::>>> BALANCE [ good: 36 (54%), bad: 30 (46%) ]:  { link: 'http://faucetsatoshi.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:20:54 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 476,
+  fundsBTC: 0.00000476,
+  fundsUSD: '0.00',
+  fundsBRL: '0.01' }
+
+596:::>>> BALANCE [ good: 36 (53%), bad: 31 (47%) ]:  undefined
+
+
+)))))))  FOUND:  http://getmybitcoin.info?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 811 <<<
+
+595:::>>> BALANCE [ good: 37 (54%), bad: 31 (46%) ]:  { link: 'http://getmybitcoin.info?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:20:54 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 811,
+  fundsBTC: 0.00000811,
+  fundsUSD: '0.00',
+  fundsBRL: '0.01' }
+
+
+)))))))  FOUND:  http://faucet-bitco.in/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 3537747 <<<
+
+594:::>>> BALANCE [ good: 38 (55%), bad: 31 (45%) ]:  { link: 'http://faucet-bitco.in/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:20:54 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 3537747,
+  fundsBTC: 0.03537747,
+  fundsUSD: '11.50',
+  fundsBRL: '43.69' }
+
+593:::>>> BALANCE [ good: 38 (54%), bad: 32 (46%) ]:  undefined
+
+
+)))))))  FOUND:  http://crypto4free.net?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 1264175 <<<
+
+592:::>>> BALANCE [ good: 39 (54%), bad: 32 (46%) ]:  { link: 'http://crypto4free.net?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:20:54 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 1264175,
+  fundsBTC: 0.01264175,
+  fundsUSD: '4.11',
+  fundsBRL: '15.61' }
+
+591:::>>> BALANCE [ good: 39 (54%), bad: 33 (46%) ]:  undefined
+
+
+)))))))  FOUND:  http://ScoutFaucet.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 43384 <<<
+
+590:::>>> BALANCE [ good: 40 (54%), bad: 33 (46%) ]:  { link: 'http://ScoutFaucet.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:20:54 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 43384,
+  fundsBTC: 0.00043384,
+  fundsUSD: '0.14',
+  fundsBRL: '0.54' }
+
+
+)))))))  FOUND:  http://www.satoshidrip.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 20178541 <<<
+
+589:::>>> BALANCE [ good: 41 (55%), bad: 33 (45%) ]:  { link: 'http://www.satoshidrip.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:20:54 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 20178541,
+  fundsBTC: 0.20178541,
+  fundsUSD: '65.59',
+  fundsBRL: '249.18' }
+
+
+)))))))  FOUND:  http://faucet.ogsi.it?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> balance: 2 <<<
+
+588:::>>> BALANCE [ good: 42 (56%), bad: 33 (44%) ]:  { link: 'http://faucet.ogsi.it?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:20:54 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 2,
+  fundsBTC: 2e-8,
+  fundsUSD: '0.00',
+  fundsBRL: '0.00' }
+
+587:::>>> BALANCE [ good: 42 (55%), bad: 34 (45%) ]:  undefined
+
+586:::>>> BALANCE [ good: 42 (54%), bad: 35 (46%) ]:  undefined
+
+
+)))))))  FOUND:  http://www.claimbtc.info?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 3441505 <<<
+
+585:::>>> BALANCE [ good: 43 (55%), bad: 35 (45%) ]:  { link: 'http://www.claimbtc.info?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:20:54 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 3441505,
+  fundsBTC: 0.03441505,
+  fundsUSD: '11.19',
+  fundsBRL: '42.50' }
+
+584:::>>> BALANCE [ good: 43 (54%), bad: 36 (46%) ]:  undefined
+
+583:::>>> BALANCE [ good: 43 (53%), bad: 37 (47%) ]:  undefined
+
+
+)))))))  FOUND:  http://www.tracecoinfaucet.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 3 <<<
+
+582:::>>> BALANCE [ good: 44 (54%), bad: 37 (46%) ]:  { link: 'http://www.tracecoinfaucet.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:20:55 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 3,
+  fundsBTC: 3e-8,
+  fundsUSD: '0.00',
+  fundsBRL: '0.00' }
+
+581:::>>> BALANCE [ good: 44 (53%), bad: 38 (47%) ]:  undefined
+
+
+)))))))  FOUND:  http://gold-bit.co.in?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 438696 <<<
+
+580:::>>> BALANCE [ good: 45 (54%), bad: 38 (46%) ]:  { link: 'http://gold-bit.co.in?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:20:55 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 438696,
+  fundsBTC: 0.00438696,
+  fundsUSD: '1.43',
+  fundsBRL: '5.42' }
+
+
+)))))))  FOUND:  http://silver-faucet.ogsi.it/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> balance: 2 <<<
+
+579:::>>> BALANCE [ good: 46 (54%), bad: 38 (46%) ]:  { link: 'http://silver-faucet.ogsi.it/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:20:55 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 2,
+  fundsBTC: 2e-8,
+  fundsUSD: '0.00',
+  fundsBRL: '0.00' }
+
+578:::>>> BALANCE [ good: 46 (54%), bad: 39 (46%) ]:  undefined
+
+
+)))))))  FOUND:  http://www.intemi.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 5117290 <<<
+
+577:::>>> BALANCE [ good: 47 (54%), bad: 39 (46%) ]:  { link: 'http://www.intemi.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:20:55 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 5117290,
+  fundsBTC: 0.0511729,
+  fundsUSD: '16.63',
+  fundsBRL: '63.19' }
+
+576:::>>> BALANCE [ good: 47 (54%), bad: 40 (46%) ]:  undefined
+
+
+)))))))  FOUND:  http://giantbitcoin.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 8245022 <<<
+
+575:::>>> BALANCE [ good: 48 (54%), bad: 40 (46%) ]:  { link: 'http://giantbitcoin.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:20:55 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 8245022,
+  fundsBTC: 0.08245022,
+  fundsUSD: '26.80',
+  fundsBRL: '101.81' }
+
+
+)))))))  FOUND:  http://bitcet.net?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 312383 <<<
+
+574:::>>> BALANCE [ good: 49 (55%), bad: 40 (45%) ]:  { link: 'http://bitcet.net?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:20:55 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 312383,
+  fundsBTC: 0.00312383,
+  fundsUSD: '1.02',
+  fundsBRL: '3.86' }
+
+
+)))))))  FOUND:  http://viratime.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 1480 <<<
+
+573:::>>> BALANCE [ good: 50 (55%), bad: 40 (45%) ]:  { link: 'http://viratime.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:20:55 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 1480,
+  fundsBTC: 0.0000148,
+  fundsUSD: '0.00',
+  fundsBRL: '0.02' }
+
+
+)))))))  FOUND:  http://btc-faucet.eu?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 0 <<<
+
+572:::>>> BALANCE [ good: 50 (55%), bad: 40 (45%) ]:  { link: 'http://btc-faucet.eu?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:20:55 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 0,
+  fundsBTC: 0,
+  fundsUSD: '0.00',
+  fundsBRL: '0.00' }
+
+571:::>>> BALANCE [ good: 50 (54%), bad: 41 (46%) ]:  undefined
+
+570:::>>> BALANCE [ good: 50 (54%), bad: 42 (46%) ]:  undefined
+
+
+)))))))  FOUND:  http://sunbitcoin.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 16977740 <<<
+
+569:::>>> BALANCE [ good: 51 (54%), bad: 42 (46%) ]:  { link: 'http://sunbitcoin.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:20:55 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 16977740,
+  fundsBTC: 0.1697774,
+  fundsUSD: '55.19',
+  fundsBRL: '209.65' }
+
+
+)))))))  FOUND:  http://bitcoinfreerotator.com/bitcoin/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 42 <<<
+
+568:::>>> BALANCE [ good: 52 (55%), bad: 42 (45%) ]:  { link: 'http://bitcoinfreerotator.com/bitcoin/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:20:55 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 42,
+  fundsBTC: 4.2e-7,
+  fundsUSD: '0.00',
+  fundsBRL: '0.00' }
+
+567:::>>> BALANCE [ good: 52 (54%), bad: 43 (46%) ]:  undefined
+
+
+--->>> ERROR: NO BODY FOUND http://thefaucethunter.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17
+
+566:::>>> BALANCE [ good: 52 (54%), bad: 44 (46%) ]:  undefined
+
+
+)))))))  FOUND:  http://www.btcgoldrush.biz?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 151057 <<<
+
+565:::>>> BALANCE [ good: 53 (54%), bad: 44 (46%) ]:  { link: 'http://www.btcgoldrush.biz?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:20:55 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 151057,
+  fundsBTC: 0.00151057,
+  fundsUSD: '0.49',
+  fundsBRL: '1.87' }
+
+
+)))))))  FOUND:  http://coinator.net?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 1804196 <<<
+
+564:::>>> BALANCE [ good: 54 (55%), bad: 44 (45%) ]:  { link: 'http://coinator.net?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:20:56 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 1804196,
+  fundsBTC: 0.01804196,
+  fundsUSD: '5.86',
+  fundsBRL: '22.28' }
+
+563:::>>> BALANCE [ good: 54 (54%), bad: 45 (46%) ]:  undefined
+
+
+)))))))  FOUND:  http://jazzbitcoin.ru?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 200 <<<
+
+562:::>>> BALANCE [ good: 55 (55%), bad: 45 (45%) ]:  { link: 'http://jazzbitcoin.ru?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:20:56 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 200,
+  fundsBTC: 0.000002,
+  fundsUSD: '0.00',
+  fundsBRL: '0.00' }
+
+561:::>>> BALANCE [ good: 55 (54%), bad: 46 (46%) ]:  undefined
+
+560:::>>> BALANCE [ good: 55 (53%), bad: 47 (47%) ]:  undefined
+
+559:::>>> BALANCE [ good: 55 (53%), bad: 48 (47%) ]:  undefined
+
+
+)))))))  FOUND:  http://deltascraft.net?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 1609878 <<<
+
+558:::>>> BALANCE [ good: 56 (53%), bad: 48 (47%) ]:  { link: 'http://deltascraft.net?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:20:56 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 1609878,
+  fundsBTC: 0.01609878,
+  fundsUSD: '5.23',
+  fundsBRL: '19.88' }
+
+
+)))))))  FOUND:  http://freebitcoinz.tk?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance:<br>4732089 <<<
+
+557:::>>> BALANCE [ good: 57 (54%), bad: 48 (46%) ]:  { link: 'http://freebitcoinz.tk?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:20:56 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 4732089,
+  fundsBTC: 0.04732089,
+  fundsUSD: '15.38',
+  fundsBRL: '58.43' }
+
+556:::>>> BALANCE [ good: 57 (53%), bad: 49 (47%) ]:  undefined
+
+
+)))))))  FOUND:  http://faucetbitcoin.ru?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 20142564 <<<
+
+555:::>>> BALANCE [ good: 58 (54%), bad: 49 (46%) ]:  { link: 'http://faucetbitcoin.ru?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:20:56 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 20142564,
+  fundsBTC: 0.20142564,
+  fundsUSD: '65.47',
+  fundsBRL: '248.73' }
+
+
+)))))))  FOUND:  http://freebitcoins.online?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 1045106 <<<
+
+554:::>>> BALANCE [ good: 59 (54%), bad: 49 (46%) ]:  { link: 'http://freebitcoins.online?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:20:56 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 1045106,
+  fundsBTC: 0.01045106,
+  fundsUSD: '3.40',
+  fundsBRL: '12.91' }
+
+
+)))))))  FOUND:  http://mybestbitcoin.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 8753045 <<<
+
+553:::>>> BALANCE [ good: 60 (55%), bad: 49 (45%) ]:  { link: 'http://mybestbitcoin.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:20:56 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 8753045,
+  fundsBTC: 0.08753045,
+  fundsUSD: '28.45',
+  fundsBRL: '108.09' }
+
+
+)))))))  FOUND:  http://5minbtc.info?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 64 <<<
+
+552:::>>> BALANCE [ good: 61 (55%), bad: 49 (45%) ]:  { link: 'http://5minbtc.info?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:20:57 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 64,
+  fundsBTC: 6.4e-7,
+  fundsUSD: '0.00',
+  fundsBRL: '0.00' }
+
+
+)))))))  FOUND:  http://wsxgames.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 204071 <<<
+
+551:::>>> BALANCE [ good: 62 (55%), bad: 49 (45%) ]:  { link: 'http://wsxgames.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:20:57 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 204071,
+  fundsBTC: 0.00204071,
+  fundsUSD: '0.66',
+  fundsBRL: '2.52' }
+
+550:::>>> BALANCE [ good: 62 (55%), bad: 50 (45%) ]:  undefined
+
+549:::>>> BALANCE [ good: 62 (54%), bad: 51 (46%) ]:  undefined
+
+
+)))))))  FOUND:  http://faucet.mastermindga.me?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 111159 <<<
+
+548:::>>> BALANCE [ good: 63 (55%), bad: 51 (45%) ]:  { link: 'http://faucet.mastermindga.me?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:20:57 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 111159,
+  fundsBTC: 0.00111159,
+  fundsUSD: '0.36',
+  fundsBRL: '1.37' }
+
+547:::>>> BALANCE [ good: 63 (54%), bad: 52 (46%) ]:  undefined
+
+
+)))))))  FOUND:  http://petrofaucet.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 2176270 <<<
+
+546:::>>> BALANCE [ good: 64 (55%), bad: 52 (45%) ]:  { link: 'http://petrofaucet.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:20:57 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 2176270,
+  fundsBTC: 0.0217627,
+  fundsUSD: '7.07',
+  fundsBRL: '26.87' }
+
+
+--->>> ERROR: NO BODY FOUND http://realbitcoin.esy.es/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17
+
+545:::>>> BALANCE [ good: 64 (54%), bad: 53 (46%) ]:  undefined
+
+
+)))))))  FOUND:  http://www.oceanbitcoin.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 11286803 <<<
+
+544:::>>> BALANCE [ good: 65 (55%), bad: 53 (45%) ]:  { link: 'http://www.oceanbitcoin.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:20:57 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 11286803,
+  fundsBTC: 0.11286803,
+  fundsUSD: '36.69',
+  fundsBRL: '139.38' }
+
+543:::>>> BALANCE [ good: 65 (54%), bad: 54 (46%) ]:  undefined
+
+
+)))))))  FOUND:  http://claimco.in/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 1 <<<
+
+542:::>>> BALANCE [ good: 66 (55%), bad: 54 (45%) ]:  { link: 'http://claimco.in/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:20:58 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 1,
+  fundsBTC: 1e-8,
+  fundsUSD: '0.00',
+  fundsBRL: '0.00' }
+
+
+)))))))  FOUND:  http://www.bitcoinfree4you.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance:47 <<<
+
+541:::>>> BALANCE [ good: 67 (55%), bad: 54 (45%) ]:  { link: 'http://www.bitcoinfree4you.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:20:58 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 47,
+  fundsBTC: 4.7e-7,
+  fundsUSD: '0.00',
+  fundsBRL: '0.00' }
+
+540:::>>> BALANCE [ good: 67 (54%), bad: 55 (46%) ]:  undefined
+
+
+)))))))  FOUND:  http://www.faucetbox.xyz/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 8245522 <<<
+
+539:::>>> BALANCE [ good: 68 (55%), bad: 55 (45%) ]:  { link: 'http://www.faucetbox.xyz/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:20:58 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 8245522,
+  fundsBTC: 0.08245522,
+  fundsUSD: '26.80',
+  fundsBRL: '101.82' }
+
+
+)))))))  FOUND:  http://cryptogolds.com/Bitcoin/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 141 <<<
+
+538:::>>> BALANCE [ good: 69 (55%), bad: 55 (45%) ]:  { link: 'http://cryptogolds.com/Bitcoin/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:20:58 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 141,
+  fundsBTC: 0.00000141,
+  fundsUSD: '0.00',
+  fundsBRL: '0.00' }
+
+537:::>>> BALANCE [ good: 69 (55%), bad: 56 (45%) ]:  undefined
+
+
+)))))))  FOUND:  http://bitcoin.payspigot.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 80 <<<
+
+536:::>>> BALANCE [ good: 70 (55%), bad: 56 (45%) ]:  { link: 'http://bitcoin.payspigot.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:20:58 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 80,
+  fundsBTC: 8e-7,
+  fundsUSD: '0.00',
+  fundsBRL: '0.00' }
+
+
+--->>> ERROR: NO BODY FOUND http://www.thefaucetrunner.com/faucet/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17
+
+535:::>>> BALANCE [ good: 70 (55%), bad: 57 (45%) ]:  undefined
+
+
+)))))))  FOUND:  http://elegantfaucet.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 498701 <<<
+
+534:::>>> BALANCE [ good: 71 (55%), bad: 57 (45%) ]:  { link: 'http://elegantfaucet.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:20:58 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 498701,
+  fundsBTC: 0.00498701,
+  fundsUSD: '1.62',
+  fundsBRL: '6.16' }
+
+533:::>>> BALANCE [ good: 71 (55%), bad: 58 (45%) ]:  undefined
+
+
+)))))))  FOUND:  http://www.faucet.ncjeux.fr?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 81402 <<<
+
+532:::>>> BALANCE [ good: 72 (55%), bad: 58 (45%) ]:  { link: 'http://www.faucet.ncjeux.fr?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:20:58 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 81402,
+  fundsBTC: 0.00081402,
+  fundsUSD: '0.26',
+  fundsBRL: '1.01' }
+
+
+)))))))  FOUND:  http://www.tdwcoinfree.biz?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 110 <<<
+
+531:::>>> BALANCE [ good: 73 (55%), bad: 58 (45%) ]:  { link: 'http://www.tdwcoinfree.biz?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:20:58 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 110,
+  fundsBTC: 0.0000011,
+  fundsUSD: '0.00',
+  fundsBRL: '0.00' }
+
+530:::>>> BALANCE [ good: 73 (55%), bad: 59 (45%) ]:  undefined
+
+
+)))))))  FOUND:  http://www.letsgoo.de/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> balance: 52 <<<
+
+529:::>>> BALANCE [ good: 74 (55%), bad: 59 (45%) ]:  { link: 'http://www.letsgoo.de/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:20:58 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 52,
+  fundsBTC: 5.2e-7,
+  fundsUSD: '0.00',
+  fundsBRL: '0.00' }
+
+528:::>>> BALANCE [ good: 74 (55%), bad: 60 (45%) ]:  undefined
+
+
+)))))))  FOUND:  http://freeco.in.ua/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 4160843 <<<
+
+527:::>>> BALANCE [ good: 75 (55%), bad: 60 (45%) ]:  { link: 'http://freeco.in.ua/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:20:59 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 4160843,
+  fundsBTC: 0.04160843,
+  fundsUSD: '13.52',
+  fundsBRL: '51.38' }
+
+
+--->>> ERROR: NO BODY FOUND http://thefaucetfarmer.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17
+
+526:::>>> BALANCE [ good: 75 (55%), bad: 61 (45%) ]:  undefined
+
+525:::>>> BALANCE [ good: 75 (54%), bad: 62 (46%) ]:  undefined
+
+
+)))))))  FOUND:  http://faucetsunbtc.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 359 <<<
+
+524:::>>> BALANCE [ good: 76 (55%), bad: 62 (45%) ]:  { link: 'http://faucetsunbtc.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:20:59 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 359,
+  fundsBTC: 0.00000359,
+  fundsUSD: '0.00',
+  fundsBRL: '0.00' }
+
+523:::>>> BALANCE [ good: 76 (54%), bad: 63 (46%) ]:  undefined
+
+
+)))))))  FOUND:  http://i-btc.com.pl?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 80665 <<<
+
+522:::>>> BALANCE [ good: 77 (55%), bad: 63 (45%) ]:  { link: 'http://i-btc.com.pl?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:20:59 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 80665,
+  fundsBTC: 0.00080665,
+  fundsUSD: '0.26',
+  fundsBRL: '1.00' }
+
+
+)))))))  FOUND:  http://www.mrchocobit.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 2176723 <<<
+
+521:::>>> BALANCE [ good: 78 (55%), bad: 63 (45%) ]:  { link: 'http://www.mrchocobit.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:20:59 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 2176723,
+  fundsBTC: 0.02176723,
+  fundsUSD: '7.08',
+  fundsBRL: '26.88' }
+
+520:::>>> BALANCE [ good: 78 (54%), bad: 64 (46%) ]:  undefined
+
+
+)))))))  FOUND:  http://faucet.adictosaldinero.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 86 <<<
+
+519:::>>> BALANCE [ good: 79 (55%), bad: 64 (45%) ]:  { link: 'http://faucet.adictosaldinero.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:20:59 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 86,
+  fundsBTC: 8.6e-7,
+  fundsUSD: '0.00',
+  fundsBRL: '0.00' }
+
+
+)))))))  FOUND:  http://dankbitcoin.site/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 2403836 <<<
+
+518:::>>> BALANCE [ good: 80 (55%), bad: 64 (45%) ]:  { link: 'http://dankbitcoin.site/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:20:59 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 2403836,
+  fundsBTC: 0.02403836,
+  fundsUSD: '7.81',
+  fundsBRL: '29.68' }
+
+
+)))))))  FOUND:  http://redfaucet.pw?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 4873677 <<<
+
+517:::>>> BALANCE [ good: 81 (55%), bad: 64 (45%) ]:  { link: 'http://redfaucet.pw?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:20:59 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 4873677,
+  fundsBTC: 0.04873677,
+  fundsUSD: '15.84',
+  fundsBRL: '60.18' }
+
+
+)))))))  FOUND:  http://richbtc.ga?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 627777 <<<
+
+516:::>>> BALANCE [ good: 82 (56%), bad: 64 (44%) ]:  { link: 'http://richbtc.ga?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:20:59 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 627777,
+  fundsBTC: 0.00627777,
+  fundsUSD: '2.04',
+  fundsBRL: '7.75' }
+
+515:::>>> BALANCE [ good: 82 (55%), bad: 65 (45%) ]:  undefined
+
+514:::>>> BALANCE [ good: 82 (55%), bad: 66 (45%) ]:  undefined
+
+
+)))))))  FOUND:  http://faucetup.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 358334 <<<
+
+513:::>>> BALANCE [ good: 83 (55%), bad: 66 (45%) ]:  { link: 'http://faucetup.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:20:59 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 358334,
+  fundsBTC: 0.00358334,
+  fundsUSD: '1.16',
+  fundsBRL: '4.42' }
+
+512:::>>> BALANCE [ good: 83 (55%), bad: 67 (45%) ]:  undefined
+
+511:::>>> BALANCE [ good: 83 (54%), bad: 68 (46%) ]:  undefined
+
+
+--->>> ERROR: NO BODY FOUND http://ifaucet.xyz?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17
+
+510:::>>> BALANCE [ good: 83 (54%), bad: 69 (46%) ]:  undefined
+
+509:::>>> BALANCE [ good: 83 (54%), bad: 70 (46%) ]:  undefined
+
+
+)))))))  FOUND:  http://bitcoin.lps.by/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 67 <<<
+
+508:::>>> BALANCE [ good: 84 (54%), bad: 70 (46%) ]:  { link: 'http://bitcoin.lps.by/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:00 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 67,
+  fundsBTC: 6.7e-7,
+  fundsUSD: '0.00',
+  fundsBRL: '0.00' }
+
+
+)))))))  FOUND:  http://bitcet.xyz?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 312586 <<<
+
+507:::>>> BALANCE [ good: 85 (54%), bad: 70 (46%) ]:  { link: 'http://bitcet.xyz?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:00 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 312586,
+  fundsBTC: 0.00312586,
+  fundsUSD: '1.02',
+  fundsBRL: '3.86' }
+
+
+)))))))  FOUND:  http://freewebmoney.ga/faucet/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 40 <<<
+
+506:::>>> BALANCE [ good: 86 (55%), bad: 70 (45%) ]:  { link: 'http://freewebmoney.ga/faucet/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:00 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 40,
+  fundsBTC: 4e-7,
+  fundsUSD: '0.00',
+  fundsBRL: '0.00' }
+
+505:::>>> BALANCE [ good: 86 (54%), bad: 71 (46%) ]:  undefined
+
+
+)))))))  FOUND:  http://brasilfaucet.net/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 67640 <<<
+
+504:::>>> BALANCE [ good: 87 (55%), bad: 71 (45%) ]:  { link: 'http://brasilfaucet.net/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:00 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 67640,
+  fundsBTC: 0.0006764,
+  fundsUSD: '0.22',
+  fundsBRL: '0.84' }
+
+503:::>>> BALANCE [ good: 87 (54%), bad: 72 (46%) ]:  undefined
+
+502:::>>> BALANCE [ good: 87 (54%), bad: 73 (46%) ]:  undefined
+
+501:::>>> BALANCE [ good: 87 (54%), bad: 74 (46%) ]:  undefined
+
+500:::>>> BALANCE [ good: 87 (53%), bad: 75 (47%) ]:  undefined
+
+
+)))))))  FOUND:  http://www.btc4.click?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 1189901 <<<
+
+499:::>>> BALANCE [ good: 88 (53%), bad: 75 (47%) ]:  { link: 'http://www.btc4.click?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:01 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 1189901,
+  fundsBTC: 0.01189901,
+  fundsUSD: '3.87',
+  fundsBRL: '14.69' }
+
+
+)))))))  FOUND:  http://www.forbit.co.in?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 266089 <<<
+
+498:::>>> BALANCE [ good: 89 (54%), bad: 75 (46%) ]:  { link: 'http://www.forbit.co.in?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:01 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 266089,
+  fundsBTC: 0.00266089,
+  fundsUSD: '0.86',
+  fundsBRL: '3.29' }
+
+497:::>>> BALANCE [ good: 89 (53%), bad: 76 (47%) ]:  undefined
+
+
+)))))))  FOUND:  http://www.freebitcoinfaucet.website/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 227265 <<<
+
+496:::>>> BALANCE [ good: 90 (54%), bad: 76 (46%) ]:  { link: 'http://www.freebitcoinfaucet.website/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:01 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 227265,
+  fundsBTC: 0.00227265,
+  fundsUSD: '0.74',
+  fundsBRL: '2.81' }
+
+495:::>>> BALANCE [ good: 90 (53%), bad: 77 (47%) ]:  undefined
+
+
+)))))))  FOUND:  http://faucet.web.id/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 2 <<<
+
+494:::>>> BALANCE [ good: 91 (54%), bad: 77 (46%) ]:  { link: 'http://faucet.web.id/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:01 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 2,
+  fundsBTC: 2e-8,
+  fundsUSD: '0.00',
+  fundsBRL: '0.00' }
+
+493:::>>> BALANCE [ good: 91 (53%), bad: 78 (47%) ]:  undefined
+
+
+)))))))  FOUND:  http://czarbitcoin.com.br?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 67640 <<<
+
+492:::>>> BALANCE [ good: 92 (54%), bad: 78 (46%) ]:  { link: 'http://czarbitcoin.com.br?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:01 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 67640,
+  fundsBTC: 0.0006764,
+  fundsUSD: '0.22',
+  fundsBRL: '0.84' }
+
+
+)))))))  FOUND:  http://btc-4-free.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 12352211 <<<
+
+491:::>>> BALANCE [ good: 93 (54%), bad: 78 (46%) ]:  { link: 'http://btc-4-free.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:01 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 12352211,
+  fundsBTC: 0.12352211,
+  fundsUSD: '40.15',
+  fundsBRL: '152.53' }
+
+
+)))))))  FOUND:  http://faucet.onion.nu/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 135920 <<<
+
+490:::>>> BALANCE [ good: 94 (54%), bad: 78 (46%) ]:  { link: 'http://faucet.onion.nu/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:01 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 135920,
+  fundsBTC: 0.0013592,
+  fundsUSD: '0.44',
+  fundsBRL: '1.68' }
+
+
+)))))))  FOUND:  http://monsterfaucet.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 3130 <<<
+
+489:::>>> BALANCE [ good: 95 (54%), bad: 78 (46%) ]:  { link: 'http://monsterfaucet.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:01 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 3130,
+  fundsBTC: 0.0000313,
+  fundsUSD: '0.01',
+  fundsBRL: '0.04' }
+
+488:::>>> BALANCE [ good: 95 (54%), bad: 79 (46%) ]:  undefined
+
+
+)))))))  FOUND:  http://www.minibtcfaucet.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 20178541 <<<
+
+487:::>>> BALANCE [ good: 96 (54%), bad: 79 (46%) ]:  { link: 'http://www.minibtcfaucet.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:01 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 20178541,
+  fundsBTC: 0.20178541,
+  fundsUSD: '65.59',
+  fundsBRL: '249.18' }
+
+486:::>>> BALANCE [ good: 96 (54%), bad: 80 (46%) ]:  undefined
+
+
+)))))))  FOUND:  http://www.naguarabitcoin.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 1312559 <<<
+
+485:::>>> BALANCE [ good: 97 (54%), bad: 80 (46%) ]:  { link: 'http://www.naguarabitcoin.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:01 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 1312559,
+  fundsBTC: 0.01312559,
+  fundsUSD: '4.27',
+  fundsBRL: '16.21' }
+
+
+)))))))  FOUND:  http://get-free-bitcoin.net/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 102516387 <<<
+
+484:::>>> BALANCE [ good: 98 (55%), bad: 80 (45%) ]:  { link: 'http://get-free-bitcoin.net/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:01 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 102516387,
+  fundsBTC: 1.02516387,
+  fundsUSD: '333.23',
+  fundsBRL: '1265.93' }
+
+
+)))))))  FOUND:  http://www.hotbitco.in?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 266414 <<<
+
+483:::>>> BALANCE [ good: 99 (55%), bad: 80 (45%) ]:  { link: 'http://www.hotbitco.in?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:01 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 266414,
+  fundsBTC: 0.00266414,
+  fundsUSD: '0.87',
+  fundsBRL: '3.29' }
+
+
+--->>> ERROR: NO BODY FOUND http://www.hyperbtc.net/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17
+
+482:::>>> BALANCE [ good: 99 (55%), bad: 81 (45%) ]:  undefined
+
+
+)))))))  FOUND:  http://www.faucetwin.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 364583 <<<
+
+481:::>>> BALANCE [ good: 100 (55%), bad: 81 (45%) ]:  { link: 'http://www.faucetwin.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:01 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 364583,
+  fundsBTC: 0.00364583,
+  fundsUSD: '1.19',
+  fundsBRL: '4.50' }
+
+
+)))))))  FOUND:  http://freebitcoin2016.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 12 <<<
+
+480:::>>> BALANCE [ good: 101 (55%), bad: 81 (45%) ]:  { link: 'http://freebitcoin2016.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:01 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 12,
+  fundsBTC: 1.2e-7,
+  fundsUSD: '0.00',
+  fundsBRL: '0.00' }
+
+
+)))))))  FOUND:  http://jupiterbitcoin.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 16977380 <<<
+
+479:::>>> BALANCE [ good: 102 (55%), bad: 81 (45%) ]:  { link: 'http://jupiterbitcoin.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:01 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 16977380,
+  fundsBTC: 0.1697738,
+  fundsUSD: '55.18',
+  fundsBRL: '209.65' }
+
+
+)))))))  FOUND:  http://faucet.dealcentralen.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 35 <<<
+
+478:::>>> BALANCE [ good: 103 (55%), bad: 81 (45%) ]:  { link: 'http://faucet.dealcentralen.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:02 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 35,
+  fundsBTC: 3.5e-7,
+  fundsUSD: '0.00',
+  fundsBRL: '0.00' }
+
+477:::>>> BALANCE [ good: 103 (55%), bad: 82 (45%) ]:  undefined
+
+476:::>>> BALANCE [ good: 103 (55%), bad: 83 (45%) ]:  undefined
+
+
+)))))))  FOUND:  http://supercoinfaucet.tk?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 696395 <<<
+
+475:::>>> BALANCE [ good: 104 (55%), bad: 83 (45%) ]:  { link: 'http://supercoinfaucet.tk?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:02 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 696395,
+  fundsBTC: 0.00696395,
+  fundsUSD: '2.26',
+  fundsBRL: '8.60' }
+
+474:::>>> BALANCE [ good: 104 (55%), bad: 84 (45%) ]:  undefined
+
+
+)))))))  FOUND:  http://www.faucetbox.net?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 196 <<<
+
+473:::>>> BALANCE [ good: 105 (55%), bad: 84 (45%) ]:  { link: 'http://www.faucetbox.net?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:02 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 196,
+  fundsBTC: 0.00000196,
+  fundsUSD: '0.00',
+  fundsBRL: '0.00' }
+
+
+)))))))  FOUND:  http://www.faucetbit.co.in?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 20178541 <<<
+
+472:::>>> BALANCE [ good: 106 (55%), bad: 84 (45%) ]:  { link: 'http://www.faucetbit.co.in?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:02 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 20178541,
+  fundsBTC: 0.20178541,
+  fundsUSD: '65.59',
+  fundsBRL: '249.18' }
+
+471:::>>> BALANCE [ good: 106 (55%), bad: 85 (45%) ]:  undefined
+
+470:::>>> BALANCE [ good: 106 (55%), bad: 86 (45%) ]:  undefined
+
+
+)))))))  FOUND:  http://greenfaucet.cf/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> balance: 74741 <<<
+
+469:::>>> BALANCE [ good: 107 (55%), bad: 86 (45%) ]:  { link: 'http://greenfaucet.cf/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:02 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 74741,
+  fundsBTC: 0.00074741,
+  fundsUSD: '0.24',
+  fundsBRL: '0.92' }
+
+
+)))))))  FOUND:  http://bigcoin.ml/bitcoin/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 1018461 <<<
+
+468:::>>> BALANCE [ good: 108 (55%), bad: 86 (45%) ]:  { link: 'http://bigcoin.ml/bitcoin/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:02 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 1018461,
+  fundsBTC: 0.01018461,
+  fundsUSD: '3.31',
+  fundsBRL: '12.58' }
+
+467:::>>> BALANCE [ good: 108 (55%), bad: 87 (45%) ]:  undefined
+
+466:::>>> BALANCE [ good: 108 (55%), bad: 88 (45%) ]:  undefined
+
+465:::>>> BALANCE [ good: 108 (54%), bad: 89 (46%) ]:  undefined
+
+
+)))))))  FOUND:  http://freebtc4u.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 1372406 <<<
+
+464:::>>> BALANCE [ good: 109 (55%), bad: 89 (45%) ]:  { link: 'http://freebtc4u.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:02 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 1372406,
+  fundsBTC: 0.01372406,
+  fundsUSD: '4.46',
+  fundsBRL: '16.95' }
+
+
+)))))))  FOUND:  https://freefaucetcoin.com/Faucet/BITCOIN/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 2462993 <<<
+
+463:::>>> BALANCE [ good: 110 (55%), bad: 89 (45%) ]:  { link: 'https://freefaucetcoin.com/Faucet/BITCOIN/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:02 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 2462993,
+  fundsBTC: 0.02462993,
+  fundsUSD: '8.01',
+  fundsBRL: '30.41' }
+
+462:::>>> BALANCE [ good: 110 (55%), bad: 90 (45%) ]:  undefined
+
+
+)))))))  FOUND:  http://btc.gaincoinz.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> balance: <font color="#f2 <<<
+
+461:::>>> BALANCE [ good: 111 (55%), bad: 90 (45%) ]:  { link: 'http://btc.gaincoinz.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:03 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 2,
+  fundsBTC: 2e-8,
+  fundsUSD: '0.00',
+  fundsBRL: '0.00' }
+
+
+)))))))  FOUND:  http://blackout.altervista.org/faucet/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 118646 <<<
+
+460:::>>> BALANCE [ good: 112 (55%), bad: 90 (45%) ]:  { link: 'http://blackout.altervista.org/faucet/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:03 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 118646,
+  fundsBTC: 0.00118646,
+  fundsUSD: '0.39',
+  fundsBRL: '1.47' }
+
+
+)))))))  FOUND:  http://bitcoinsforfree.me/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 878809 <<<
+
+459:::>>> BALANCE [ good: 113 (55%), bad: 90 (45%) ]:  { link: 'http://bitcoinsforfree.me/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:03 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 878809,
+  fundsBTC: 0.00878809,
+  fundsUSD: '2.86',
+  fundsBRL: '10.85' }
+
+458:::>>> BALANCE [ good: 113 (55%), bad: 91 (45%) ]:  undefined
+
+
+)))))))  FOUND:  http://bitcoinkran.ru/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 5 <<<
+
+457:::>>> BALANCE [ good: 114 (55%), bad: 91 (45%) ]:  { link: 'http://bitcoinkran.ru/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:03 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 5,
+  fundsBTC: 5e-8,
+  fundsUSD: '0.00',
+  fundsBRL: '0.00' }
+
+456:::>>> BALANCE [ good: 114 (55%), bad: 92 (45%) ]:  undefined
+
+
+)))))))  FOUND:  http://www.babyfreebtc.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 2176008 <<<
+
+455:::>>> BALANCE [ good: 115 (55%), bad: 92 (45%) ]:  { link: 'http://www.babyfreebtc.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:03 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 2176008,
+  fundsBTC: 0.02176008,
+  fundsUSD: '7.07',
+  fundsBRL: '26.87' }
+
+454:::>>> BALANCE [ good: 115 (55%), bad: 93 (45%) ]:  undefined
+
+453:::>>> BALANCE [ good: 115 (55%), bad: 94 (45%) ]:  undefined
+
+
+)))))))  FOUND:  http://bitcoinshowers.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> balance: 2 <<<
+
+452:::>>> BALANCE [ good: 116 (55%), bad: 94 (45%) ]:  { link: 'http://bitcoinshowers.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:03 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 2,
+  fundsBTC: 2e-8,
+  fundsUSD: '0.00',
+  fundsBRL: '0.00' }
+
+451:::>>> BALANCE [ good: 116 (54%), bad: 95 (46%) ]:  undefined
+
+450:::>>> BALANCE [ good: 116 (54%), bad: 96 (46%) ]:  undefined
+
+449:::>>> BALANCE [ good: 116 (54%), bad: 97 (46%) ]:  undefined
+
+448:::>>> BALANCE [ good: 116 (54%), bad: 98 (46%) ]:  undefined
+
+447:::>>> BALANCE [ good: 116 (53%), bad: 99 (47%) ]:  undefined
+
+
+)))))))  FOUND:  http://polyfaucet.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 1282130 <<<
+
+446:::>>> BALANCE [ good: 117 (54%), bad: 99 (46%) ]:  { link: 'http://polyfaucet.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:03 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 1282130,
+  fundsBTC: 0.0128213,
+  fundsUSD: '4.17',
+  fundsBRL: '15.83' }
+
+
+)))))))  FOUND:  http://fastbtc.pw/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 392 <<<
+
+445:::>>> BALANCE [ good: 118 (54%), bad: 99 (46%) ]:  { link: 'http://fastbtc.pw/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:03 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 392,
+  fundsBTC: 0.00000392,
+  fundsUSD: '0.00',
+  fundsBRL: '0.00' }
+
+444:::>>> BALANCE [ good: 118 (54%), bad: 100 (46%) ]:  undefined
+
+
+)))))))  FOUND:  http://www.bit-essence.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 7583254 <<<
+
+443:::>>> BALANCE [ good: 119 (54%), bad: 100 (46%) ]:  { link: 'http://www.bit-essence.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:03 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 7583254,
+  fundsBTC: 0.07583254,
+  fundsUSD: '24.65',
+  fundsBRL: '93.64' }
+
+
+)))))))  FOUND:  http://faucet.gibitcoins.me?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> balance: N/A</h4 <<<
+
+442:::>>> BALANCE [ good: 120 (54%), bad: 100 (46%) ]:  { link: 'http://faucet.gibitcoins.me?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:03 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 4,
+  fundsBTC: 4e-8,
+  fundsUSD: '0.00',
+  fundsBRL: '0.00' }
+
+
+)))))))  FOUND:  http://terrabtcfaucet.cu.cc/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 19341 <<<
+
+441:::>>> BALANCE [ good: 121 (54%), bad: 100 (46%) ]:  { link: 'http://terrabtcfaucet.cu.cc/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:03 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 19341,
+  fundsBTC: 0.00019341,
+  fundsUSD: '0.06',
+  fundsBRL: '0.24' }
+
+440:::>>> BALANCE [ good: 121 (54%), bad: 101 (46%) ]:  undefined
+
+
+)))))))  FOUND:  http://bitcoingiftaway.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 2217113 <<<
+
+439:::>>> BALANCE [ good: 122 (54%), bad: 101 (46%) ]:  { link: 'http://bitcoingiftaway.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:03 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 2217113,
+  fundsBTC: 0.02217113,
+  fundsUSD: '7.21',
+  fundsBRL: '27.38' }
+
+
+)))))))  FOUND:  http://freebitcoin.in/faucet/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 141 <<<
+
+438:::>>> BALANCE [ good: 123 (54%), bad: 101 (46%) ]:  { link: 'http://freebitcoin.in/faucet/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:03 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 141,
+  fundsBTC: 0.00000141,
+  fundsUSD: '0.00',
+  fundsBRL: '0.00' }
+
+
+)))))))  FOUND:  http://beta-btc.ru/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 104214 <<<
+
+437:::>>> BALANCE [ good: 124 (55%), bad: 101 (45%) ]:  { link: 'http://beta-btc.ru/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:04 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 104214,
+  fundsBTC: 0.00104214,
+  fundsUSD: '0.34',
+  fundsBRL: '1.29' }
+
+
+)))))))  FOUND:  http://www.gimlifaucet.eu?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 95866 <<<
+
+436:::>>> BALANCE [ good: 125 (55%), bad: 101 (45%) ]:  { link: 'http://www.gimlifaucet.eu?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:04 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 95866,
+  fundsBTC: 0.00095866,
+  fundsUSD: '0.31',
+  fundsBRL: '1.18' }
+
+435:::>>> BALANCE [ good: 125 (55%), bad: 102 (45%) ]:  undefined
+
+
+)))))))  FOUND:  http://bitcoinwiki.website?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: <span style="color: #a4 <<<
+
+434:::>>> BALANCE [ good: 126 (55%), bad: 102 (45%) ]:  { link: 'http://bitcoinwiki.website?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:04 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 4,
+  fundsBTC: 4e-8,
+  fundsUSD: '0.00',
+  fundsBRL: '0.00' }
+
+
+)))))))  FOUND:  http://delta-btc.ru/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 103584 <<<
+
+433:::>>> BALANCE [ good: 127 (55%), bad: 102 (45%) ]:  { link: 'http://delta-btc.ru/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:04 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 103584,
+  fundsBTC: 0.00103584,
+  fundsUSD: '0.34',
+  fundsBRL: '1.28' }
+
+
+)))))))  FOUND:  http://bullfaucet.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 405 <<<
+
+432:::>>> BALANCE [ good: 128 (55%), bad: 102 (45%) ]:  { link: 'http://bullfaucet.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:04 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 405,
+  fundsBTC: 0.00000405,
+  fundsUSD: '0.00',
+  fundsBRL: '0.01' }
+
+431:::>>> BALANCE [ good: 128 (55%), bad: 103 (45%) ]:  undefined
+
+
+)))))))  FOUND:  http://faucet.coinbanned.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 410 <<<
+
+430:::>>> BALANCE [ good: 129 (55%), bad: 103 (45%) ]:  { link: 'http://faucet.coinbanned.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:04 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 410,
+  fundsBTC: 0.0000041,
+  fundsUSD: '0.00',
+  fundsBRL: '0.01' }
+
+
+)))))))  FOUND:  http://earncoin.us?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 265964 <<<
+
+429:::>>> BALANCE [ good: 130 (55%), bad: 103 (45%) ]:  { link: 'http://earncoin.us?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:04 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 265964,
+  fundsBTC: 0.00265964,
+  fundsUSD: '0.86',
+  fundsBRL: '3.28' }
+
+
+)))))))  FOUND:  http://electrum-faucet.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 79 <<<
+
+428:::>>> BALANCE [ good: 131 (55%), bad: 103 (45%) ]:  { link: 'http://electrum-faucet.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:04 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 79,
+  fundsBTC: 7.9e-7,
+  fundsUSD: '0.00',
+  fundsBRL: '0.00' }
+
+427:::>>> BALANCE [ good: 131 (55%), bad: 104 (45%) ]:  undefined
+
+
+)))))))  FOUND:  http://yourdailybitcoins.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 1040072 <<<
+
+426:::>>> BALANCE [ good: 132 (55%), bad: 104 (45%) ]:  { link: 'http://yourdailybitcoins.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:04 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 1040072,
+  fundsBTC: 0.01040072,
+  fundsUSD: '3.38',
+  fundsBRL: '12.84' }
+
+425:::>>> BALANCE [ good: 132 (55%), bad: 105 (45%) ]:  undefined
+
+
+)))))))  FOUND:  http://www.getcoin.eu?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance:</b><br>301 <<<
+
+424:::>>> BALANCE [ good: 133 (55%), bad: 105 (45%) ]:  { link: 'http://www.getcoin.eu?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:05 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 301,
+  fundsBTC: 0.00000301,
+  fundsUSD: '0.00',
+  fundsBRL: '0.00' }
+
+
+)))))))  FOUND:  http://bittendofaucet.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 245 <<<
+
+423:::>>> BALANCE [ good: 134 (56%), bad: 105 (44%) ]:  { link: 'http://bittendofaucet.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:05 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 245,
+  fundsBTC: 0.00000245,
+  fundsUSD: '0.00',
+  fundsBRL: '0.00' }
+
+
+)))))))  FOUND:  http://topcryptoco.in?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 2 <<<
+
+422:::>>> BALANCE [ good: 135 (56%), bad: 105 (44%) ]:  { link: 'http://topcryptoco.in?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:05 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 2,
+  fundsBTC: 2e-8,
+  fundsUSD: '0.00',
+  fundsBRL: '0.00' }
+
+421:::>>> BALANCE [ good: 135 (56%), bad: 106 (44%) ]:  undefined
+
+
+)))))))  FOUND:  http://www.coinprizes.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> balance: <span class="label label-info">N/A</span></h4 <<<
+
+420:::>>> BALANCE [ good: 135 (56%), bad: 106 (44%) ]:  { link: 'http://www.coinprizes.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:05 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: -4,
+  fundsBTC: -4e-8,
+  fundsUSD: '-0.00',
+  fundsBRL: '-0.00' }
+
+419:::>>> BALANCE [ good: 135 (55%), bad: 107 (45%) ]:  undefined
+
+
+)))))))  FOUND:  http://bit1.click/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 2186279 <<<
+
+418:::>>> BALANCE [ good: 136 (55%), bad: 107 (45%) ]:  { link: 'http://bit1.click/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:05 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 2186279,
+  fundsBTC: 0.02186279,
+  fundsUSD: '7.11',
+  fundsBRL: '27.00' }
+
+
+)))))))  FOUND:  http://getyourfreebitcoins.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 75 <<<
+
+417:::>>> BALANCE [ good: 137 (56%), bad: 107 (44%) ]:  { link: 'http://getyourfreebitcoins.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:05 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 75,
+  fundsBTC: 7.5e-7,
+  fundsUSD: '0.00',
+  fundsBRL: '0.00' }
+
+
+--->>> ERROR: NO BODY FOUND http://manysatoshis.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17
+
+416:::>>> BALANCE [ good: 137 (55%), bad: 108 (45%) ]:  undefined
+
+415:::>>> BALANCE [ good: 137 (55%), bad: 109 (45%) ]:  undefined
+
+
+)))))))  FOUND:  http://mycoinads.com/faucet/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 703890 <<<
+
+414:::>>> BALANCE [ good: 138 (55%), bad: 109 (45%) ]:  { link: 'http://mycoinads.com/faucet/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:05 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 703890,
+  fundsBTC: 0.0070389,
+  fundsUSD: '2.29',
+  fundsBRL: '8.69' }
+
+
+)))))))  FOUND:  http://goldbitcoin.eu5.org?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 7 <<<
+
+413:::>>> BALANCE [ good: 139 (56%), bad: 109 (44%) ]:  { link: 'http://goldbitcoin.eu5.org?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:06 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 7,
+  fundsBTC: 7e-8,
+  fundsUSD: '0.00',
+  fundsBRL: '0.00' }
+
+
+)))))))  FOUND:  http://plutobit.net46.net/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 24624 <<<
+
+412:::>>> BALANCE [ good: 140 (56%), bad: 109 (44%) ]:  { link: 'http://plutobit.net46.net/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:06 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 24624,
+  fundsBTC: 0.00024624,
+  fundsUSD: '0.08',
+  fundsBRL: '0.30' }
+
+
+)))))))  FOUND:  http://soyvillanueva.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 911860 <<<
+
+411:::>>> BALANCE [ good: 141 (56%), bad: 109 (44%) ]:  { link: 'http://soyvillanueva.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:06 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 911860,
+  fundsBTC: 0.0091186,
+  fundsUSD: '2.96',
+  fundsBRL: '11.26' }
+
+410:::>>> BALANCE [ good: 141 (56%), bad: 110 (44%) ]:  undefined
+
+
+)))))))  FOUND:  http://freebitcoin.pk?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 589420 <<<
+
+409:::>>> BALANCE [ good: 142 (56%), bad: 110 (44%) ]:  { link: 'http://freebitcoin.pk?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:06 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 589420,
+  fundsBTC: 0.0058942,
+  fundsUSD: '1.92',
+  fundsBRL: '7.28' }
+
+
+)))))))  FOUND:  http://free-bit.pp.ua/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 1081619 <<<
+
+408:::>>> BALANCE [ good: 143 (56%), bad: 110 (44%) ]:  { link: 'http://free-bit.pp.ua/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:06 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 1081619,
+  fundsBTC: 0.01081619,
+  fundsUSD: '3.52',
+  fundsBRL: '13.36' }
+
+
+)))))))  FOUND:  http://www.caribit.co.in?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 266189 <<<
+
+407:::>>> BALANCE [ good: 144 (56%), bad: 110 (44%) ]:  { link: 'http://www.caribit.co.in?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:07 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 266189,
+  fundsBTC: 0.00266189,
+  fundsUSD: '0.87',
+  fundsBRL: '3.29' }
+
+
+)))))))  FOUND:  http://www.earnabitco.in?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 21834 <<<
+
+406:::>>> BALANCE [ good: 145 (56%), bad: 110 (44%) ]:  { link: 'http://www.earnabitco.in?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:07 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 21834,
+  fundsBTC: 0.00021834,
+  fundsUSD: '0.07',
+  fundsBRL: '0.27' }
+
+
+)))))))  FOUND:  http://www.free4faucet.com/faucet/bitcoin/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 4181334 <<<
+
+405:::>>> BALANCE [ good: 146 (57%), bad: 110 (43%) ]:  { link: 'http://www.free4faucet.com/faucet/bitcoin/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:07 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 4181334,
+  fundsBTC: 0.04181334,
+  fundsUSD: '13.59',
+  fundsBRL: '51.63' }
+
+
+)))))))  FOUND:  http://thanksbitcoin.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 4314610 <<<
+
+404:::>>> BALANCE [ good: 147 (57%), bad: 110 (43%) ]:  { link: 'http://thanksbitcoin.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:07 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 4314610,
+  fundsBTC: 0.0431461,
+  fundsUSD: '14.02',
+  fundsBRL: '53.28' }
+
+403:::>>> BALANCE [ good: 147 (56%), bad: 111 (44%) ]:  undefined
+
+
+)))))))  FOUND:  http://faucet.invest-btc.net/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 117788 <<<
+
+402:::>>> BALANCE [ good: 148 (57%), bad: 111 (43%) ]:  { link: 'http://faucet.invest-btc.net/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:07 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 117788,
+  fundsBTC: 0.00117788,
+  fundsUSD: '0.38',
+  fundsBRL: '1.45' }
+
+
+)))))))  FOUND:  http://btc.pasztisoft.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 251800 <<<
+
+401:::>>> BALANCE [ good: 149 (57%), bad: 111 (43%) ]:  { link: 'http://btc.pasztisoft.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:08 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 251800,
+  fundsBTC: 0.002518,
+  fundsUSD: '0.82',
+  fundsBRL: '3.11' }
+
+
+)))))))  FOUND:  http://ntr5.ru/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 126596 <<<
+
+400:::>>> BALANCE [ good: 150 (57%), bad: 111 (43%) ]:  { link: 'http://ntr5.ru/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:08 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 126596,
+  fundsBTC: 0.00126596,
+  fundsUSD: '0.41',
+  fundsBRL: '1.56' }
+
+399:::>>> BALANCE [ good: 150 (57%), bad: 112 (43%) ]:  undefined
+
+
+)))))))  FOUND:  http://bitcrypto.cf?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 46805 <<<
+
+398:::>>> BALANCE [ good: 151 (57%), bad: 112 (43%) ]:  { link: 'http://bitcrypto.cf?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:08 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 46805,
+  fundsBTC: 0.00046805,
+  fundsUSD: '0.15',
+  fundsBRL: '0.58' }
+
+397:::>>> BALANCE [ good: 151 (57%), bad: 113 (43%) ]:  undefined
+
+
+)))))))  FOUND:  http://alfa-btc.ru/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 104284 <<<
+
+396:::>>> BALANCE [ good: 152 (57%), bad: 113 (43%) ]:  { link: 'http://alfa-btc.ru/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:09 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 104284,
+  fundsBTC: 0.00104284,
+  fundsUSD: '0.34',
+  fundsBRL: '1.29' }
+
+
+)))))))  FOUND:  http://bit.coinbanned.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 410 <<<
+
+395:::>>> BALANCE [ good: 153 (57%), bad: 113 (43%) ]:  { link: 'http://bit.coinbanned.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:09 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 410,
+  fundsBTC: 0.0000041,
+  fundsUSD: '0.00',
+  fundsBRL: '0.01' }
+
+394:::>>> BALANCE [ good: 153 (57%), bad: 114 (43%) ]:  undefined
+
+
+)))))))  FOUND:  http://bitcoinmad.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 394131 <<<
+
+393:::>>> BALANCE [ good: 154 (57%), bad: 114 (43%) ]:  { link: 'http://bitcoinmad.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:09 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 394131,
+  fundsBTC: 0.00394131,
+  fundsUSD: '1.28',
+  fundsBRL: '4.87' }
+
+
+)))))))  FOUND:  http://www.freebitcoinusa.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 3177429 <<<
+
+392:::>>> BALANCE [ good: 155 (57%), bad: 114 (43%) ]:  { link: 'http://www.freebitcoinusa.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:09 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 3177429,
+  fundsBTC: 0.03177429,
+  fundsUSD: '10.33',
+  fundsBRL: '39.24' }
+
+391:::>>> BALANCE [ good: 155 (57%), bad: 115 (43%) ]:  undefined
+
+
+--->>> ERROR: NO BODY FOUND http://gamma-btc.ru/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17
+
+390:::>>> BALANCE [ good: 155 (57%), bad: 116 (43%) ]:  undefined
+
+
+)))))))  FOUND:  http://www.freesatoshibitcoin.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 940297 <<<
+
+389:::>>> BALANCE [ good: 156 (57%), bad: 116 (43%) ]:  { link: 'http://www.freesatoshibitcoin.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:09 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 940297,
+  fundsBTC: 0.00940297,
+  fundsUSD: '3.06',
+  fundsBRL: '11.61' }
+
+
+)))))))  FOUND:  http://www.BitFree.co?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 578300 <<<
+
+388:::>>> BALANCE [ good: 157 (57%), bad: 116 (43%) ]:  { link: 'http://www.BitFree.co?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:09 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 578300,
+  fundsBTC: 0.005783,
+  fundsUSD: '1.88',
+  fundsBRL: '7.14' }
+
+387:::>>> BALANCE [ good: 157 (57%), bad: 117 (43%) ]:  undefined
+
+386:::>>> BALANCE [ good: 157 (57%), bad: 118 (43%) ]:  undefined
+
+
+)))))))  FOUND:  http://faucetbox.winco.in/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 3071019 <<<
+
+385:::>>> BALANCE [ good: 158 (57%), bad: 118 (43%) ]:  { link: 'http://faucetbox.winco.in/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:09 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 3071019,
+  fundsBTC: 0.03071019,
+  fundsUSD: '9.98',
+  fundsBRL: '37.92' }
+
+
+)))))))  FOUND:  http://www.bitboxnewyork.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 1063062 <<<
+
+384:::>>> BALANCE [ good: 159 (57%), bad: 118 (43%) ]:  { link: 'http://www.bitboxnewyork.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:09 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 1063062,
+  fundsBTC: 0.01063062,
+  fundsUSD: '3.46',
+  fundsBRL: '13.13' }
+
+
+)))))))  FOUND:  http://www.blackbtcs.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 196 <<<
+
+383:::>>> BALANCE [ good: 160 (57%), bad: 118 (43%) ]:  { link: 'http://www.blackbtcs.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:10 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 196,
+  fundsBTC: 0.00000196,
+  fundsUSD: '0.00',
+  fundsBRL: '0.00' }
+
+382:::>>> BALANCE [ good: 160 (57%), bad: 119 (43%) ]:  undefined
+
+381:::>>> BALANCE [ good: 160 (57%), bad: 120 (43%) ]:  undefined
+
+380:::>>> BALANCE [ good: 160 (56%), bad: 121 (44%) ]:  undefined
+
+
+)))))))  FOUND:  http://BitCoin.NewServiceNetWork.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 1377636 <<<
+
+379:::>>> BALANCE [ good: 161 (57%), bad: 121 (43%) ]:  { link: 'http://BitCoin.NewServiceNetWork.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:10 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 1377636,
+  fundsBTC: 0.01377636,
+  fundsUSD: '4.48',
+  fundsBRL: '17.01' }
+
+
+)))))))  FOUND:  http://anfaucet.ru/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 530568 <<<
+
+378:::>>> BALANCE [ good: 162 (57%), bad: 121 (43%) ]:  { link: 'http://anfaucet.ru/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:10 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 530568,
+  fundsBTC: 0.00530568,
+  fundsUSD: '1.72',
+  fundsBRL: '6.55' }
+
+
+)))))))  FOUND:  http://revistaosanta.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 65145 <<<
+
+377:::>>> BALANCE [ good: 163 (57%), bad: 121 (43%) ]:  { link: 'http://revistaosanta.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:10 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 65145,
+  fundsBTC: 0.00065145,
+  fundsUSD: '0.21',
+  fundsBRL: '0.80' }
+
+
+)))))))  FOUND:  http://faucet.ynef.net/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 109 <<<
+
+376:::>>> BALANCE [ good: 164 (57%), bad: 121 (43%) ]:  { link: 'http://faucet.ynef.net/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:10 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 109,
+  fundsBTC: 0.00000109,
+  fundsUSD: '0.00',
+  fundsBRL: '0.00' }
+
+
+)))))))  FOUND:  http://www.shopstartco.in/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 712004 <<<
+
+375:::>>> BALANCE [ good: 165 (57%), bad: 121 (43%) ]:  { link: 'http://www.shopstartco.in/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:10 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 712004,
+  fundsBTC: 0.00712004,
+  fundsUSD: '2.31',
+  fundsBRL: '8.79' }
+
+
+)))))))  FOUND:  http://revistaosanta.com.br/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 64627 <<<
+
+374:::>>> BALANCE [ good: 166 (57%), bad: 121 (43%) ]:  { link: 'http://revistaosanta.com.br/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:10 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 64627,
+  fundsBTC: 0.00064627,
+  fundsUSD: '0.21',
+  fundsBRL: '0.80' }
+
+
+)))))))  FOUND:  http://superdeal-faucet.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 2627164 <<<
+
+373:::>>> BALANCE [ good: 167 (57%), bad: 121 (43%) ]:  { link: 'http://superdeal-faucet.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:10 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 2627164,
+  fundsBTC: 0.02627164,
+  fundsUSD: '8.54',
+  fundsBRL: '32.44' }
+
+
+)))))))  FOUND:  http://www.videoripper.de/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> balance: 52 <<<
+
+372:::>>> BALANCE [ good: 168 (58%), bad: 121 (42%) ]:  { link: 'http://www.videoripper.de/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:11 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 52,
+  fundsBTC: 5.2e-7,
+  fundsUSD: '0.00',
+  fundsBRL: '0.00' }
+
+
+)))))))  FOUND:  http://blueravencoins.website/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 120815 <<<
+
+371:::>>> BALANCE [ good: 169 (58%), bad: 121 (42%) ]:  { link: 'http://blueravencoins.website/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:11 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 120815,
+  fundsBTC: 0.00120815,
+  fundsUSD: '0.39',
+  fundsBRL: '1.49' }
+
+
+)))))))  FOUND:  http://cointasker.com/bitcoin-faucet/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 131314 <<<
+
+370:::>>> BALANCE [ good: 170 (58%), bad: 121 (42%) ]:  { link: 'http://cointasker.com/bitcoin-faucet/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:11 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 131314,
+  fundsBTC: 0.00131314,
+  fundsUSD: '0.43',
+  fundsBRL: '1.62' }
+
+
+)))))))  FOUND:  http://bitboxlosangeles.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 1554937 <<<
+
+369:::>>> BALANCE [ good: 171 (58%), bad: 121 (42%) ]:  { link: 'http://bitboxlosangeles.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:11 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 1554937,
+  fundsBTC: 0.01554937,
+  fundsUSD: '5.05',
+  fundsBRL: '19.20' }
+
+368:::>>> BALANCE [ good: 171 (58%), bad: 122 (42%) ]:  undefined
+
+367:::>>> BALANCE [ good: 171 (58%), bad: 123 (42%) ]:  undefined
+
+
+)))))))  FOUND:  http://btc.clique.website?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 30867 <<<
+
+366:::>>> BALANCE [ good: 172 (58%), bad: 123 (42%) ]:  { link: 'http://btc.clique.website?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:11 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 30867,
+  fundsBTC: 0.00030867,
+  fundsUSD: '0.10',
+  fundsBRL: '0.38' }
+
+
+)))))))  FOUND:  http://bitoshka.ru/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 530568 <<<
+
+365:::>>> BALANCE [ good: 173 (58%), bad: 123 (42%) ]:  { link: 'http://bitoshka.ru/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:11 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 530568,
+  fundsBTC: 0.00530568,
+  fundsUSD: '1.72',
+  fundsBRL: '6.55' }
+
+
+)))))))  FOUND:  http://888bitco.in/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 669331 <<<
+
+364:::>>> BALANCE [ good: 174 (58%), bad: 123 (42%) ]:  { link: 'http://888bitco.in/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:11 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 669331,
+  fundsBTC: 0.00669331,
+  fundsUSD: '2.18',
+  fundsBRL: '8.27' }
+
+
+)))))))  FOUND:  http://faucet.digitalcoins.ru/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 7988 <<<
+
+363:::>>> BALANCE [ good: 175 (58%), bad: 123 (42%) ]:  { link: 'http://faucet.digitalcoins.ru/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:11 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 7988,
+  fundsBTC: 0.00007988,
+  fundsUSD: '0.03',
+  fundsBRL: '0.10' }
+
+362:::>>> BALANCE [ good: 175 (58%), bad: 124 (42%) ]:  undefined
+
+
+--->>> ERROR: NO BODY FOUND http://infinitebtc.tk?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17
+
+361:::>>> BALANCE [ good: 175 (58%), bad: 125 (42%) ]:  undefined
+
+
+)))))))  FOUND:  http://www.tomatusatoshi.xyz?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 1312709 <<<
+
+360:::>>> BALANCE [ good: 176 (58%), bad: 125 (42%) ]:  { link: 'http://www.tomatusatoshi.xyz?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:12 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 1312709,
+  fundsBTC: 0.01312709,
+  fundsUSD: '4.27',
+  fundsBRL: '16.21' }
+
+
+)))))))  FOUND:  http://www.chilliscorpion.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 58 <<<
+
+359:::>>> BALANCE [ good: 177 (58%), bad: 125 (42%) ]:  { link: 'http://www.chilliscorpion.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:12 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 58,
+  fundsBTC: 5.8e-7,
+  fundsUSD: '0.00',
+  fundsBRL: '0.00' }
+
+358:::>>> BALANCE [ good: 177 (58%), bad: 126 (42%) ]:  undefined
+
+
+)))))))  FOUND:  http://bitsy.co.in?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 135568 <<<
+
+357:::>>> BALANCE [ good: 178 (58%), bad: 126 (42%) ]:  { link: 'http://bitsy.co.in?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:12 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 135568,
+  fundsBTC: 0.00135568,
+  fundsUSD: '0.44',
+  fundsBRL: '1.67' }
+
+356:::>>> BALANCE [ good: 178 (58%), bad: 127 (42%) ]:  undefined
+
+355:::>>> BALANCE [ good: 178 (58%), bad: 128 (42%) ]:  undefined
+
+
+)))))))  FOUND:  http://btcfaucet1.hol.es/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 29145 <<<
+
+354:::>>> BALANCE [ good: 179 (58%), bad: 128 (42%) ]:  { link: 'http://btcfaucet1.hol.es/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:12 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 29145,
+  fundsBTC: 0.00029145,
+  fundsUSD: '0.09',
+  fundsBRL: '0.36' }
+
+
+)))))))  FOUND:  http://bitcon.ml/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 32707 <<<
+
+353:::>>> BALANCE [ good: 180 (58%), bad: 128 (42%) ]:  { link: 'http://bitcon.ml/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:12 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 32707,
+  fundsBTC: 0.00032707,
+  fundsUSD: '0.11',
+  fundsBRL: '0.40' }
+
+352:::>>> BALANCE [ good: 180 (58%), bad: 129 (42%) ]:  undefined
+
+351:::>>> BALANCE [ good: 180 (58%), bad: 130 (42%) ]:  undefined
+
+
+)))))))  FOUND:  http://faucetdog.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 3 <<<
+
+350:::>>> BALANCE [ good: 181 (58%), bad: 130 (42%) ]:  { link: 'http://faucetdog.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:12 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 3,
+  fundsBTC: 3e-8,
+  fundsUSD: '0.00',
+  fundsBRL: '0.00' }
+
+349:::>>> BALANCE [ good: 181 (58%), bad: 131 (42%) ]:  undefined
+
+348:::>>> BALANCE [ good: 181 (57%), bad: 132 (43%) ]:  undefined
+
+
+)))))))  FOUND:  http://de-btc.tk?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 89218 <<<
+
+347:::>>> BALANCE [ good: 182 (57%), bad: 132 (43%) ]:  { link: 'http://de-btc.tk?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:12 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 89218,
+  fundsBTC: 0.00089218,
+  fundsUSD: '0.29',
+  fundsBRL: '1.10' }
+
+
+)))))))  FOUND:  http://www.empiria.fi?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> balance: <a href="https://dogechain.info/address/DHAitaBqi825 <<<
+
+346:::>>> BALANCE [ good: 183 (58%), bad: 132 (42%) ]:  { link: 'http://www.empiria.fi?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:13 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 825,
+  fundsBTC: 0.00000825,
+  fundsUSD: '0.00',
+  fundsBRL: '0.01' }
+
+
+)))))))  FOUND:  http://faucetbiz.ru/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance:   Each day we give 3000000 <<<
+
+345:::>>> BALANCE [ good: 184 (58%), bad: 132 (42%) ]:  { link: 'http://faucetbiz.ru/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:13 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 3000000,
+  fundsBTC: 0.03,
+  fundsUSD: '9.75',
+  fundsBRL: '37.05' }
+
+344:::>>> BALANCE [ good: 184 (58%), bad: 133 (42%) ]:  undefined
+
+
+)))))))  FOUND:  http://freebitclick.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 604694 <<<
+
+343:::>>> BALANCE [ good: 185 (58%), bad: 133 (42%) ]:  { link: 'http://freebitclick.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:13 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 604694,
+  fundsBTC: 0.00604694,
+  fundsUSD: '1.97',
+  fundsBRL: '7.47' }
+
+
+)))))))  FOUND:  http://faucet.csingenieros.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> balance: N/A</h4 <<<
+
+342:::>>> BALANCE [ good: 186 (58%), bad: 133 (42%) ]:  { link: 'http://faucet.csingenieros.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:13 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 4,
+  fundsBTC: 4e-8,
+  fundsUSD: '0.00',
+  fundsBRL: '0.00' }
+
+
+)))))))  FOUND:  http://www.chesimangia.it/microfaucet/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 1019285 <<<
+
+341:::>>> BALANCE [ good: 187 (58%), bad: 133 (42%) ]:  { link: 'http://www.chesimangia.it/microfaucet/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:13 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 1019285,
+  fundsBTC: 0.01019285,
+  fundsUSD: '3.31',
+  fundsBRL: '12.59' }
+
+
+)))))))  FOUND:  http://www.cmmonitor.com/btc/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 870919 <<<
+
+340:::>>> BALANCE [ good: 188 (58%), bad: 133 (42%) ]:  { link: 'http://www.cmmonitor.com/btc/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:13 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 870919,
+  fundsBTC: 0.00870919,
+  fundsUSD: '2.83',
+  fundsBRL: '10.75' }
+
+
+)))))))  FOUND:  http://bitus.xyz?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 10256 <<<
+
+339:::>>> BALANCE [ good: 189 (58%), bad: 133 (42%) ]:  { link: 'http://bitus.xyz?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:13 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 10256,
+  fundsBTC: 0.00010256,
+  fundsUSD: '0.03',
+  fundsBRL: '0.13' }
+
+338:::>>> BALANCE [ good: 189 (58%), bad: 134 (42%) ]:  undefined
+
+337:::>>> BALANCE [ good: 189 (58%), bad: 135 (42%) ]:  undefined
+
+336:::>>> BALANCE [ good: 189 (58%), bad: 136 (42%) ]:  undefined
+
+335:::>>> BALANCE [ good: 189 (57%), bad: 137 (43%) ]:  undefined
+
+
+)))))))  FOUND:  http://www.warhammer-coin.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 208527 <<<
+
+334:::>>> BALANCE [ good: 190 (58%), bad: 137 (42%) ]:  { link: 'http://www.warhammer-coin.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:13 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 208527,
+  fundsBTC: 0.00208527,
+  fundsUSD: '0.68',
+  fundsBRL: '2.58' }
+
+
+)))))))  FOUND:  http://vipbitcoin.ru?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 126611 <<<
+
+333:::>>> BALANCE [ good: 191 (58%), bad: 137 (42%) ]:  { link: 'http://vipbitcoin.ru?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:13 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 126611,
+  fundsBTC: 0.00126611,
+  fundsUSD: '0.41',
+  fundsBRL: '1.56' }
+
+332:::>>> BALANCE [ good: 191 (58%), bad: 138 (42%) ]:  undefined
+
+
+)))))))  FOUND:  http://bitonchik.ru/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 530568 <<<
+
+331:::>>> BALANCE [ good: 192 (58%), bad: 138 (42%) ]:  { link: 'http://bitonchik.ru/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:13 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 530568,
+  fundsBTC: 0.00530568,
+  fundsUSD: '1.72',
+  fundsBRL: '6.55' }
+
+330:::>>> BALANCE [ good: 192 (58%), bad: 139 (42%) ]:  undefined
+
+329:::>>> BALANCE [ good: 192 (57%), bad: 140 (43%) ]:  undefined
+
+
+)))))))  FOUND:  http://bitmaza.net?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 98 <<<
+
+328:::>>> BALANCE [ good: 193 (57%), bad: 140 (43%) ]:  { link: 'http://bitmaza.net?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:13 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 98,
+  fundsBTC: 9.8e-7,
+  fundsUSD: '0.00',
+  fundsBRL: '0.00' }
+
+327:::>>> BALANCE [ good: 193 (57%), bad: 141 (43%) ]:  undefined
+
+
+)))))))  FOUND:  http://faucetflash.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 196 <<<
+
+326:::>>> BALANCE [ good: 194 (57%), bad: 141 (43%) ]:  { link: 'http://faucetflash.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:13 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 196,
+  fundsBTC: 0.00000196,
+  fundsUSD: '0.00',
+  fundsBRL: '0.00' }
+
+325:::>>> BALANCE [ good: 194 (57%), bad: 142 (43%) ]:  undefined
+
+
+)))))))  FOUND:  http://333bitcoin.esy.es?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 28814 <<<
+
+324:::>>> BALANCE [ good: 195 (57%), bad: 142 (43%) ]:  { link: 'http://333bitcoin.esy.es?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:13 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 28814,
+  fundsBTC: 0.00028814,
+  fundsUSD: '0.09',
+  fundsBRL: '0.36' }
+
+323:::>>> BALANCE [ good: 195 (57%), bad: 143 (43%) ]:  undefined
+
+
+)))))))  FOUND:  http://www.juraganfaucet.info/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 371 <<<
+
+322:::>>> BALANCE [ good: 196 (57%), bad: 143 (43%) ]:  { link: 'http://www.juraganfaucet.info/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:13 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 371,
+  fundsBTC: 0.00000371,
+  fundsUSD: '0.00',
+  fundsBRL: '0.00' }
+
+
+)))))))  FOUND:  http://lakefaucet.eu?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 917134 <<<
+
+321:::>>> BALANCE [ good: 197 (57%), bad: 143 (43%) ]:  { link: 'http://lakefaucet.eu?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:13 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 917134,
+  fundsBTC: 0.00917134,
+  fundsUSD: '2.98',
+  fundsBRL: '11.33' }
+
+320:::>>> BALANCE [ good: 197 (57%), bad: 144 (43%) ]:  undefined
+
+
+)))))))  FOUND:  http://tortugafirefaucet.info?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 64830 <<<
+
+319:::>>> BALANCE [ good: 198 (57%), bad: 144 (43%) ]:  { link: 'http://tortugafirefaucet.info?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:13 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 64830,
+  fundsBTC: 0.0006483,
+  fundsUSD: '0.21',
+  fundsBRL: '0.80' }
+
+
+)))))))  FOUND:  http://www.cmmonitor.com/btc-free/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 2958837 <<<
+
+318:::>>> BALANCE [ good: 199 (58%), bad: 144 (42%) ]:  { link: 'http://www.cmmonitor.com/btc-free/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:14 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 2958837,
+  fundsBTC: 0.02958837,
+  fundsUSD: '9.62',
+  fundsBRL: '36.54' }
+
+
+)))))))  FOUND:  http://www.integralcoin.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 1851413 <<<
+
+317:::>>> BALANCE [ good: 200 (58%), bad: 144 (42%) ]:  { link: 'http://www.integralcoin.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:14 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 1851413,
+  fundsBTC: 0.01851413,
+  fundsUSD: '6.02',
+  fundsBRL: '22.86' }
+
+
+)))))))  FOUND:  http://bitcoinplaats.be?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 0 <<<
+
+316:::>>> BALANCE [ good: 200 (58%), bad: 144 (42%) ]:  { link: 'http://bitcoinplaats.be?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:14 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 0,
+  fundsBTC: 0,
+  fundsUSD: '0.00',
+  fundsBRL: '0.00' }
+
+315:::>>> BALANCE [ good: 200 (57%), bad: 145 (43%) ]:  undefined
+
+314:::>>> BALANCE [ good: 200 (57%), bad: 146 (43%) ]:  undefined
+
+
+)))))))  FOUND:  http://btcsoft.ru?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 5 <<<
+
+313:::>>> BALANCE [ good: 201 (57%), bad: 146 (43%) ]:  { link: 'http://btcsoft.ru?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:14 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 5,
+  fundsBTC: 5e-8,
+  fundsUSD: '0.00',
+  fundsBRL: '0.00' }
+
+312:::>>> BALANCE [ good: 201 (57%), bad: 147 (43%) ]:  undefined
+
+
+)))))))  FOUND:  http://www.faucetiva.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 1527 <<<
+
+311:::>>> BALANCE [ good: 202 (57%), bad: 147 (43%) ]:  { link: 'http://www.faucetiva.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:14 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 1527,
+  fundsBTC: 0.00001527,
+  fundsUSD: '0.00',
+  fundsBRL: '0.02' }
+
+
+)))))))  FOUND:  http://www.yoursato.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 4828932 <<<
+
+310:::>>> BALANCE [ good: 203 (58%), bad: 147 (42%) ]:  { link: 'http://www.yoursato.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:14 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 4828932,
+  fundsBTC: 0.04828932,
+  fundsUSD: '15.70',
+  fundsBRL: '59.63' }
+
+
+)))))))  FOUND:  http://btc.altcoinrain.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 626094 <<<
+
+309:::>>> BALANCE [ good: 204 (58%), bad: 147 (42%) ]:  { link: 'http://btc.altcoinrain.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:14 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 626094,
+  fundsBTC: 0.00626094,
+  fundsUSD: '2.04',
+  fundsBRL: '7.73' }
+
+
+)))))))  FOUND:  http://www.easybitcoin.pw/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 65 <<<
+
+308:::>>> BALANCE [ good: 205 (58%), bad: 147 (42%) ]:  { link: 'http://www.easybitcoin.pw/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:14 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 65,
+  fundsBTC: 6.5e-7,
+  fundsUSD: '0.00',
+  fundsBRL: '0.00' }
+
+
+)))))))  FOUND:  http://artfaucet.ru/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance:   Each day we give 3000000 <<<
+
+307:::>>> BALANCE [ good: 206 (58%), bad: 147 (42%) ]:  { link: 'http://artfaucet.ru/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:14 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 3000000,
+  fundsBTC: 0.03,
+  fundsUSD: '9.75',
+  fundsBRL: '37.05' }
+
+306:::>>> BALANCE [ good: 206 (58%), bad: 148 (42%) ]:  undefined
+
+305:::>>> BALANCE [ good: 206 (58%), bad: 149 (42%) ]:  undefined
+
+
+)))))))  FOUND:  http://faucetbitcoin.eu/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 3 <<<
+
+304:::>>> BALANCE [ good: 207 (58%), bad: 149 (42%) ]:  { link: 'http://faucetbitcoin.eu/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:14 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 3,
+  fundsBTC: 3e-8,
+  fundsUSD: '0.00',
+  fundsBRL: '0.00' }
+
+303:::>>> BALANCE [ good: 207 (57%), bad: 150 (43%) ]:  undefined
+
+
+--->>> ERROR: NO BODY FOUND http://millio.io?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17
+
+302:::>>> BALANCE [ good: 207 (57%), bad: 151 (43%) ]:  undefined
+
+
+)))))))  FOUND:  https://bit-free.xyz?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 1311486 <<<
+
+301:::>>> BALANCE [ good: 208 (57%), bad: 151 (43%) ]:  { link: 'https://bit-free.xyz?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:15 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 1311486,
+  fundsBTC: 0.01311486,
+  fundsUSD: '4.26',
+  fundsBRL: '16.19' }
+
+
+)))))))  FOUND:  http://faucetcomic.info?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> funds to an email address, and similarly with Bitcoin you send funds to a Bitcoin address. For example, this is one of our Bitcoin addresses:  1 <<<
+
+300:::>>> BALANCE [ good: 209 (58%), bad: 151 (42%) ]:  { link: 'http://faucetcomic.info?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:15 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 1,
+  fundsBTC: 1e-8,
+  fundsUSD: '0.00',
+  fundsBRL: '0.00' }
+
+299:::>>> BALANCE [ good: 209 (57%), bad: 152 (43%) ]:  undefined
+
+298:::>>> BALANCE [ good: 209 (57%), bad: 153 (43%) ]:  undefined
+
+297:::>>> BALANCE [ good: 209 (57%), bad: 154 (43%) ]:  undefined
+
+
+)))))))  FOUND:  http://mybitfaucet.ru/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance:   Each day we give 3000000 <<<
+
+296:::>>> BALANCE [ good: 210 (57%), bad: 154 (43%) ]:  { link: 'http://mybitfaucet.ru/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:15 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 3000000,
+  fundsBTC: 0.03,
+  fundsUSD: '9.75',
+  fundsBRL: '37.05' }
+
+295:::>>> BALANCE [ good: 210 (57%), bad: 155 (43%) ]:  undefined
+
+294:::>>> BALANCE [ good: 210 (57%), bad: 156 (43%) ]:  undefined
+
+
+)))))))  FOUND:  http://alienmoneybtc.net/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 197 <<<
+
+293:::>>> BALANCE [ good: 211 (57%), bad: 156 (43%) ]:  { link: 'http://alienmoneybtc.net/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:15 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 197,
+  fundsBTC: 0.00000197,
+  fundsUSD: '0.00',
+  fundsBRL: '0.00' }
+
+292:::>>> BALANCE [ good: 211 (57%), bad: 157 (43%) ]:  undefined
+
+291:::>>> BALANCE [ good: 211 (57%), bad: 158 (43%) ]:  undefined
+
+290:::>>> BALANCE [ good: 211 (57%), bad: 159 (43%) ]:  undefined
+
+289:::>>> BALANCE [ good: 211 (56%), bad: 160 (44%) ]:  undefined
+
+
+)))))))  FOUND:  http://satoshigratis.info?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 11 <<<
+
+288:::>>> BALANCE [ good: 212 (56%), bad: 160 (44%) ]:  { link: 'http://satoshigratis.info?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:16 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 11,
+  fundsBTC: 1.1e-7,
+  fundsUSD: '0.00',
+  fundsBRL: '0.00' }
+
+287:::>>> BALANCE [ good: 212 (56%), bad: 161 (44%) ]:  undefined
+
+286:::>>> BALANCE [ good: 212 (56%), bad: 162 (44%) ]:  undefined
+
+285:::>>> BALANCE [ good: 212 (56%), bad: 163 (44%) ]:  undefined
+
+284:::>>> BALANCE [ good: 212 (56%), bad: 164 (44%) ]:  undefined
+
+283:::>>> BALANCE [ good: 212 (56%), bad: 165 (44%) ]:  undefined
+
+
+)))))))  FOUND:  http://refer4bitcoin.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 48 <<<
+
+282:::>>> BALANCE [ good: 213 (56%), bad: 165 (44%) ]:  { link: 'http://refer4bitcoin.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:16 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 48,
+  fundsBTC: 4.8e-7,
+  fundsUSD: '0.00',
+  fundsBRL: '0.00' }
+
+281:::>>> BALANCE [ good: 213 (56%), bad: 166 (44%) ]:  undefined
+
+
+)))))))  FOUND:  http://my-bit.co.in?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 988000245 <<<
+
+280:::>>> BALANCE [ good: 214 (56%), bad: 166 (44%) ]:  { link: 'http://my-bit.co.in?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:16 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 988000245,
+  fundsBTC: 9.88000245,
+  fundsUSD: '3211.47',
+  fundsBRL: '12200.36' }
+
+279:::>>> BALANCE [ good: 214 (56%), bad: 167 (44%) ]:  undefined
+
+
+)))))))  FOUND:  https://perfect-bitcoins.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 2 <<<
+
+278:::>>> BALANCE [ good: 215 (56%), bad: 167 (44%) ]:  { link: 'https://perfect-bitcoins.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:17 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 2,
+  fundsBTC: 2e-8,
+  fundsUSD: '0.00',
+  fundsBRL: '0.00' }
+
+
+)))))))  FOUND:  http://www.faubtcshis.net?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 352 <<<
+
+277:::>>> BALANCE [ good: 216 (56%), bad: 167 (44%) ]:  { link: 'http://www.faubtcshis.net?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:17 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 352,
+  fundsBTC: 0.00000352,
+  fundsUSD: '0.00',
+  fundsBRL: '0.00' }
+
+
+)))))))  FOUND:  http://free-bitcoin.eu?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 15947077 <<<
+
+276:::>>> BALANCE [ good: 217 (56%), bad: 167 (44%) ]:  { link: 'http://free-bitcoin.eu?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:17 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 15947077,
+  fundsBTC: 0.15947077,
+  fundsUSD: '51.84',
+  fundsBRL: '196.92' }
+
+275:::>>> BALANCE [ good: 217 (56%), bad: 168 (44%) ]:  undefined
+
+274:::>>> BALANCE [ good: 217 (56%), bad: 169 (44%) ]:  undefined
+
+273:::>>> BALANCE [ good: 217 (56%), bad: 170 (44%) ]:  undefined
+
+
+)))))))  FOUND:  http://megabtclotery.esy.es/btc/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 1098 <<<
+
+272:::>>> BALANCE [ good: 218 (56%), bad: 170 (44%) ]:  { link: 'http://megabtclotery.esy.es/btc/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:17 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 1098,
+  fundsBTC: 0.00001098,
+  fundsUSD: '0.00',
+  fundsBRL: '0.01' }
+
+
+)))))))  FOUND:  http://www.satoshigranja.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 581410 <<<
+
+271:::>>> BALANCE [ good: 219 (56%), bad: 170 (44%) ]:  { link: 'http://www.satoshigranja.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:17 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 581410,
+  fundsBTC: 0.0058141,
+  fundsUSD: '1.89',
+  fundsBRL: '7.18' }
+
+
+)))))))  FOUND:  http://bitmineads.ru?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance:   Each day we give 3000000 <<<
+
+270:::>>> BALANCE [ good: 220 (56%), bad: 170 (44%) ]:  { link: 'http://bitmineads.ru?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:18 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 3000000,
+  fundsBTC: 0.03,
+  fundsUSD: '9.75',
+  fundsBRL: '37.05' }
+
+
+)))))))  FOUND:  http://bitcoinlist.xyz/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 48197 <<<
+
+269:::>>> BALANCE [ good: 221 (56%), bad: 170 (44%) ]:  { link: 'http://bitcoinlist.xyz/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:18 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 48197,
+  fundsBTC: 0.00048197,
+  fundsUSD: '0.16',
+  fundsBRL: '0.60' }
+
+268:::>>> BALANCE [ good: 221 (56%), bad: 171 (44%) ]:  undefined
+
+
+)))))))  FOUND:  http://btcoasis.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 40570186 <<<
+
+267:::>>> BALANCE [ good: 222 (56%), bad: 171 (44%) ]:  { link: 'http://btcoasis.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:18 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 40570186,
+  fundsBTC: 0.40570186,
+  fundsUSD: '131.87',
+  fundsBRL: '500.98' }
+
+
+)))))))  FOUND:  http://www.bitkran.tk/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 117436 <<<
+
+266:::>>> BALANCE [ good: 223 (56%), bad: 171 (44%) ]:  { link: 'http://www.bitkran.tk/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:18 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 117436,
+  fundsBTC: 0.00117436,
+  fundsUSD: '0.38',
+  fundsBRL: '1.45' }
+
+
+)))))))  FOUND:  http://pokemonfaucet.esy.es/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 87637 <<<
+
+265:::>>> BALANCE [ good: 224 (56%), bad: 171 (44%) ]:  { link: 'http://pokemonfaucet.esy.es/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:18 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 87637,
+  fundsBTC: 0.00087637,
+  fundsUSD: '0.28',
+  fundsBRL: '1.08' }
+
+
+--->>> ERROR: NO BODY FOUND https://ganarbitcoin.info?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17
+
+264:::>>> BALANCE [ good: 224 (56%), bad: 172 (44%) ]:  undefined
+
+
+)))))))  FOUND:  http://superfaucet.ru/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance:   Each day we give 3000000 <<<
+
+263:::>>> BALANCE [ good: 225 (56%), bad: 172 (44%) ]:  { link: 'http://superfaucet.ru/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:18 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 3000000,
+  fundsBTC: 0.03,
+  fundsUSD: '9.75',
+  fundsBRL: '37.05' }
+
+
+--->>> ERROR: NO BODY FOUND https://faucetargenta.info?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17
+
+262:::>>> BALANCE [ good: 225 (56%), bad: 173 (44%) ]:  undefined
+
+
+)))))))  FOUND:  http://best-coin.info?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 37799513 <<<
+
+261:::>>> BALANCE [ good: 226 (56%), bad: 173 (44%) ]:  { link: 'http://best-coin.info?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:18 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 37799513,
+  fundsBTC: 0.37799513,
+  fundsUSD: '122.87',
+  fundsBRL: '466.77' }
+
+
+)))))))  FOUND:  http://megafaucet.ru/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance:   Each day we give 3000000 <<<
+
+260:::>>> BALANCE [ good: 227 (56%), bad: 173 (44%) ]:  { link: 'http://megafaucet.ru/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:18 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 3000000,
+  fundsBTC: 0.03,
+  fundsUSD: '9.75',
+  fundsBRL: '37.05' }
+
+
+)))))))  FOUND:  http://btc.in.ua/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 166187 <<<
+
+259:::>>> BALANCE [ good: 228 (56%), bad: 173 (44%) ]:  { link: 'http://btc.in.ua/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:19 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 166187,
+  fundsBTC: 0.00166187,
+  fundsUSD: '0.54',
+  fundsBRL: '2.05' }
+
+
+)))))))  FOUND:  http://bitkranik.ru/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance:   Each day we give 3000000 <<<
+
+258:::>>> BALANCE [ good: 229 (56%), bad: 173 (44%) ]:  { link: 'http://bitkranik.ru/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:19 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 3000000,
+  fundsBTC: 0.03,
+  fundsUSD: '9.75',
+  fundsBRL: '37.05' }
+
+
+)))))))  FOUND:  http://chickenfaucet.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 3986660 <<<
+
+257:::>>> BALANCE [ good: 230 (57%), bad: 173 (43%) ]:  { link: 'http://chickenfaucet.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:19 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 3986660,
+  fundsBTC: 0.0398666,
+  fundsUSD: '12.96',
+  fundsBRL: '49.23' }
+
+
+)))))))  FOUND:  http://satoshik.ru/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance:   Each day we give 3000000 <<<
+
+256:::>>> BALANCE [ good: 231 (57%), bad: 173 (43%) ]:  { link: 'http://satoshik.ru/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:19 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 3000000,
+  fundsBTC: 0.03,
+  fundsUSD: '9.75',
+  fundsBRL: '37.05' }
+
+
+)))))))  FOUND:  http://coinfaucet.ru/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance:   Each day we give 3000000 <<<
+
+255:::>>> BALANCE [ good: 232 (57%), bad: 173 (43%) ]:  { link: 'http://coinfaucet.ru/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:19 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 3000000,
+  fundsBTC: 0.03,
+  fundsUSD: '9.75',
+  fundsBRL: '37.05' }
+
+254:::>>> BALANCE [ good: 232 (57%), bad: 174 (43%) ]:  undefined
+
+
+)))))))  FOUND:  http://www.emulecoin.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 1851413 <<<
+
+253:::>>> BALANCE [ good: 233 (57%), bad: 174 (43%) ]:  { link: 'http://www.emulecoin.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:19 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 1851413,
+  fundsBTC: 0.01851413,
+  fundsUSD: '6.02',
+  fundsBRL: '22.86' }
+
+252:::>>> BALANCE [ good: 233 (57%), bad: 175 (43%) ]:  undefined
+
+251:::>>> BALANCE [ good: 233 (56%), bad: 176 (44%) ]:  undefined
+
+
+--->>> ERROR: NO BODY FOUND http://mybitco.in.net/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17
+
+250:::>>> BALANCE [ good: 233 (56%), bad: 177 (44%) ]:  undefined
+
+249:::>>> BALANCE [ good: 233 (56%), bad: 178 (44%) ]:  undefined
+
+
+)))))))  FOUND:  http://hybryda2005.pl/faucet2/btc/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 139771 <<<
+
+248:::>>> BALANCE [ good: 234 (56%), bad: 178 (44%) ]:  { link: 'http://hybryda2005.pl/faucet2/btc/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:20 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 139771,
+  fundsBTC: 0.00139771,
+  fundsUSD: '0.45',
+  fundsBRL: '1.73' }
+
+
+)))))))  FOUND:  http://styleswimsuit.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 2771282 <<<
+
+247:::>>> BALANCE [ good: 235 (56%), bad: 178 (44%) ]:  { link: 'http://styleswimsuit.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:20 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 2771282,
+  fundsBTC: 0.02771282,
+  fundsUSD: '9.01',
+  fundsBRL: '34.22' }
+
+
+)))))))  FOUND:  https://surfast.ru?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance:</font></blink> <blink><font color="gold">821 <<<
+
+246:::>>> BALANCE [ good: 236 (57%), bad: 178 (43%) ]:  { link: 'https://surfast.ru?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:20 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 821,
+  fundsBTC: 0.00000821,
+  fundsUSD: '0.00',
+  fundsBRL: '0.01' }
+
+245:::>>> BALANCE [ good: 236 (56%), bad: 179 (44%) ]:  undefined
+
+244:::>>> BALANCE [ good: 236 (56%), bad: 180 (44%) ]:  undefined
+
+
+)))))))  FOUND:  http://btcandfinance.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 22580929 <<<
+
+243:::>>> BALANCE [ good: 237 (56%), bad: 180 (44%) ]:  { link: 'http://btcandfinance.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:20 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 22580929,
+  fundsBTC: 0.22580929,
+  fundsUSD: '73.40',
+  fundsBRL: '278.84' }
+
+
+)))))))  FOUND:  http://bitreklama.ru?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance:   Each day we give 3000000 <<<
+
+242:::>>> BALANCE [ good: 238 (56%), bad: 180 (44%) ]:  { link: 'http://bitreklama.ru?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:20 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 3000000,
+  fundsBTC: 0.03,
+  fundsUSD: '9.75',
+  fundsBRL: '37.05' }
+
+241:::>>> BALANCE [ good: 238 (56%), bad: 181 (44%) ]:  undefined
+
+
+)))))))  FOUND:  http://satoshisfree.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 728705 <<<
+
+240:::>>> BALANCE [ good: 239 (56%), bad: 181 (44%) ]:  { link: 'http://satoshisfree.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:20 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 728705,
+  fundsBTC: 0.00728705,
+  fundsUSD: '2.37',
+  fundsBRL: '9.00' }
+
+239:::>>> BALANCE [ good: 239 (56%), bad: 182 (44%) ]:  undefined
+
+238:::>>> BALANCE [ good: 239 (56%), bad: 183 (44%) ]:  undefined
+
+237:::>>> BALANCE [ good: 239 (56%), bad: 184 (44%) ]:  undefined
+
+
+)))))))  FOUND:  http://www.faucetbitcoins.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 19248480 <<<
+
+236:::>>> BALANCE [ good: 240 (56%), bad: 184 (44%) ]:  { link: 'http://www.faucetbitcoins.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:20 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 19248480,
+  fundsBTC: 0.1924848,
+  fundsUSD: '62.57',
+  fundsBRL: '237.69' }
+
+235:::>>> BALANCE [ good: 240 (56%), bad: 185 (44%) ]:  undefined
+
+
+)))))))  FOUND:  http://www.prizebitcoins.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 19248000 <<<
+
+234:::>>> BALANCE [ good: 241 (56%), bad: 185 (44%) ]:  { link: 'http://www.prizebitcoins.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:20 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 19248000,
+  fundsBTC: 0.19248,
+  fundsUSD: '62.57',
+  fundsBRL: '237.68' }
+
+
+)))))))  FOUND:  http://www.zillz.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> balance:</span><br/><br />212 <<<
+
+233:::>>> BALANCE [ good: 242 (56%), bad: 185 (44%) ]:  { link: 'http://www.zillz.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:20 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 212,
+  fundsBTC: 0.00000212,
+  fundsUSD: '0.00',
+  fundsBRL: '0.00' }
+
+
+)))))))  FOUND:  http://obmen4ik.ru/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance:   Each day we give 3000000 <<<
+
+232:::>>> BALANCE [ good: 243 (56%), bad: 185 (44%) ]:  { link: 'http://obmen4ik.ru/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:20 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 3000000,
+  fundsBTC: 0.03,
+  fundsUSD: '9.75',
+  fundsBRL: '37.05' }
+
+
+)))))))  FOUND:  http://www.faucetfreebitcoin.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 801 <<<
+
+231:::>>> BALANCE [ good: 244 (56%), bad: 185 (44%) ]:  { link: 'http://www.faucetfreebitcoin.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:20 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 801,
+  fundsBTC: 0.00000801,
+  fundsUSD: '0.00',
+  fundsBRL: '0.01' }
+
+
+)))))))  FOUND:  http://faucetfreesatoshis.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 748208 <<<
+
+230:::>>> BALANCE [ good: 245 (56%), bad: 185 (44%) ]:  { link: 'http://faucetfreesatoshis.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:21 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 748208,
+  fundsBTC: 0.00748208,
+  fundsUSD: '2.43',
+  fundsBRL: '9.24' }
+
+229:::>>> BALANCE [ good: 245 (56%), bad: 186 (44%) ]:  undefined
+
+
+)))))))  FOUND:  http://itsrainingbitcoins.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 19256040 <<<
+
+228:::>>> BALANCE [ good: 246 (56%), bad: 186 (44%) ]:  { link: 'http://itsrainingbitcoins.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:21 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 19256040,
+  fundsBTC: 0.1925604,
+  fundsUSD: '62.59',
+  fundsBRL: '237.78' }
+
+
+)))))))  FOUND:  http://faucetstrong.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 1496220 <<<
+
+227:::>>> BALANCE [ good: 247 (57%), bad: 186 (43%) ]:  { link: 'http://faucetstrong.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:21 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 1496220,
+  fundsBTC: 0.0149622,
+  fundsUSD: '4.86',
+  fundsBRL: '18.48' }
+
+226:::>>> BALANCE [ good: 247 (56%), bad: 187 (44%) ]:  undefined
+
+
+)))))))  FOUND:  http://forcrypto.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 212 <<<
+
+225:::>>> BALANCE [ good: 248 (57%), bad: 187 (43%) ]:  { link: 'http://forcrypto.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:21 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 212,
+  fundsBTC: 0.00000212,
+  fundsUSD: '0.00',
+  fundsBRL: '0.00' }
+
+
+)))))))  FOUND:  http://earnbtconline.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 1492051 <<<
+
+224:::>>> BALANCE [ good: 249 (57%), bad: 187 (43%) ]:  { link: 'http://earnbtconline.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:21 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 1492051,
+  fundsBTC: 0.01492051,
+  fundsUSD: '4.85',
+  fundsBRL: '18.42' }
+
+
+)))))))  FOUND:  http://emaxbb.tk?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 687853 <<<
+
+223:::>>> BALANCE [ good: 250 (57%), bad: 187 (43%) ]:  { link: 'http://emaxbb.tk?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:21 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 687853,
+  fundsBTC: 0.00687853,
+  fundsUSD: '2.24',
+  fundsBRL: '8.49' }
+
+
+)))))))  FOUND:  http://faucetbit.ru/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 165 <<<
+
+222:::>>> BALANCE [ good: 251 (57%), bad: 187 (43%) ]:  { link: 'http://faucetbit.ru/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:21 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 165,
+  fundsBTC: 0.00000165,
+  fundsUSD: '0.00',
+  fundsBRL: '0.00' }
+
+
+)))))))  FOUND:  http://super-bitcoins.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 1494035 <<<
+
+221:::>>> BALANCE [ good: 252 (57%), bad: 187 (43%) ]:  { link: 'http://super-bitcoins.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:21 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 1494035,
+  fundsBTC: 0.01494035,
+  fundsUSD: '4.86',
+  fundsBRL: '18.45' }
+
+
+)))))))  FOUND:  http://catsfaucet.su?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 1886928 <<<
+
+220:::>>> BALANCE [ good: 253 (57%), bad: 187 (43%) ]:  { link: 'http://catsfaucet.su?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:21 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 1886928,
+  fundsBTC: 0.01886928,
+  fundsUSD: '6.13',
+  fundsBRL: '23.30' }
+
+
+)))))))  FOUND:  http://btc-free.eu?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 15817432 <<<
+
+219:::>>> BALANCE [ good: 254 (57%), bad: 187 (43%) ]:  { link: 'http://btc-free.eu?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:21 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 15817432,
+  fundsBTC: 0.15817432,
+  fundsUSD: '51.41',
+  fundsBRL: '195.32' }
+
+
+)))))))  FOUND:  http://faucetworld.eu/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 15950177 <<<
+
+218:::>>> BALANCE [ good: 255 (57%), bad: 187 (43%) ]:  { link: 'http://faucetworld.eu/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:21 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 15950177,
+  fundsBTC: 0.15950177,
+  fundsUSD: '51.85',
+  fundsBRL: '196.96' }
+
+
+)))))))  FOUND:  http://btcfaucetfree.info?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 7 <<<
+
+217:::>>> BALANCE [ good: 256 (57%), bad: 187 (43%) ]:  { link: 'http://btcfaucetfree.info?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:21 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 7,
+  fundsBTC: 7e-8,
+  fundsUSD: '0.00',
+  fundsBRL: '0.00' }
+
+
+)))))))  FOUND:  http://www.peopleperbitcoin.com/faucet/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 97 <<<
+
+216:::>>> BALANCE [ good: 257 (57%), bad: 187 (43%) ]:  { link: 'http://www.peopleperbitcoin.com/faucet/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:21 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 97,
+  fundsBTC: 9.7e-7,
+  fundsUSD: '0.00',
+  fundsBRL: '0.00' }
+
+
+)))))))  FOUND:  http://faucetbit.eu?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 15819057 <<<
+
+215:::>>> BALANCE [ good: 258 (57%), bad: 187 (43%) ]:  { link: 'http://faucetbit.eu?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:21 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 15819057,
+  fundsBTC: 0.15819057,
+  fundsUSD: '51.42',
+  fundsBRL: '195.34' }
+
+214:::>>> BALANCE [ good: 258 (57%), bad: 188 (43%) ]:  undefined
+
+213:::>>> BALANCE [ good: 258 (57%), bad: 189 (43%) ]:  undefined
+
+
+)))))))  FOUND:  http://tootbitco.ml/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 754430 <<<
+
+212:::>>> BALANCE [ good: 259 (57%), bad: 189 (43%) ]:  { link: 'http://tootbitco.ml/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:21 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 754430,
+  fundsBTC: 0.0075443,
+  fundsUSD: '2.45',
+  fundsBRL: '9.32' }
+
+211:::>>> BALANCE [ good: 259 (57%), bad: 190 (43%) ]:  undefined
+
+
+)))))))  FOUND:  http://youbit.su?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 1886428 <<<
+
+210:::>>> BALANCE [ good: 260 (57%), bad: 190 (43%) ]:  { link: 'http://youbit.su?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:21 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 1886428,
+  fundsBTC: 0.01886428,
+  fundsUSD: '6.13',
+  fundsBRL: '23.29' }
+
+
+--->>> ERROR: NO BODY FOUND http://faucetpowerful.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17
+
+209:::>>> BALANCE [ good: 260 (57%), bad: 191 (43%) ]:  undefined
+
+
+)))))))  FOUND:  http://bestbitcoinfaucet.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> funds directly into merchants' bank accounts daily. As these services are based on Bitcoin, they can be offered for much lower fees than with PayPal or credit card networks.</li>											<li><em><b>Fewer risks for merchants</b></em> - Bitcoin transactions are secure, irreversible, and do not contain customersâ sensitive or personal information. This protects merchants from losses caused by fraud or fraudulent chargebacks, and there is no need for PCI compliance. Merchants can easily expand to new markets where either credit cards are not available or fraud rates are unacceptably high. The net results are lower fees, larger markets, and fewer administrative costs.</li>											<li><em><b>Security and control</b></em> - Bitcoin users are in full control of their transactions; it is impossible for merchants to force unwanted or unnoticed charges as can happen with other payment methods. Bitcoin payments can be made without personal information tied to the transaction. This offers strong protection against identity theft. Bitcoin users can also protect their money with backup and encryption.</li>											<li><em><b>Transparent and neutral</b></em> - All information concerning the Bitcoin money supply itself is readily available on the block chain for anybody to verify and use in real-time. No individual or organization can control or manipulate the Bitcoin protocol because it is cryptographically secure. This allows the core of Bitcoin to be trusted for being completely neutral, transparent and predictable.</li>										</ul>										</div>                                    </div>                                </div>                            </div>                        </div>                    </div>                </div>            </div>                    <!-- /. ROW  -->                        <div class="admin_link"><a href="?p=admin">Admin Panel</a></div>                    </div>				</div><!-- /. CONTAINER-FLUID  -->				            </div><!-- /. PAGE INNER  -->                         </div><!-- /. PAGE WRAPPER  -->                             </div><!-- /. WRAPPER  -->             <!--  Modals-->        <div class="panel panel-default">            <div class="modal fade" id="ModalWallets" tabindex="-1" role="dialog" aria-labelledby="ModalWallets" aria-hidden="true">                    <div class="modal-dialog">                        <div class="modal-content">                            <div class="modal-header">                                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>                                <h4 class="modal-title" id="ModalWallets">Bitcoin Wallets</h4>                            </div>                            <div class="modal-body">                                <div class="row">                                <div class="col-lg-8 col-lg-offset-2">                                    <div class="line"></div>                                    <a href="http://bit.ly/XAPOwallet" target="_blank">XAPO </a>                                    <p>Create and verify a wallet and get 5000 <<<
+
+208:::>>> BALANCE [ good: 260 (57%), bad: 191 (43%) ]:  { link: 'http://bestbitcoinfaucet.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:22 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: NaN,
+  fundsBTC: NaN,
+  fundsUSD: 'NaN',
+  fundsBRL: 'NaN' }
+
+207:::>>> BALANCE [ good: 260 (57%), bad: 192 (43%) ]:  undefined
+
+206:::>>> BALANCE [ good: 260 (57%), bad: 193 (43%) ]:  undefined
+
+
+)))))))  FOUND:  http://www.marsfaucet.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 580 <<<
+
+205:::>>> BALANCE [ good: 261 (57%), bad: 193 (43%) ]:  { link: 'http://www.marsfaucet.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:22 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 580,
+  fundsBTC: 0.0000058,
+  fundsUSD: '0.00',
+  fundsBRL: '0.01' }
+
+
+--->>> ERROR: NO BODY FOUND http://www.satofaucet.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17
+
+204:::>>> BALANCE [ good: 261 (57%), bad: 194 (43%) ]:  undefined
+
+
+)))))))  FOUND:  http://www.superbtcrewards.tk?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 47 <<<
+
+203:::>>> BALANCE [ good: 262 (57%), bad: 194 (43%) ]:  { link: 'http://www.superbtcrewards.tk?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:22 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 47,
+  fundsBTC: 4.7e-7,
+  fundsUSD: '0.00',
+  fundsBRL: '0.00' }
+
+
+)))))))  FOUND:  http://www.bitfaucet.eu/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> balance: 19 <<<
+
+202:::>>> BALANCE [ good: 263 (57%), bad: 194 (43%) ]:  { link: 'http://www.bitfaucet.eu/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:22 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 19,
+  fundsBTC: 1.9e-7,
+  fundsUSD: '0.00',
+  fundsBRL: '0.00' }
+
+
+)))))))  FOUND:  http://gigabtc.info?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 795 <<<
+
+201:::>>> BALANCE [ good: 264 (57%), bad: 194 (43%) ]:  { link: 'http://gigabtc.info?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:22 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 795,
+  fundsBTC: 0.00000795,
+  fundsUSD: '0.00',
+  fundsBRL: '0.01' }
+
+
+)))))))  FOUND:  http://zzbitcoin.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance:  Doge</h4 <<<
+
+200:::>>> BALANCE [ good: 265 (57%), bad: 194 (43%) ]:  { link: 'http://zzbitcoin.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:22 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 4,
+  fundsBTC: 4e-8,
+  fundsUSD: '0.00',
+  fundsBRL: '0.00' }
+
+
+)))))))  FOUND:  http://www.btcsonline.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 663 <<<
+
+199:::>>> BALANCE [ good: 266 (57%), bad: 194 (43%) ]:  { link: 'http://www.btcsonline.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:22 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 663,
+  fundsBTC: 0.00000663,
+  fundsUSD: '0.00',
+  fundsBRL: '0.01' }
+
+198:::>>> BALANCE [ good: 266 (57%), bad: 195 (43%) ]:  undefined
+
+
+)))))))  FOUND:  http://btchd.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 27 <<<
+
+197:::>>> BALANCE [ good: 267 (57%), bad: 195 (43%) ]:  { link: 'http://btchd.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:22 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 27,
+  fundsBTC: 2.7e-7,
+  fundsUSD: '0.00',
+  fundsBRL: '0.00' }
+
+196:::>>> BALANCE [ good: 267 (57%), bad: 196 (43%) ]:  undefined
+
+195:::>>> BALANCE [ good: 267 (57%), bad: 197 (43%) ]:  undefined
+
+
+)))))))  FOUND:  http://getthebitcoin.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 501668 <<<
+
+194:::>>> BALANCE [ good: 268 (57%), bad: 197 (43%) ]:  { link: 'http://getthebitcoin.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:22 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 501668,
+  fundsBTC: 0.00501668,
+  fundsUSD: '1.63',
+  fundsBRL: '6.19' }
+
+193:::>>> BALANCE [ good: 268 (57%), bad: 198 (43%) ]:  undefined
+
+
+)))))))  FOUND:  http://bitcoinmarketbtc.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 1657783 <<<
+
+192:::>>> BALANCE [ good: 269 (57%), bad: 198 (43%) ]:  { link: 'http://bitcoinmarketbtc.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:22 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 1657783,
+  fundsBTC: 0.01657783,
+  fundsUSD: '5.39',
+  fundsBRL: '20.47' }
+
+
+)))))))  FOUND:  http://sarahsways.doublebitcoins.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 89 <<<
+
+191:::>>> BALANCE [ good: 270 (57%), bad: 198 (43%) ]:  { link: 'http://sarahsways.doublebitcoins.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:22 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 89,
+  fundsBTC: 8.9e-7,
+  fundsUSD: '0.00',
+  fundsBRL: '0.00' }
+
+
+)))))))  FOUND:  http://purplehomebtc.tk/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 3864475 <<<
+
+190:::>>> BALANCE [ good: 271 (57%), bad: 198 (43%) ]:  { link: 'http://purplehomebtc.tk/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:22 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 3864475,
+  fundsBTC: 0.03864475,
+  fundsUSD: '12.56',
+  fundsBRL: '47.72' }
+
+189:::>>> BALANCE [ good: 271 (57%), bad: 199 (43%) ]:  undefined
+
+
+)))))))  FOUND:  http://www.BitFree.in?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 578300 <<<
+
+188:::>>> BALANCE [ good: 272 (57%), bad: 199 (43%) ]:  { link: 'http://www.BitFree.in?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:23 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 578300,
+  fundsBTC: 0.005783,
+  fundsUSD: '1.88',
+  fundsBRL: '7.14' }
+
+
+)))))))  FOUND:  http://www.predimania.com/faucet/index.php?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 763733 <<<
+
+187:::>>> BALANCE [ good: 273 (57%), bad: 199 (43%) ]:  { link: 'http://www.predimania.com/faucet/index.php?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:23 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 763733,
+  fundsBTC: 0.00763733,
+  fundsUSD: '2.48',
+  fundsBRL: '9.43' }
+
+186:::>>> BALANCE [ good: 273 (57%), bad: 200 (43%) ]:  undefined
+
+
+--->>> ERROR: NO BODY FOUND http://www.captchaygana.x10.mx/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17
+
+185:::>>> BALANCE [ good: 273 (57%), bad: 201 (43%) ]:  undefined
+
+
+)))))))  FOUND:  http://yibifaucet.tk?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 3876445 <<<
+
+184:::>>> BALANCE [ good: 274 (57%), bad: 201 (43%) ]:  { link: 'http://yibifaucet.tk?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:23 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 3876445,
+  fundsBTC: 0.03876445,
+  fundsUSD: '12.60',
+  fundsBRL: '47.87' }
+
+
+)))))))  FOUND:  http://dogsfaucet.su?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 1885378 <<<
+
+183:::>>> BALANCE [ good: 275 (57%), bad: 201 (43%) ]:  { link: 'http://dogsfaucet.su?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:23 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 1885378,
+  fundsBTC: 0.01885378,
+  fundsUSD: '6.13',
+  fundsBRL: '23.28' }
+
+182:::>>> BALANCE [ good: 275 (57%), bad: 202 (43%) ]:  undefined
+
+
+)))))))  FOUND:  http://coolwebinfo.eu/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 68 <<<
+
+181:::>>> BALANCE [ good: 276 (57%), bad: 202 (43%) ]:  { link: 'http://coolwebinfo.eu/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:23 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 68,
+  fundsBTC: 6.8e-7,
+  fundsUSD: '0.00',
+  fundsBRL: '0.00' }
+
+
+)))))))  FOUND:  http://dimensionfaucet.info/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 1264315 <<<
+
+180:::>>> BALANCE [ good: 277 (57%), bad: 202 (43%) ]:  { link: 'http://dimensionfaucet.info/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:23 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 1264315,
+  fundsBTC: 0.01264315,
+  fundsUSD: '4.11',
+  fundsBRL: '15.61' }
+
+179:::>>> BALANCE [ good: 277 (57%), bad: 203 (43%) ]:  undefined
+
+178:::>>> BALANCE [ good: 277 (57%), bad: 204 (43%) ]:  undefined
+
+177:::>>> BALANCE [ good: 277 (57%), bad: 205 (43%) ]:  undefined
+
+
+)))))))  FOUND:  http://freebtsocean.info/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 1455427 <<<
+
+176:::>>> BALANCE [ good: 278 (57%), bad: 205 (43%) ]:  { link: 'http://freebtsocean.info/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:23 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 1455427,
+  fundsBTC: 0.01455427,
+  fundsUSD: '4.73',
+  fundsBRL: '17.97' }
+
+175:::>>> BALANCE [ good: 278 (57%), bad: 206 (43%) ]:  undefined
+
+174:::>>> BALANCE [ good: 278 (57%), bad: 207 (43%) ]:  undefined
+
+173:::>>> BALANCE [ good: 278 (57%), bad: 208 (43%) ]:  undefined
+
+
+)))))))  FOUND:  http://coins4u.xyz/index.php?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 0 <<<
+
+172:::>>> BALANCE [ good: 278 (57%), bad: 208 (43%) ]:  { link: 'http://coins4u.xyz/index.php?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:23 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 0,
+  fundsBTC: 0,
+  fundsUSD: '0.00',
+  fundsBRL: '0.00' }
+
+171:::>>> BALANCE [ good: 278 (57%), bad: 209 (43%) ]:  undefined
+
+170:::>>> BALANCE [ good: 278 (56%), bad: 210 (44%) ]:  undefined
+
+169:::>>> BALANCE [ good: 278 (56%), bad: 211 (44%) ]:  undefined
+
+
+)))))))  FOUND:  http://bitcoinpalooza.ml?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 0 <<<
+
+168:::>>> BALANCE [ good: 278 (56%), bad: 211 (44%) ]:  { link: 'http://bitcoinpalooza.ml?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:23 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 0,
+  fundsBTC: 0,
+  fundsUSD: '0.00',
+  fundsBRL: '0.00' }
+
+167:::>>> BALANCE [ good: 278 (56%), bad: 212 (44%) ]:  undefined
+
+166:::>>> BALANCE [ good: 278 (56%), bad: 213 (44%) ]:  undefined
+
+165:::>>> BALANCE [ good: 278 (56%), bad: 214 (44%) ]:  undefined
+
+
+)))))))  FOUND:  http://007megafaucet.r4u.nl/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 89 <<<
+
+164:::>>> BALANCE [ good: 279 (56%), bad: 214 (44%) ]:  { link: 'http://007megafaucet.r4u.nl/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:23 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 89,
+  fundsBTC: 8.9e-7,
+  fundsUSD: '0.00',
+  fundsBRL: '0.00' }
+
+163:::>>> BALANCE [ good: 279 (56%), bad: 215 (44%) ]:  undefined
+
+
+)))))))  FOUND:  http://way2btc.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 280764 <<<
+
+162:::>>> BALANCE [ good: 280 (56%), bad: 215 (44%) ]:  { link: 'http://way2btc.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:23 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 280764,
+  fundsBTC: 0.00280764,
+  fundsUSD: '0.91',
+  fundsBRL: '3.47' }
+
+
+)))))))  FOUND:  http://giftsatoshi.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 13 <<<
+
+161:::>>> BALANCE [ good: 281 (56%), bad: 215 (44%) ]:  { link: 'http://giftsatoshi.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:23 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 13,
+  fundsBTC: 1.3e-7,
+  fundsUSD: '0.00',
+  fundsBRL: '0.00' }
+
+
+)))))))  FOUND:  http://www.ruchosfaucet.cu.cc?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 302 <<<
+
+160:::>>> BALANCE [ good: 282 (56%), bad: 215 (44%) ]:  { link: 'http://www.ruchosfaucet.cu.cc?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:23 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 302,
+  fundsBTC: 0.00000302,
+  fundsUSD: '0.00',
+  fundsBRL: '0.00' }
+
+
+)))))))  FOUND:  http://zybitcoin.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance:  Doge</h4 <<<
+
+159:::>>> BALANCE [ good: 283 (56%), bad: 215 (44%) ]:  { link: 'http://zybitcoin.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:23 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 4,
+  fundsBTC: 4e-8,
+  fundsUSD: '0.00',
+  fundsBRL: '0.00' }
+
+
+)))))))  FOUND:  http://bitcoinsland.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 1392220 <<<
+
+158:::>>> BALANCE [ good: 284 (56%), bad: 215 (44%) ]:  { link: 'http://bitcoinsland.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:23 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 1392220,
+  fundsBTC: 0.0139222,
+  fundsUSD: '4.53',
+  fundsBRL: '17.19' }
+
+
+)))))))  FOUND:  http://bitads.webatu.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 19 <<<
+
+157:::>>> BALANCE [ good: 285 (57%), bad: 215 (43%) ]:  { link: 'http://bitads.webatu.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:23 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 19,
+  fundsBTC: 1.9e-7,
+  fundsUSD: '0.00',
+  fundsBRL: '0.00' }
+
+
+)))))))  FOUND:  http://www.satoshiparadise.esy.es/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 12 <<<
+
+156:::>>> BALANCE [ good: 286 (57%), bad: 215 (43%) ]:  { link: 'http://www.satoshiparadise.esy.es/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:23 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 12,
+  fundsBTC: 1.2e-7,
+  fundsUSD: '0.00',
+  fundsBRL: '0.00' }
+
+
+)))))))  FOUND:  http://light-bitcoin.ru?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 15798 <<<
+
+155:::>>> BALANCE [ good: 287 (57%), bad: 215 (43%) ]:  { link: 'http://light-bitcoin.ru?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:23 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 15798,
+  fundsBTC: 0.00015798,
+  fundsUSD: '0.05',
+  fundsBRL: '0.20' }
+
+
+)))))))  FOUND:  http://newsatoshi.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 392 <<<
+
+154:::>>> BALANCE [ good: 288 (57%), bad: 215 (43%) ]:  { link: 'http://newsatoshi.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:23 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 392,
+  fundsBTC: 0.00000392,
+  fundsUSD: '0.00',
+  fundsBRL: '0.00' }
+
+
+)))))))  FOUND:  http://bitcofree.tk/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 32707 <<<
+
+153:::>>> BALANCE [ good: 289 (57%), bad: 215 (43%) ]:  { link: 'http://bitcofree.tk/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:23 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 32707,
+  fundsBTC: 0.00032707,
+  fundsUSD: '0.11',
+  fundsBRL: '0.40' }
+
+
+)))))))  FOUND:  http://www.newbitcoinzebra.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 263358 <<<
+
+152:::>>> BALANCE [ good: 290 (57%), bad: 215 (43%) ]:  { link: 'http://www.newbitcoinzebra.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:23 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 263358,
+  fundsBTC: 0.00263358,
+  fundsUSD: '0.86',
+  fundsBRL: '3.25' }
+
+
+)))))))  FOUND:  http://www.freebitcoinsmake.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 24867 <<<
+
+151:::>>> BALANCE [ good: 291 (57%), bad: 215 (43%) ]:  { link: 'http://www.freebitcoinsmake.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:23 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 24867,
+  fundsBTC: 0.00024867,
+  fundsUSD: '0.08',
+  fundsBRL: '0.31' }
+
+150:::>>> BALANCE [ good: 291 (57%), bad: 216 (43%) ]:  undefined
+
+149:::>>> BALANCE [ good: 291 (57%), bad: 217 (43%) ]:  undefined
+
+
+)))))))  FOUND:  http://www.dragon-btc.cu.cc?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 40 <<<
+
+148:::>>> BALANCE [ good: 292 (57%), bad: 217 (43%) ]:  { link: 'http://www.dragon-btc.cu.cc?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:24 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 40,
+  fundsBTC: 4e-7,
+  fundsUSD: '0.00',
+  fundsBRL: '0.00' }
+
+
+)))))))  FOUND:  http://btcbros.website?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 84319 <<<
+
+147:::>>> BALANCE [ good: 293 (57%), bad: 217 (43%) ]:  { link: 'http://btcbros.website?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:24 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 84319,
+  fundsBTC: 0.00084319,
+  fundsUSD: '0.27',
+  fundsBRL: '1.04' }
+
+
+)))))))  FOUND:  http://freebtcforalll.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 1607316 <<<
+
+146:::>>> BALANCE [ good: 294 (57%), bad: 217 (43%) ]:  { link: 'http://freebtcforalll.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:24 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 1607316,
+  fundsBTC: 0.01607316,
+  fundsUSD: '5.22',
+  fundsBRL: '19.85' }
+
+145:::>>> BALANCE [ good: 294 (57%), bad: 218 (43%) ]:  undefined
+
+
+)))))))  FOUND:  http://www.moonsatoshi.xyz/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 192418 <<<
+
+144:::>>> BALANCE [ good: 295 (57%), bad: 218 (43%) ]:  { link: 'http://www.moonsatoshi.xyz/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:24 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 192418,
+  fundsBTC: 0.00192418,
+  fundsUSD: '0.63',
+  fundsBRL: '2.38' }
+
+
+)))))))  FOUND:  http://driftwurld.herobo.com/index.php?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 71185 <<<
+
+143:::>>> BALANCE [ good: 296 (57%), bad: 218 (43%) ]:  { link: 'http://driftwurld.herobo.com/index.php?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:24 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 71185,
+  fundsBTC: 0.00071185,
+  fundsUSD: '0.23',
+  fundsBRL: '0.88' }
+
+
+)))))))  FOUND:  http://www.dailybitcoinfaucet.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 253046 <<<
+
+142:::>>> BALANCE [ good: 297 (57%), bad: 218 (43%) ]:  { link: 'http://www.dailybitcoinfaucet.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:24 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 253046,
+  fundsBTC: 0.00253046,
+  fundsUSD: '0.82',
+  fundsBRL: '3.12' }
+
+
+)))))))  FOUND:  http://www.abicoin.net/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 462 <<<
+
+141:::>>> BALANCE [ good: 298 (57%), bad: 218 (43%) ]:  { link: 'http://www.abicoin.net/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:24 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 462,
+  fundsBTC: 0.00000462,
+  fundsUSD: '0.00',
+  fundsBRL: '0.01' }
+
+140:::>>> BALANCE [ good: 298 (57%), bad: 219 (43%) ]:  undefined
+
+
+)))))))  FOUND:  http://01.an00.ru/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 281 <<<
+
+139:::>>> BALANCE [ good: 299 (57%), bad: 219 (43%) ]:  { link: 'http://01.an00.ru/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:24 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 281,
+  fundsBTC: 0.00000281,
+  fundsUSD: '0.00',
+  fundsBRL: '0.00' }
+
+
+)))))))  FOUND:  http://www.winfreebit.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 179 <<<
+
+138:::>>> BALANCE [ good: 300 (57%), bad: 219 (43%) ]:  { link: 'http://www.winfreebit.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:24 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 179,
+  fundsBTC: 0.00000179,
+  fundsUSD: '0.00',
+  fundsBRL: '0.00' }
+
+137:::>>> BALANCE [ good: 300 (57%), bad: 220 (43%) ]:  undefined
+
+136:::>>> BALANCE [ good: 300 (57%), bad: 221 (43%) ]:  undefined
+
+135:::>>> BALANCE [ good: 300 (57%), bad: 222 (43%) ]:  undefined
+
+134:::>>> BALANCE [ good: 300 (57%), bad: 223 (43%) ]:  undefined
+
+
+)))))))  FOUND:  http://bigfaucet.eu/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 78221 <<<
+
+133:::>>> BALANCE [ good: 301 (57%), bad: 223 (43%) ]:  { link: 'http://bigfaucet.eu/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:24 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 78221,
+  fundsBTC: 0.00078221,
+  fundsUSD: '0.25',
+  fundsBRL: '0.97' }
+
+
+)))))))  FOUND:  http://1btcfree.mx/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 974 <<<
+
+132:::>>> BALANCE [ good: 302 (57%), bad: 223 (43%) ]:  { link: 'http://1btcfree.mx/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:24 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 974,
+  fundsBTC: 0.00000974,
+  fundsUSD: '0.00',
+  fundsBRL: '0.01' }
+
+
+)))))))  FOUND:  http://sharethecoins.xyz?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 126865 <<<
+
+131:::>>> BALANCE [ good: 303 (57%), bad: 223 (43%) ]:  { link: 'http://sharethecoins.xyz?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:24 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 126865,
+  fundsBTC: 0.00126865,
+  fundsUSD: '0.41',
+  fundsBRL: '1.57' }
+
+
+)))))))  FOUND:  http://an00.ru/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 81 <<<
+
+130:::>>> BALANCE [ good: 304 (57%), bad: 223 (43%) ]:  { link: 'http://an00.ru/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:24 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 81,
+  fundsBTC: 8.1e-7,
+  fundsUSD: '0.00',
+  fundsBRL: '0.00' }
+
+
+)))))))  FOUND:  http://bit-free.tk/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 85941 <<<
+
+129:::>>> BALANCE [ good: 305 (57%), bad: 223 (43%) ]:  { link: 'http://bit-free.tk/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:24 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 85941,
+  fundsBTC: 0.00085941,
+  fundsUSD: '0.28',
+  fundsBRL: '1.06' }
+
+
+)))))))  FOUND:  http://faucet2moon.xyz/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 27 <<<
+
+128:::>>> BALANCE [ good: 306 (57%), bad: 223 (43%) ]:  { link: 'http://faucet2moon.xyz/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:24 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 27,
+  fundsBTC: 2.7e-7,
+  fundsUSD: '0.00',
+  fundsBRL: '0.00' }
+
+
+)))))))  FOUND:  http://straetzi.de?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 83609 <<<
+
+127:::>>> BALANCE [ good: 307 (57%), bad: 223 (43%) ]:  { link: 'http://straetzi.de?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:24 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 83609,
+  fundsBTC: 0.00083609,
+  fundsUSD: '0.27',
+  fundsBRL: '1.03' }
+
+126:::>>> BALANCE [ good: 307 (57%), bad: 224 (43%) ]:  undefined
+
+
+)))))))  FOUND:  http://www.bit-co.in.ua/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 166187 <<<
+
+125:::>>> BALANCE [ good: 308 (57%), bad: 224 (43%) ]:  { link: 'http://www.bit-co.in.ua/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:24 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 166187,
+  fundsBTC: 0.00166187,
+  fundsUSD: '0.54',
+  fundsBRL: '2.05' }
+
+
+)))))))  FOUND:  http://freebitcoin.in/btc/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 141 <<<
+
+124:::>>> BALANCE [ good: 309 (57%), bad: 224 (43%) ]:  { link: 'http://freebitcoin.in/btc/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:24 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 141,
+  fundsBTC: 0.00000141,
+  fundsUSD: '0.00',
+  fundsBRL: '0.00' }
+
+
+)))))))  FOUND:  http://rainofcoins.tk?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 76297 <<<
+
+123:::>>> BALANCE [ good: 310 (58%), bad: 224 (42%) ]:  { link: 'http://rainofcoins.tk?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:24 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 76297,
+  fundsBTC: 0.00076297,
+  fundsUSD: '0.25',
+  fundsBRL: '0.94' }
+
+
+)))))))  FOUND:  http://worldfullcoin.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance:</b> 47313 <<<
+
+122:::>>> BALANCE [ good: 311 (58%), bad: 224 (42%) ]:  { link: 'http://worldfullcoin.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:24 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 47313,
+  fundsBTC: 0.00047313,
+  fundsUSD: '0.15',
+  fundsBRL: '0.58' }
+
+
+)))))))  FOUND:  http://www.visitmania.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 7084626 <<<
+
+121:::>>> BALANCE [ good: 312 (58%), bad: 224 (42%) ]:  { link: 'http://www.visitmania.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:24 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 7084626,
+  fundsBTC: 0.07084626,
+  fundsUSD: '23.03',
+  fundsBRL: '87.48' }
+
+
+)))))))  FOUND:  http://www.ziomik.net/rubinetto/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 2615512 <<<
+
+120:::>>> BALANCE [ good: 313 (58%), bad: 224 (42%) ]:  { link: 'http://www.ziomik.net/rubinetto/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:25 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 2615512,
+  fundsBTC: 0.02615512,
+  fundsUSD: '8.50',
+  fundsBRL: '32.30' }
+
+
+)))))))  FOUND:  http://freemobilesoftware.net/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 36875438 <<<
+
+119:::>>> BALANCE [ good: 314 (58%), bad: 224 (42%) ]:  { link: 'http://freemobilesoftware.net/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:25 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 36875438,
+  fundsBTC: 0.36875438,
+  fundsUSD: '119.86',
+  fundsBRL: '455.36' }
+
+118:::>>> BALANCE [ good: 314 (58%), bad: 225 (42%) ]:  undefined
+
+
+)))))))  FOUND:  http://btc.tanpaulus.xyz/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 164675 <<<
+
+117:::>>> BALANCE [ good: 315 (58%), bad: 225 (42%) ]:  { link: 'http://btc.tanpaulus.xyz/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:25 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 164675,
+  fundsBTC: 0.00164675,
+  fundsUSD: '0.54',
+  fundsBRL: '2.03' }
+
+116:::>>> BALANCE [ good: 315 (58%), bad: 226 (42%) ]:  undefined
+
+115:::>>> BALANCE [ good: 315 (58%), bad: 227 (42%) ]:  undefined
+
+114:::>>> BALANCE [ good: 315 (58%), bad: 228 (42%) ]:  undefined
+
+
+)))))))  FOUND:  http://finansmania.xyz?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 4553 <<<
+
+113:::>>> BALANCE [ good: 316 (58%), bad: 228 (42%) ]:  { link: 'http://finansmania.xyz?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:25 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 4553,
+  fundsBTC: 0.00004553,
+  fundsUSD: '0.01',
+  fundsBRL: '0.06' }
+
+112:::>>> BALANCE [ good: 316 (57%), bad: 229 (43%) ]:  undefined
+
+
+)))))))  FOUND:  http://megabitcoin.ru/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 127236 <<<
+
+111:::>>> BALANCE [ good: 317 (58%), bad: 229 (42%) ]:  { link: 'http://megabitcoin.ru/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:25 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 127236,
+  fundsBTC: 0.00127236,
+  fundsUSD: '0.41',
+  fundsBRL: '1.57' }
+
+
+)))))))  FOUND:  http://candyfaucet.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 725917 <<<
+
+110:::>>> BALANCE [ good: 318 (58%), bad: 229 (42%) ]:  { link: 'http://candyfaucet.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:25 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 725917,
+  fundsBTC: 0.00725917,
+  fundsUSD: '2.36',
+  fundsBRL: '8.96' }
+
+109:::>>> BALANCE [ good: 318 (58%), bad: 230 (42%) ]:  undefined
+
+
+)))))))  FOUND:  http://www.botacoin.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 140 <<<
+
+108:::>>> BALANCE [ good: 319 (58%), bad: 230 (42%) ]:  { link: 'http://www.botacoin.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:25 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 140,
+  fundsBTC: 0.0000014,
+  fundsUSD: '0.00',
+  fundsBRL: '0.00' }
+
+
+)))))))  FOUND:  http://bitcoinchest.ml?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 0 <<<
+
+107:::>>> BALANCE [ good: 319 (58%), bad: 230 (42%) ]:  { link: 'http://bitcoinchest.ml?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:25 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 0,
+  fundsBTC: 0,
+  fundsUSD: '0.00',
+  fundsBRL: '0.00' }
+
+
+)))))))  FOUND:  http://argentumfaucet.xyz?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 179260 <<<
+
+106:::>>> BALANCE [ good: 320 (58%), bad: 230 (42%) ]:  { link: 'http://argentumfaucet.xyz?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:25 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 179260,
+  fundsBTC: 0.0017926,
+  fundsUSD: '0.58',
+  fundsBRL: '2.21' }
+
+
+)))))))  FOUND:  http://1btcfau.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 363 <<<
+
+105:::>>> BALANCE [ good: 321 (58%), bad: 230 (42%) ]:  { link: 'http://1btcfau.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:25 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 363,
+  fundsBTC: 0.00000363,
+  fundsUSD: '0.00',
+  fundsBRL: '0.00' }
+
+104:::>>> BALANCE [ good: 321 (58%), bad: 231 (42%) ]:  undefined
+
+
+)))))))  FOUND:  http://ganardinerobtc.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 30 <<<
+
+103:::>>> BALANCE [ good: 322 (58%), bad: 231 (42%) ]:  { link: 'http://ganardinerobtc.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:25 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 30,
+  fundsBTC: 3e-7,
+  fundsUSD: '0.00',
+  fundsBRL: '0.00' }
+
+102:::>>> BALANCE [ good: 322 (58%), bad: 232 (42%) ]:  undefined
+
+
+)))))))  FOUND:  http://freebitcoinsgolds.info/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 1539085 <<<
+
+101:::>>> BALANCE [ good: 323 (58%), bad: 232 (42%) ]:  { link: 'http://freebitcoinsgolds.info/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:26 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 1539085,
+  fundsBTC: 0.01539085,
+  fundsUSD: '5.00',
+  fundsBRL: '19.01' }
+
+100:::>>> BALANCE [ good: 323 (58%), bad: 233 (42%) ]:  undefined
+
+99:::>>> BALANCE [ good: 323 (57%), bad: 234 (43%) ]:  undefined
+
+
+)))))))  FOUND:  http://www.bitcointowallet.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 514521 <<<
+
+98:::>>> BALANCE [ good: 324 (58%), bad: 234 (42%) ]:  { link: 'http://www.bitcointowallet.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:26 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 514521,
+  fundsBTC: 0.00514521,
+  fundsUSD: '1.67',
+  fundsBRL: '6.35' }
+
+97:::>>> BALANCE [ good: 324 (57%), bad: 235 (43%) ]:  undefined
+
+
+)))))))  FOUND:  http://freebitcoinsx.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 142 <<<
+
+96:::>>> BALANCE [ good: 325 (58%), bad: 235 (42%) ]:  { link: 'http://freebitcoinsx.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:26 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 142,
+  fundsBTC: 0.00000142,
+  fundsUSD: '0.00',
+  fundsBRL: '0.00' }
+
+
+)))))))  FOUND:  http://sarahscoins.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 89 <<<
+
+95:::>>> BALANCE [ good: 326 (58%), bad: 235 (42%) ]:  { link: 'http://sarahscoins.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:26 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 89,
+  fundsBTC: 8.9e-7,
+  fundsUSD: '0.00',
+  fundsBRL: '0.00' }
+
+
+)))))))  FOUND:  http://www.yokocoin.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 612 <<<
+
+94:::>>> BALANCE [ good: 327 (58%), bad: 235 (42%) ]:  { link: 'http://www.yokocoin.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:26 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 612,
+  fundsBTC: 0.00000612,
+  fundsUSD: '0.00',
+  fundsBRL: '0.01' }
+
+93:::>>> BALANCE [ good: 327 (58%), bad: 236 (42%) ]:  undefined
+
+
+)))))))  FOUND:  http://faucet1.galeradatecnologia.top/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 2900070 <<<
+
+92:::>>> BALANCE [ good: 328 (58%), bad: 236 (42%) ]:  { link: 'http://faucet1.galeradatecnologia.top/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:26 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 2900070,
+  fundsBTC: 0.0290007,
+  fundsUSD: '9.43',
+  fundsBRL: '35.81' }
+
+91:::>>> BALANCE [ good: 328 (58%), bad: 237 (42%) ]:  undefined
+
+
+)))))))  FOUND:  http://ultrabtc.cu.cc/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 43770 <<<
+
+90:::>>> BALANCE [ good: 329 (58%), bad: 237 (42%) ]:  { link: 'http://ultrabtc.cu.cc/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:26 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 43770,
+  fundsBTC: 0.0004377,
+  fundsUSD: '0.14',
+  fundsBRL: '0.54' }
+
+
+)))))))  FOUND:  http://satoshiclick.tk?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 37300 <<<
+
+89:::>>> BALANCE [ good: 330 (58%), bad: 237 (42%) ]:  { link: 'http://satoshiclick.tk?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:26 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 37300,
+  fundsBTC: 0.000373,
+  fundsUSD: '0.12',
+  fundsBRL: '0.46' }
+
+
+)))))))  FOUND:  http://bitcoinsfreeme.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 10 <<<
+
+88:::>>> BALANCE [ good: 331 (58%), bad: 237 (42%) ]:  { link: 'http://bitcoinsfreeme.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:26 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 10,
+  fundsBTC: 1e-7,
+  fundsUSD: '0.00',
+  fundsBRL: '0.00' }
+
+
+)))))))  FOUND:  http://btcfaucetfree.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 7 <<<
+
+87:::>>> BALANCE [ good: 332 (58%), bad: 237 (42%) ]:  { link: 'http://btcfaucetfree.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:26 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 7,
+  fundsBTC: 7e-8,
+  fundsUSD: '0.00',
+  fundsBRL: '0.00' }
+
+
+)))))))  FOUND:  http://thecoincow.pw?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 33 <<<
+
+86:::>>> BALANCE [ good: 333 (58%), bad: 237 (42%) ]:  { link: 'http://thecoincow.pw?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:26 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 33,
+  fundsBTC: 3.3e-7,
+  fundsUSD: '0.00',
+  fundsBRL: '0.00' }
+
+
+)))))))  FOUND:  https://faucet.lazuliproject.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 10 <<<
+
+85:::>>> BALANCE [ good: 334 (58%), bad: 237 (42%) ]:  { link: 'https://faucet.lazuliproject.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:26 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 10,
+  fundsBTC: 1e-7,
+  fundsUSD: '0.00',
+  fundsBRL: '0.00' }
+
+84:::>>> BALANCE [ good: 334 (58%), bad: 238 (42%) ]:  undefined
+
+83:::>>> BALANCE [ good: 334 (58%), bad: 239 (42%) ]:  undefined
+
+82:::>>> BALANCE [ good: 334 (58%), bad: 240 (42%) ]:  undefined
+
+
+)))))))  FOUND:  http://www.altcoinsnews.com/faucet/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 2065460 <<<
+
+81:::>>> BALANCE [ good: 335 (58%), bad: 240 (42%) ]:  { link: 'http://www.altcoinsnews.com/faucet/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:26 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 2065460,
+  fundsBTC: 0.0206546,
+  fundsUSD: '6.71',
+  fundsBRL: '25.51' }
+
+
+)))))))  FOUND:  http://granfaucet.tk/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 244661 <<<
+
+80:::>>> BALANCE [ good: 336 (58%), bad: 240 (42%) ]:  { link: 'http://granfaucet.tk/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:26 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 244661,
+  fundsBTC: 0.00244661,
+  fundsUSD: '0.80',
+  fundsBRL: '3.02' }
+
+79:::>>> BALANCE [ good: 336 (58%), bad: 241 (42%) ]:  undefined
+
+
+)))))))  FOUND:  http://free1bitco.in?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 399 <<<
+
+78:::>>> BALANCE [ good: 337 (58%), bad: 241 (42%) ]:  { link: 'http://free1bitco.in?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:26 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 399,
+  fundsBTC: 0.00000399,
+  fundsUSD: '0.00',
+  fundsBRL: '0.00' }
+
+77:::>>> BALANCE [ good: 337 (58%), bad: 242 (42%) ]:  undefined
+
+
+)))))))  FOUND:  http://www.ruby-finder.net?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: <span id="cbalance">0 <<<
+
+76:::>>> BALANCE [ good: 337 (58%), bad: 242 (42%) ]:  { link: 'http://www.ruby-finder.net?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:26 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 0,
+  fundsBTC: 0,
+  fundsUSD: '0.00',
+  fundsBRL: '0.00' }
+
+
+)))))))  FOUND:  http://netinvestmentblogfaucet.cf/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 97 <<<
+
+75:::>>> BALANCE [ good: 338 (58%), bad: 242 (42%) ]:  { link: 'http://netinvestmentblogfaucet.cf/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:26 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 97,
+  fundsBTC: 9.7e-7,
+  fundsUSD: '0.00',
+  fundsBRL: '0.00' }
+
+
+)))))))  FOUND:  http://www.boxclikz.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 1527911 <<<
+
+74:::>>> BALANCE [ good: 339 (58%), bad: 242 (42%) ]:  { link: 'http://www.boxclikz.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:26 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 1527911,
+  fundsBTC: 0.01527911,
+  fundsUSD: '4.97',
+  fundsBRL: '18.87' }
+
+
+)))))))  FOUND:  http://faucet.omnibot2k.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> balance: 0 <<<
+
+73:::>>> BALANCE [ good: 339 (58%), bad: 242 (42%) ]:  { link: 'http://faucet.omnibot2k.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:26 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 0,
+  fundsBTC: 0,
+  fundsUSD: '0.00',
+  fundsBRL: '0.00' }
+
+
+)))))))  FOUND:  http://mshinabtc.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 309 <<<
+
+72:::>>> BALANCE [ good: 340 (58%), bad: 242 (42%) ]:  { link: 'http://mshinabtc.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:26 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 309,
+  fundsBTC: 0.00000309,
+  fundsUSD: '0.00',
+  fundsBRL: '0.00' }
+
+71:::>>> BALANCE [ good: 340 (58%), bad: 243 (42%) ]:  undefined
+
+70:::>>> BALANCE [ good: 340 (58%), bad: 244 (42%) ]:  undefined
+
+
+)))))))  FOUND:  http://freebitcoinstoyou.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 1592886 <<<
+
+69:::>>> BALANCE [ good: 341 (58%), bad: 244 (42%) ]:  { link: 'http://freebitcoinstoyou.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:27 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 1592886,
+  fundsBTC: 0.01592886,
+  fundsUSD: '5.18',
+  fundsBRL: '19.67' }
+
+
+)))))))  FOUND:  http://illuminatifaucet.eu?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> balance: 6159048 <<<
+
+68:::>>> BALANCE [ good: 342 (58%), bad: 244 (42%) ]:  { link: 'http://illuminatifaucet.eu?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:27 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 6159048,
+  fundsBTC: 0.06159048,
+  fundsUSD: '20.02',
+  fundsBRL: '76.06' }
+
+
+)))))))  FOUND:  http://faucetbitlist.altervista.org/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 124 <<<
+
+67:::>>> BALANCE [ good: 343 (58%), bad: 244 (42%) ]:  { link: 'http://faucetbitlist.altervista.org/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:27 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 124,
+  fundsBTC: 0.00000124,
+  fundsUSD: '0.00',
+  fundsBRL: '0.00' }
+
+
+--->>> ERROR: NO BODY FOUND https://satoshifree4ever.info?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17
+
+66:::>>> BALANCE [ good: 343 (58%), bad: 245 (42%) ]:  undefined
+
+
+)))))))  FOUND:  http://btc333.ru/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 166187 <<<
+
+65:::>>> BALANCE [ good: 344 (58%), bad: 245 (42%) ]:  { link: 'http://btc333.ru/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:27 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 166187,
+  fundsBTC: 0.00166187,
+  fundsUSD: '0.54',
+  fundsBRL: '2.05' }
+
+64:::>>> BALANCE [ good: 344 (58%), bad: 246 (42%) ]:  undefined
+
+
+)))))))  FOUND:  http://drawcoins.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 115 <<<
+
+63:::>>> BALANCE [ good: 345 (58%), bad: 246 (42%) ]:  { link: 'http://drawcoins.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:27 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 115,
+  fundsBTC: 0.00000115,
+  fundsUSD: '0.00',
+  fundsBRL: '0.00' }
+
+
+)))))))  FOUND:  http://jrswab.com/justgetbit?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 21 <<<
+
+62:::>>> BALANCE [ good: 346 (58%), bad: 246 (42%) ]:  { link: 'http://jrswab.com/justgetbit?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:27 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 21,
+  fundsBTC: 2.1e-7,
+  fundsUSD: '0.00',
+  fundsBRL: '0.00' }
+
+
+)))))))  FOUND:  http://feedex.eu?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 314515 <<<
+
+61:::>>> BALANCE [ good: 347 (58%), bad: 246 (42%) ]:  { link: 'http://feedex.eu?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:27 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 314515,
+  fundsBTC: 0.00314515,
+  fundsUSD: '1.02',
+  fundsBRL: '3.88' }
+
+60:::>>> BALANCE [ good: 347 (58%), bad: 247 (42%) ]:  undefined
+
+59:::>>> BALANCE [ good: 347 (58%), bad: 248 (42%) ]:  undefined
+
+58:::>>> BALANCE [ good: 347 (58%), bad: 249 (42%) ]:  undefined
+
+
+--->>> ERROR: NO BODY FOUND http://BitcoinsClick.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17
+
+57:::>>> BALANCE [ good: 347 (58%), bad: 250 (42%) ]:  undefined
+
+
+)))))))  FOUND:  http://www.beermoneyfaucet.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 2065408 <<<
+
+56:::>>> BALANCE [ good: 348 (58%), bad: 250 (42%) ]:  { link: 'http://www.beermoneyfaucet.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:27 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 2065408,
+  fundsBTC: 0.02065408,
+  fundsUSD: '6.71',
+  fundsBRL: '25.50' }
+
+
+)))))))  FOUND:  http://oneadfaucet.com/btc?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 1802676 <<<
+
+55:::>>> BALANCE [ good: 349 (58%), bad: 250 (42%) ]:  { link: 'http://oneadfaucet.com/btc?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:27 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 1802676,
+  fundsBTC: 0.01802676,
+  fundsUSD: '5.86',
+  fundsBRL: '22.26' }
+
+
+)))))))  FOUND:  http://hundredakerwood.com/faucet-BTC?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 5937502 <<<
+
+54:::>>> BALANCE [ good: 350 (58%), bad: 250 (42%) ]:  { link: 'http://hundredakerwood.com/faucet-BTC?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:27 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 5937502,
+  fundsBTC: 0.05937502,
+  fundsUSD: '19.30',
+  fundsBRL: '73.32' }
+
+53:::>>> BALANCE [ good: 350 (58%), bad: 251 (42%) ]:  undefined
+
+
+--->>> ERROR: NO BODY FOUND http://faucet.futuredigitalmoney.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17
+
+52:::>>> BALANCE [ good: 350 (58%), bad: 252 (42%) ]:  undefined
+
+51:::>>> BALANCE [ good: 350 (58%), bad: 253 (42%) ]:  undefined
+
+50:::>>> BALANCE [ good: 350 (57%), bad: 254 (43%) ]:  undefined
+
+
+)))))))  FOUND:  http://bitcoin-talk.ml/faucet/smiile-faucet?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 19120 <<<
+
+49:::>>> BALANCE [ good: 351 (58%), bad: 254 (42%) ]:  { link: 'http://bitcoin-talk.ml/faucet/smiile-faucet?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:27 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 19120,
+  fundsBTC: 0.0001912,
+  fundsUSD: '0.06',
+  fundsBRL: '0.24' }
+
+48:::>>> BALANCE [ good: 351 (57%), bad: 255 (43%) ]:  undefined
+
+47:::>>> BALANCE [ good: 351 (57%), bad: 256 (43%) ]:  undefined
+
+46:::>>> BALANCE [ good: 351 (57%), bad: 257 (43%) ]:  undefined
+
+45:::>>> BALANCE [ good: 351 (57%), bad: 258 (43%) ]:  undefined
+
+
+)))))))  FOUND:  http://btc.re/faucet?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 1819616 <<<
+
+44:::>>> BALANCE [ good: 352 (57%), bad: 258 (43%) ]:  { link: 'http://btc.re/faucet?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:27 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 1819616,
+  fundsBTC: 0.01819616,
+  fundsUSD: '5.91',
+  fundsBRL: '22.47' }
+
+
+)))))))  FOUND:  http://www.pickupcoin.com/btc?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 679788 <<<
+
+43:::>>> BALANCE [ good: 353 (57%), bad: 258 (43%) ]:  { link: 'http://www.pickupcoin.com/btc?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:27 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 679788,
+  fundsBTC: 0.00679788,
+  fundsUSD: '2.21',
+  fundsBRL: '8.39' }
+
+
+)))))))  FOUND:  http://faucet.hazedhosting.com/index.php?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 0 <<<
+
+42:::>>> BALANCE [ good: 353 (57%), bad: 258 (43%) ]:  { link: 'http://faucet.hazedhosting.com/index.php?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:27 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 0,
+  fundsBTC: 0,
+  fundsUSD: '0.00',
+  fundsBRL: '0.00' }
+
+
+)))))))  FOUND:  http://sakkeem.com/bitcoin?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance:<span> 98 <<<
+
+41:::>>> BALANCE [ good: 354 (57%), bad: 258 (43%) ]:  { link: 'http://sakkeem.com/bitcoin?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:28 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 98,
+  fundsBTC: 9.8e-7,
+  fundsUSD: '0.00',
+  fundsBRL: '0.00' }
+
+40:::>>> BALANCE [ good: 354 (57%), bad: 259 (43%) ]:  undefined
+
+39:::>>> BALANCE [ good: 354 (57%), bad: 260 (43%) ]:  undefined
+
+
+)))))))  FOUND:  http://faucetplus.tk/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 543463 <<<
+
+38:::>>> BALANCE [ good: 355 (57%), bad: 260 (43%) ]:  { link: 'http://faucetplus.tk/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:28 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 543463,
+  fundsBTC: 0.00543463,
+  fundsUSD: '1.77',
+  fundsBRL: '6.71' }
+
+
+)))))))  FOUND:  http://bithopp.com/bitcoin?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 74423 <<<
+
+37:::>>> BALANCE [ good: 356 (57%), bad: 260 (43%) ]:  { link: 'http://bithopp.com/bitcoin?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:28 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 74423,
+  fundsBTC: 0.00074423,
+  fundsUSD: '0.24',
+  fundsBRL: '0.92' }
+
+
+)))))))  FOUND:  http://bitmoney.zz.vc/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 386999 <<<
+
+36:::>>> BALANCE [ good: 357 (57%), bad: 260 (43%) ]:  { link: 'http://bitmoney.zz.vc/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:28 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 386999,
+  fundsBTC: 0.00386999,
+  fundsUSD: '1.26',
+  fundsBRL: '4.78' }
+
+
+)))))))  FOUND:  http://10xbtc.com/faucet/faucetinabox-r54?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 65 <<<
+
+35:::>>> BALANCE [ good: 358 (57%), bad: 260 (43%) ]:  { link: 'http://10xbtc.com/faucet/faucetinabox-r54?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:28 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 65,
+  fundsBTC: 6.5e-7,
+  fundsUSD: '0.00',
+  fundsBRL: '0.00' }
+
+34:::>>> BALANCE [ good: 358 (57%), bad: 261 (43%) ]:  undefined
+
+
+)))))))  FOUND:  http://faucetmonkey.com/bitcoin.php?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 4274204 <<<
+
+33:::>>> BALANCE [ good: 359 (57%), bad: 261 (43%) ]:  { link: 'http://faucetmonkey.com/bitcoin.php?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:28 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 4274204,
+  fundsBTC: 0.04274204,
+  fundsUSD: '13.89',
+  fundsBRL: '52.78' }
+
+32:::>>> BALANCE [ good: 359 (57%), bad: 262 (43%) ]:  undefined
+
+
+)))))))  FOUND:  http://bitcoinesia.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 1870100 <<<
+
+31:::>>> BALANCE [ good: 360 (57%), bad: 262 (43%) ]:  { link: 'http://bitcoinesia.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:28 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 1870100,
+  fundsBTC: 0.018701,
+  fundsUSD: '6.08',
+  fundsBRL: '23.09' }
+
+30:::>>> BALANCE [ good: 360 (57%), bad: 263 (43%) ]:  undefined
+
+
+)))))))  FOUND:  http://coinsteller.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 4903887 <<<
+
+29:::>>> BALANCE [ good: 361 (57%), bad: 263 (43%) ]:  { link: 'http://coinsteller.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:28 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 4903887,
+  fundsBTC: 0.04903887,
+  fundsUSD: '15.94',
+  fundsBRL: '60.56' }
+
+
+)))))))  FOUND:  http://thepowermoneysystem.info?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 1729934 <<<
+
+28:::>>> BALANCE [ good: 362 (57%), bad: 263 (43%) ]:  { link: 'http://thepowermoneysystem.info?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:29 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 1729934,
+  fundsBTC: 0.01729934,
+  fundsUSD: '5.62',
+  fundsBRL: '21.36' }
+
+27:::>>> BALANCE [ good: 362 (57%), bad: 264 (43%) ]:  undefined
+
+
+)))))))  FOUND:  http://goldsilver.kiev.ua/faucet?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 4159633 <<<
+
+26:::>>> BALANCE [ good: 363 (57%), bad: 264 (43%) ]:  { link: 'http://goldsilver.kiev.ua/faucet?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:29 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 4159633,
+  fundsBTC: 0.04159633,
+  fundsUSD: '13.52',
+  fundsBRL: '51.37' }
+
+
+)))))))  FOUND:  http://geniusgames.com/bitcoin/btcfaucet?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 521607 <<<
+
+25:::>>> BALANCE [ good: 364 (57%), bad: 264 (43%) ]:  { link: 'http://geniusgames.com/bitcoin/btcfaucet?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:29 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 521607,
+  fundsBTC: 0.00521607,
+  fundsUSD: '1.70',
+  fundsBRL: '6.44' }
+
+24:::>>> BALANCE [ good: 364 (57%), bad: 265 (43%) ]:  undefined
+
+
+)))))))  FOUND:  http://fastcoin.ml/bitfaucet/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 1026688 <<<
+
+23:::>>> BALANCE [ good: 365 (57%), bad: 265 (43%) ]:  { link: 'http://fastcoin.ml/bitfaucet/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:29 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 1026688,
+  fundsBTC: 0.01026688,
+  fundsUSD: '3.34',
+  fundsBRL: '12.68' }
+
+
+)))))))  FOUND:  http://www.luckybitco.in/faucet?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 52570 <<<
+
+22:::>>> BALANCE [ good: 366 (58%), bad: 265 (42%) ]:  { link: 'http://www.luckybitco.in/faucet?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:29 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 52570,
+  fundsBTC: 0.0005257,
+  fundsUSD: '0.17',
+  fundsBRL: '0.65' }
+
+21:::>>> BALANCE [ good: 366 (57%), bad: 266 (43%) ]:  undefined
+
+
+)))))))  FOUND:  http://www.getcoin2.com/btc?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 17 <<<
+
+20:::>>> BALANCE [ good: 367 (57%), bad: 266 (43%) ]:  { link: 'http://www.getcoin2.com/btc?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:29 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 17,
+  fundsBTC: 1.7e-7,
+  fundsUSD: '0.00',
+  fundsBRL: '0.00' }
+
+
+)))))))  FOUND:  http://goo.gl/2Lxl69?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 37 <<<
+
+19:::>>> BALANCE [ good: 368 (58%), bad: 266 (42%) ]:  { link: 'http://goo.gl/2Lxl69?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:29 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 37,
+  fundsBTC: 3.7e-7,
+  fundsUSD: '0.00',
+  fundsBRL: '0.00' }
+
+
+)))))))  FOUND:  http://earnbtc4free.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 1608190 <<<
+
+18:::>>> BALANCE [ good: 369 (58%), bad: 266 (42%) ]:  { link: 'http://earnbtc4free.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:29 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 1608190,
+  fundsBTC: 0.0160819,
+  fundsUSD: '5.23',
+  fundsBRL: '19.86' }
+
+
+)))))))  FOUND:  http://a.winspiral.net?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 759369 <<<
+
+17:::>>> BALANCE [ good: 370 (58%), bad: 266 (42%) ]:  { link: 'http://a.winspiral.net?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:29 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 759369,
+  fundsBTC: 0.00759369,
+  fundsUSD: '2.47',
+  fundsBRL: '9.38' }
+
+
+)))))))  FOUND:  https://www.faucetbtcbest.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 1266581 <<<
+
+16:::>>> BALANCE [ good: 371 (58%), bad: 266 (42%) ]:  { link: 'https://www.faucetbtcbest.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:29 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 1266581,
+  fundsBTC: 0.01266581,
+  fundsUSD: '4.12',
+  fundsBRL: '15.64' }
+
+
+)))))))  FOUND:  http://monsterfaucet.tk/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 543463 <<<
+
+15:::>>> BALANCE [ good: 372 (58%), bad: 266 (42%) ]:  { link: 'http://monsterfaucet.tk/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:29 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 543463,
+  fundsBTC: 0.00543463,
+  fundsUSD: '1.77',
+  fundsBRL: '6.71' }
+
+14:::>>> BALANCE [ good: 372 (58%), bad: 267 (42%) ]:  undefined
+
+
+)))))))  FOUND:  http://f3-btc.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 3864775 <<<
+
+13:::>>> BALANCE [ good: 373 (58%), bad: 267 (42%) ]:  { link: 'http://f3-btc.com?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:29 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 3864775,
+  fundsBTC: 0.03864775,
+  fundsUSD: '12.56',
+  fundsBRL: '47.72' }
+
+
+)))))))  FOUND:  http://recycledrobot.co.uk/faucets/btc?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 99674 <<<
+
+12:::>>> BALANCE [ good: 374 (58%), bad: 267 (42%) ]:  { link: 'http://recycledrobot.co.uk/faucets/btc?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:29 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 99674,
+  fundsBTC: 0.00099674,
+  fundsUSD: '0.32',
+  fundsBRL: '1.23' }
+
+11:::>>> BALANCE [ good: 374 (58%), bad: 268 (42%) ]:  undefined
+
+
+)))))))  FOUND:  http://www.widtoc.com/BTCfaucet?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 28814 <<<
+
+10:::>>> BALANCE [ good: 375 (58%), bad: 268 (42%) ]:  { link: 'http://www.widtoc.com/BTCfaucet?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:30 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 28814,
+  fundsBTC: 0.00028814,
+  fundsUSD: '0.09',
+  fundsBRL: '0.36' }
+
+
+)))))))  FOUND:  http://bitcointurkiye.esy.es/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 105522 <<<
+
+9:::>>> BALANCE [ good: 376 (58%), bad: 268 (42%) ]:  { link: 'http://bitcointurkiye.esy.es/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:30 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 105522,
+  fundsBTC: 0.00105522,
+  fundsUSD: '0.34',
+  fundsBRL: '1.30' }
+
+
+)))))))  FOUND:  http://freebtc.us?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 20915301 <<<
+
+8:::>>> BALANCE [ good: 377 (58%), bad: 268 (42%) ]:  { link: 'http://freebtc.us?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:30 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 20915301,
+  fundsBTC: 0.20915301,
+  fundsUSD: '67.98',
+  fundsBRL: '258.27' }
+
+
+)))))))  FOUND:  http://claimbtc.us?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 266189 <<<
+
+7:::>>> BALANCE [ good: 378 (58%), bad: 268 (42%) ]:  { link: 'http://claimbtc.us?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:31 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 266189,
+  fundsBTC: 0.00266189,
+  fundsUSD: '0.87',
+  fundsBRL: '3.29' }
+
+
+)))))))  FOUND:  http://bitcoinscollect.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 4313400 <<<
+
+6:::>>> BALANCE [ good: 379 (58%), bad: 268 (42%) ]:  { link: 'http://bitcoinscollect.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:31 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 4313400,
+  fundsBTC: 0.043134,
+  fundsUSD: '14.02',
+  fundsBRL: '53.26' }
+
+
+)))))))  FOUND:  http://bitcoin-data.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 4315710 <<<
+
+5:::>>> BALANCE [ good: 380 (58%), bad: 268 (42%) ]:  { link: 'http://bitcoin-data.com/?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:31 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 4315710,
+  fundsBTC: 0.0431571,
+  fundsUSD: '14.03',
+  fundsBRL: '53.29' }
+
+
+)))))))  FOUND:  http://hotbtc.us?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 266189 <<<
+
+4:::>>> BALANCE [ good: 381 (58%), bad: 268 (42%) ]:  { link: 'http://hotbtc.us?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:31 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 266189,
+  fundsBTC: 0.00266189,
+  fundsUSD: '0.87',
+  fundsBRL: '3.29' }
+
+
+)))))))  FOUND:  http://free-btc.us?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 266189 <<<
+
+3:::>>> BALANCE [ good: 382 (58%), bad: 268 (42%) ]:  { link: 'http://free-btc.us?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:21:32 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 266189,
+  fundsBTC: 0.00266189,
+  fundsUSD: '0.87',
+  fundsBRL: '3.29' }
+
+2:::>>> BALANCE [ good: 382 (58%), bad: 269 (42%) ]:  undefined
+
+1:::>>> BALANCE [ good: 382 (58%), bad: 270 (42%) ]:  undefined
+
+
+)))))))  FOUND:  http://www.faucetbit.xyz?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17 >>> Balance: 325855 <<<
+
+0:::>>> BALANCE [ good: 383 (58%), bad: 270 (42%) ]:  { link: 'http://www.faucetbit.xyz?r=1KLruuKccfWcGwZUVHJsMrYkphfyCKZR17',
+  timestamp: 'Fri Nov 13 2015 12:22:14 GMT+0000 (UTC)',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 325855,
+  fundsBTC: 0.00325855,
+  fundsUSD: '1.06',
+  fundsBRL: '4.02' }
+
+
+---
+ > TOTAL { timestamp: 'Fri Nov 13 2015 12:22:14 GMT+0000 (UTC)',
+  runtime: 85371,
+  nozzleCount: 663,
+  visibleBalanceRatio: '58 %',
+  btcUSD: 325.047,
+  usdBRL: 3.799,
+  satoshi: 2112992637,
+  fundsBTC: 21.12992637,
+  fundsUSD: 6868.22,
+  fundsBRL: 26092.36 } 
+---
+
+
