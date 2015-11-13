@@ -1,4 +1,14 @@
-- GET THE FUCKING MONEY
+NOZZLE BRIDGE: Let Nozzler find the challenges and stream it to the solver and back
+ - access nozzle
+ - identify challenge
+ - capture challenge
+ - save it to show
+ - hang session
+ - wait for solution
+ - apply solution when available
+ - CLAIM, GET REWARD, CASH OUT
+ - confirm payment in page
+ - confirm payment in box
 
 
 / get BTC price
