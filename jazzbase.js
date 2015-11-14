@@ -15,22 +15,18 @@ if ( ! internal.get("log")) {
 
 internal.push("log", new Date() + " :: Initing Jazzbase");
 
-function readStores() {
-    var files = fs.readdirSync(".");
-    var channelsAvailable = [];
+function readChannel(channel) {
+    var defer = defer();
 
-    files.forEach(function (item) {
-        var channel;
-        if (item.indexOf('jazzbase-') > -1 && item.indexOf('.json') > -1) {
-            channel = item.substr('jazzbase-'.length, item.length - '.json'.length);
-            channelsAvailable.push(channel);
+    var channelData = fs.readFile('jazzbase-' + channel + '.json', 'utf8', function (err, data) {
+        if (err) {
+            defer.resolve(null);
         }
+        
+        defer.resolve(JSON.parse(data));
     });
-
-    channelsAvailable.forEach(function (channel) {
-        var channelData = fs.readFileSync('jazzbase-' + channel + '.json', 'utf8');
-        channels[channel] = JSON.parse(channelData);
-    });
+    
+    return defer;
 }
 
 function readStores() {
@@ -71,9 +67,9 @@ function listenRemote() {
             var data = url.parse(req.url,true).query.data ||  null;
             var out = '';
 
-            if (toPush && channel && key) {
+            if (!data && toPush && channel && key) {
                 out = jazzbasePush(channel, key, toPush);
-            } else if (data && channel && key) {
+            } else if (!toPush && data && channel && key) {
                 out = jazzbaseSet(channel, key, data);
             } else if (channel && key) {
                 out = jazzbaseGet(channel, key);
@@ -102,78 +98,106 @@ function getReqIP(req) {
      req.connection.socket.remoteAddress;
 }
 
-function updateJazzbase(channel) {
-    try {
-        fs.writeFileSync(getJazzbaseChannelFile(channel), JSON.stringify(channels[channel]));
-        return true;
-    } catch (e) {
-        return false;
-    }
+function writeChannel(channel, key, data, push) {
+    var defer = defer();
+    
+    readChannel(channel).then(function (db) {
+        db = db || {};
+        
+        if (push) {
+            db[key].push(data);
+        } else {
+            db[key] = data;
+        }
+
+        try {
+            var strDB = JSON.stringify(db);
+
+            fs.writeFile(getJazzbaseChannelFile(channel), strDB, function (err) {
+                defer.resolve(err);
+            });
+        } catch (e) {
+            defer.resolve(e);
+        }
+    });
+    
+    return defer;
 }
 
 function getJazzbaseChannelFile (channel) {
     return './jazzbase-' + (channel || 'store') + '.json';
 }
 
-function touchChannel(channel) {
-    if ( ! channels[channel]) {
-        channels[channel] = {};
-    }
-}
-
 function jazzbaseGet(channel, key) {
-//     console.log(" >>>>> GET");
-//     console.log(" >>>>> ", channel);
-//     console.log(" >>>>> ", key);
-    console.log(" >>>>> GET ", channels[channel][key]);
-    return channels[channel][key];
+    var defer = defer();
+    
+    readChannel(channel).then(function(db){
+        if (db) {
+            defer.resolve(db[key]);
+        } else {
+            defer.resolve(null);
+        }
+    });
+    
+    return defer;
 }
 
 function jazzbaseSet(channel, key, data) {
-//     console.log(" >>>>> SET", new Error().stack);
-//     console.log(" >>>>> ", channel);
-//     console.log(" >>>>> ", key);
-    console.log(" >>>>> SET ", data);
-//     console.log(" >>>>> ", channels[channel][key]);
+    var defer = defer();
     
-    touchChannel(channel);
+    writeChannel(channel, key, data).then(function (err) {
+        defer.resolve(err);
+    });
     
-    try {
-        channels[channel][key] = JSON.parse(data);
-    } catch (e) {
-        channels[channel][key] = data;
-    }
-    
-    return updateJazzbase(channel);
+    return defer;
 }
 
 function jazzbasePush(channel, key, data) {
-//     console.log(" >>>>> PUSH");
-//     console.log(" >>>>> ", channel);
-//     console.log(" >>>>> ", key);
-//     console.log(" >>>>> ", data);
-//     console.log(" >>>>> ", channels[channel] && channels[channel][key]);
+    var defer = defer();
     
-    touchChannel(channel);
+    writeChannel(channel, key, data, true).then(function (err) {
+        defer.resolve(err);
+    });
     
-    var pushed = ( channels[channel][key] || []);
-    pushed.push(data);
-    return jazzbaseSet(channel, key, pushed);
+    return defer;
+}
+
+function defer() {
+    return {
+        then: function (callback) {
+            this.resolve = callback;
+        }
+    };
 }
 
 function jazzbase(channel) {
-    readStores();
-    touchChannel(channel);
-    
     return {
         get: function (key) {
-            return jazzbaseGet(channel, key);
+            var defer = defer();
+            
+            jazzbaseGet(channel, key).then(function (data) {
+                defer.resolve(data);
+            });
+            
+            return defer;
         },
         set: function (key, data) {
-            return jazzbaseSet(channel, key, data);
+            var defer = defer();
+            
+            jazzbaseSet(channel, key, data).then(function (err) {
+                defer.resolve(err);
+            });
+            
+            return defer;
         },
         push: function (key, data) {
-            return jazzbasePush(channel, key, data);
+            var defer = defer();
+            
+            jazzbasePush(channel, key, data).then(function (err) {
+                defer.resolve(err);
+            });
+            
+            return defer;
         }
     };
 }
